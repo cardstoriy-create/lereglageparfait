@@ -1,0 +1,16 @@
+baseURL = "https://lereglageparfait.com/"
+languageCode = "fr-fr"
+title = "Le Réglage Parfait - Guides Optiques et Photo Pro"
+theme = "ananke"
+disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
+
+[params]
+  showHeader = true
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
