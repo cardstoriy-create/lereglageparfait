@@ -1,7 +1,7 @@
 ---
 title: "Le Guide Ultime : Filtres ND Variables et CPL Pro pour Photo et Vidéo"
 date: 2025-12-12T15:00:00+01:00
-draft: true
+draft: false
 description: "Comparatif technique et avis pour choisir les meilleurs filtres ND Variables et CPL, optimisés pour les objectifs pro et vidéo."
 keywords: ["filtre ND variable", "filtre CPL", "comparatif filtres photo", "meilleur filtre 82mm"]
 ---
