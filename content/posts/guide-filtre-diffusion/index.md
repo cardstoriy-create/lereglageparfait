@@ -1,36 +1,20 @@
 ---
-
 title: "Filtres de Diffusion (Black Mist) : Le Secret du 'Ciné Look' en Photo et Vidéo"
-
 date: 2025-12-14T09:00:00+01:00
-
 draft: false
-
 description: "Le piqué de votre appareil est trop clinique ? Découvrez comment les filtres de diffusion (Black Mist) recréent la douceur du cinéma argentique, lissent la peau et subliment les lumières."
-
-tags: \["Black Mist", "Cinematography", "Portrait", "Tiffen", "K\&F Concept"]
-
-categories: \["Matériel Pro", "Techniques"]
-
-featured\_image: "/posts/guide-filtre-diffusion/diffusion-mist-couverture.webp"
-
+tags: ["Black Mist", "Cinematography", "Portrait", "Tiffen", "K&F Concept"]
+categories: ["Matériel Pro", "Techniques"]
+featured_image: "diffusion-mist-couverture.webp" # CORRECTION APPLIQUÉE
 images:
-
-&nbsp; - "diffusion-mist-couverture.webp"
-
+  - "diffusion-mist-couverture.webp"
 ---
 
+## 🎥 Introduction : Le Problème de la "Perfection" Numérique
 
+Avez-vous déjà trouvé que vos images, bien que techniquement parfaites, manquaient d'âme ? C'est le paradoxe de la photographie et de la vidéo modernes. Les capteurs 4K/8K et les objectifs actuels sont devenus **trop cliniques**. Ils capturent chaque pore de la peau, chaque défaut, avec une netteté chirurgicale qui peut rendre l'image dure et "vidéo".
 
-\## 🎥 Introduction : Le Problème de la "Perfection" Numérique
-
-
-
-Avez-vous déjà trouvé que vos images, bien que techniquement parfaites, manquaient d'âme ? C'est le paradoxe de la photographie et de la vidéo modernes. Les capteurs 4K/8K et les objectifs actuels sont devenus \*\*trop cliniques\*\*. Ils capturent chaque pore de la peau, chaque défaut, avec une netteté chirurgicale qui peut rendre l'image dure et "vidéo".
-
-
-
-La solution utilisée par les directeurs de la photographie à Hollywood n'est pas (seulement) l'étalonnage couleur, mais un outil optique physique : \*\*le filtre de diffusion\*\*, souvent appelé \*\*"Black Mist"\*\* ou "Pro Mist". Ce guide technique vous explique comment cet accessoire peut transformer instantanément votre rendu numérique en une image organique, digne du cinéma argentique.
+La solution utilisée par les directeurs de la photographie à Hollywood n'est pas (seulement) l'étalonnage couleur, mais un outil optique physique : **le filtre de diffusion**, souvent appelé **"Black Mist"** ou "Pro Mist". Ce guide technique vous explique comment cet accessoire peut transformer instantanément votre rendu numérique en une image organique, digne du cinéma argentique.
 
 
 
