@@ -1,17 +1,4 @@
-baseURL = "/"
+baseURL = "https://47e84b83.lereglageparfait.pages.dev/"
 languageCode = "fr-fr"
-title = "Le Réglage Parfait - Guides Optiques et Photo Pro"
-theme = "Ananke"
-disableKinds = ["taxonomy", "term"]
-enableRobotsTXT = true
-
-[params]
-  showHeader = true
-
-[pagination]
-  pagerSize = 10
-
-[taxonomies]
-  category = 'categories'
-  tag = 'tags'
-# Ceci est un commentaire pour forcer la reconstruction du build Cloudflare
+title = "Le Réglage Parfait"
+theme = "ananke"
