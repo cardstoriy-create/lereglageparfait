@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "fr-fr"
 title = "Le Réglage Parfait - Guides Optiques et Photo Pro"
-theme = "ananke"
+theme = "Ananke"
 disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
 
