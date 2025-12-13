@@ -1,4 +1,4 @@
-baseURL = "https://lereglageparfait.com/"
+baseURL = "/"
 languageCode = "fr-fr"
 title = "Le Réglage Parfait - Guides Optiques et Photo Pro"
 theme = "ananke"
