@@ -1,4 +1,19 @@
-baseURL = "https://47e84b83.lereglageparfait.pages.dev/"
+baseURL = "/"
 languageCode = "fr-fr"
 title = "Le Réglage Parfait"
 theme = "ananke"
+disableKinds = ["taxonomy", "term"] # J'ajoute ces lignes pour éviter les avertissements précédents
+enableRobotsTXT = true
+[menu]
+  [[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Guides (Articles)"
+    url = "/posts/" 
+    weight = 20
+  [[menu.main]]
+    name = "À Propos"
+    url = "/about/" 
+    weight = 30
