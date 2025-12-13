@@ -2,8 +2,8 @@ baseURL = "/"
 languageCode = "fr-fr"
 title = "Le Réglage Parfait"
 theme = "ananke"
-disableKinds = ["taxonomy", "term"] # J'ajoute ces lignes pour éviter les avertissements précédents
-enableRobotsTXT = true
+# disableKinds = ["taxonomy", "term"] 
+enableRobotsTXT = true # Gardons celle-ci, elle est utile
 [menu]
   [[menu.main]]
     name = "Accueil"
