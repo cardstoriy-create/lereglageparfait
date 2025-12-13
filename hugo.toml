@@ -14,3 +14,4 @@ enableRobotsTXT = true
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+# Ceci est un commentaire pour forcer la reconstruction du build Cloudflare
