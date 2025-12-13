@@ -2,18 +2,28 @@ baseURL = "/"
 languageCode = "fr-fr"
 title = "Le Réglage Parfait"
 theme = "ananke"
-# disableKinds = ["taxonomy", "term"] 
-enableRobotsTXT = true # Gardons celle-ci, elle est utile
+
+# Options Globales de Hugo
+enableRobotsTXT = true
+# Permet de générer des listes pour les tags/catégories si vous décidez de les utiliser plus tard
+disableKinds = ["taxonomy", "term"] 
+
+# Configuration du Menu de Navigation Principal
 [menu]
   [[menu.main]]
+    identifier = "home"
     name = "Accueil"
     url = "/"
     weight = 10
+
   [[menu.main]]
+    identifier = "articles"
     name = "Guides (Articles)"
-    url = "/posts/" 
+    url = "/posts/"
     weight = 20
+
   [[menu.main]]
+    identifier = "about"
     name = "À Propos"
-    url = "/about/" 
+    url = "/about/"
     weight = 30
