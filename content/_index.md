@@ -5,6 +5,3 @@ description: "Devenez un expert en photographie sans vous perdre dans la techniq
 # Le paramètre crucial pour Ananke
 hero_image: "/images/hero-home.webp"
 ---
-# Bienvenue sur Le Réglage Parfait
-
-Découvrez nos guides optiques professionnels pour une netteté maximale.
