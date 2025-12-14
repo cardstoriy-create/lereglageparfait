@@ -35,15 +35,23 @@ Voici les modèles que nous utilisons sur le terrain et qui offrent la meilleure
 
 ### Le Meilleur Rapport Qualité/Prix : SanDisk Extreme Pro (UHS-I)
 C'est la carte "tout-terrain" par excellence. Si vous ne faites pas de vidéo 4K ultra-exigeante ni de rafale sportive, c'est celle qu'il vous faut. Elle est robuste et abordable.
+
 * **Idéal pour :** Photographie de voyage, paysage, portrait.
+
+<a href="https://www.amazon.fr/SanDisk-Extreme-Vitesse-Lecture-UHS-I/dp/B09X7DGV1F" class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue" target="_blank" rel="nofollow">👉 Voir le prix sur Amazon</a>
 
 ### La Performance Pure : Sony Tough G (UHS-II V90)
 C'est actuellement l'une des cartes les plus solides et rapides du marché. Sa construction monobloc la rend quasiment incassable (d'où le nom "Tough").
+
 * **Idéal pour :** Mariage, Sport, Vidéo professionnelle.
 * **Note :** Elle est chère, mais vos données n'ont pas de prix.
 
+<a href="https://www.amazon.fr/Sony-SF-G64T-Performance-R%C3%A9sistance-Logiciel/dp/B07H9DVLBB" class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue" target="_blank" rel="nofollow">👉 Voir le prix sur Amazon</a>
+
 ### L'Alternative Professionnelle : Lexar Professional 2000x
 Une concurrente directe de la Sony, souvent un peu moins chère, offrant des vitesses de lecture impressionnantes pour décharger vos photos rapidement sur l'ordinateur.
+
+<a href="https://www.amazon.fr/Lexar-Professional-2000x-Carte-LSD2000128G-BNNNG/dp/B07NPL3Q6N" class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue" target="_blank" rel="nofollow">👉 Voir le prix sur Amazon</a>
 
 ---
 
