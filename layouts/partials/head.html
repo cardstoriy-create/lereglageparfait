@@ -1,0 +1,5 @@
+{{ if hugo.IsProduction }}
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css">
+{{ end }}
+
+{{ partial "head-original.html" . }}
