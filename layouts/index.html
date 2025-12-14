@@ -1,0 +1,28 @@
+{{ define "main" }}
+  {{ with site.Params.hero_image }}
+    <div class="hero-home" style="
+      background-image: url('{{ . | relURL }}');
+      background-size: cover;
+      background-position: center;
+      height: 60vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-align: center;
+      margin-bottom: 2.5rem;
+      box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.3);
+    ">
+      <div class="ph3 ph5-l mw7">
+        <h1 class="f1 fw6">{{ site.Title }}</h1>
+        {{ with site.Params.description }}
+          <p class="f3 mt3">{{ . }}</p>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+
+  <article class="prose ph3 ph5-l">
+    {{ .Content }}
+  </article>
+{{ end }}

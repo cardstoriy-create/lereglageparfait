@@ -32,7 +32,4 @@ copyright = "© 2025 Le Réglage Parfait. Tous droits réservés."
 
 # Paramètres du thème (Ananke)
 [params]
-  # Chemin absolu du fichier statique
-  hero_image = "/images/hero-home.webp"
-  # Variable spécifique à Ananke pour la page d'accueil
-  ananke_home_image = "/images/hero-home.webp"
+  hero_image = "/images/header.webp"
