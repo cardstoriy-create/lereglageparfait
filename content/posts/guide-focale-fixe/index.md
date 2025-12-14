@@ -1,17 +1,13 @@
 ---
 
+---
 title: "Objectifs à Focale Fixe (Primes) : Le Guide pour une Qualité Optique Maximale"
-
-date: 2025-12-21T09:30:00+01:00
-
+# MODIFIEZ CETTE LIGNE pour une date actuelle ou passée
+date: 2025-12-14T09:30:00+01:00 
 draft: false
-
 description: "Découvrez pourquoi les objectifs à focale fixe offrent une netteté et une luminosité imbattables pour le portrait, la photo de rue et les situations de basse lumière."
-
-featured\_image: "focale-fixe-cover.webp"
-
-tags: \["Matériel", "Objectifs", "Focale Fixe", "Portrait", "Bokeh"]
-
+featured_image: "focale-fixe-cover.webp"
+tags: ["Matériel", "Objectifs", "Focale Fixe", "Portrait", "Bokeh"]
 ---
 
 
