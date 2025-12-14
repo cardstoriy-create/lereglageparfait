@@ -8,7 +8,7 @@ draft: false
 
 description: "Ne perdez plus jamais une photo à cause d'une carte lente. Tout comprendre sur les normes SD, UHS-II, CFexpress et nos recommandations d'achat."
 
-featured\_image: "" 
+featured\_image: "cartes-memoire.webp" 
 
 tags: \["Matériel", "Stockage", "Guide Technique"]
 
