@@ -35,18 +35,19 @@ a, .link {
  * 2. Correction Globale du Header Ananke (Suppression du Noir et Réduction)
  */
 
-/* Réduit la hauteur du Hero Header sur TOUTES les pages */
-.header .mw7.center.tc-l.pv4 {
-    padding-top: 1rem !important;
-    padding-bottom: 1rem !important; 
-}
+/* ... Le code précédent de réduction du padding ... */
 
-/* Supprime la couleur de fond noire du header sur TOUTES les pages */
-.header, .bg-black {
+/* CETTE RÈGLE EST LA CLÉ : Elle cible la classe 'bg-black' que Ananke utilise pour son fond */
+.bg-black {
     background-color: transparent !important;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); 
 }
 
+/* Rend le texte foncé (au lieu de blanc) pour qu'il soit lisible sur le fond clair du site */
+.header .white, .header .white a {
+    color: #333 !important; 
+}
+
+/* ... Le reste des règles ... */
 /* Rend le texte foncé (au lieu de blanc) pour qu'il soit lisible sur le fond clair du site */
 .header .white, .header .white a {
     color: #333 !important; 
