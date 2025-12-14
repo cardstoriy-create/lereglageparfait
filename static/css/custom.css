@@ -53,3 +53,13 @@ a, .link {
 .header, .bg-left, .bg-center, .cover, .bg-img, div[style*="background-image"] {
     background-image: none !important;
 }
+
+/*
+ * 4. Amélioration de la Lecture (Justification du Texte)
+ */
+.post-content p, 
+.post-content ul, 
+.post-content ol {
+    text-align: justify;
+    hyphens: auto; /* Améliore la coupure des mots pour un meilleur rendu justifié */
+}
