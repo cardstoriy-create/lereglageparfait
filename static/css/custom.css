@@ -1,31 +1,75 @@
 /*
- * Personnalisation Globale du Header Ananke (Suppression du Noir et Réduction de la Hauteur)
+ * 1. Amélioration de la Typographie et des Couleurs (UX Enhancement)
  */
 
-/* Réduit la hauteur du Hero Header sur TOUTES les pages (cible le conteneur interne) */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif !important;
+    color: #333; /* Couleur de texte plus agréable que le noir pur */
+}
+
+/* Couleur d'Accentuation Primaire (Bleu Technique : #0077B6) */
+a, .link {
+    color: #0077B6 !important;
+}
+
+/* Boutons */
+.f6.grow.no-underline.br-pill.ph3.pv2.mb2.dib.white {
+    background-color: #0077B6 !important;
+}
+
+/* Supprimer la couleur de fond des boîtes d'articles */
+.bg-white-90 {
+    background-color: #fff !important; 
+    border: 1px solid #eee;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.03);
+}
+
+/* Amélioration de l'entête de la barre de navigation */
+.header-inner {
+    border-bottom: 1px solid #f0f0f0; 
+}
+
+/*
+ * 2. Correction Globale du Header Ananke (Suppression du Noir et Réduction)
+ */
+
+/* Réduit la hauteur du Hero Header sur TOUTES les pages */
 .header .mw7.center.tc-l.pv4 {
-    padding-top: 1rem !important;    /* Très petit padding du haut */
-    padding-bottom: 1rem !important; /* Très petit padding du bas */
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important; 
 }
 
 /* Supprime la couleur de fond noire du header sur TOUTES les pages */
-.header {
+.header, .bg-black {
     background-color: transparent !important;
-    /* Ajout d'une ombre discrète pour séparer le menu du contenu */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); 
 }
 
 /* Rend le texte foncé (au lieu de blanc) pour qu'il soit lisible sur le fond clair du site */
 .header .white, .header .white a {
-    color: #333 !important; /* Gris très foncé / Noir */
+    color: #333 !important; 
 }
 
-/* Optionnel : Ajuste la taille de police si elle est trop grande suite à la réduction de hauteur */
+/* Ajuste la taille de police */
 .header .f-headline-l {
     font-size: 2.25rem !important; 
 }
 
-/* Corrige l'affichage de l'image de la page d'accueil (si elle était encore présente sous forme de Markdown) */
+/*
+ * 3. Forcer l'Image en Arrière-Plan sur la Page d'Accueil (Final Fix)
+ */
+
+.home .header .bg-img {
+    /* Correction pour cibler le conteneur de l'image (si existant) ou le header */
+    background-image: url("/images/header.webp") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    min-height: 400px !important; /* Ajout d'une hauteur minimale */
+}
+
+/* Cache l'image Markdown qui est affichée en double (comme on le voit sur votre capture) */
 .home img[alt="Image de matériel photo"] {
-    display: none;
+    display: none !important;
 }
