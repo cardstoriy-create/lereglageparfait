@@ -56,14 +56,12 @@ a, .link {
 
 /*
  * 4. Amélioration de la Lecture (Justification du Texte)
- * Utilisation d'un sélecteur plus large pour cibler le corps du contenu des pages.
  */
-.content p, 
-.content ul, 
-.content ol,
-.nested-copy-line-height p,
-.nested-copy-line-height ul,
-.nested-copy-line-height ol {
+.prose p,
+.prose ul,
+.prose ol {
     text-align: justify !important;
-    hyphens: auto;
+    hyphens: auto !important;
+    -webkit-hyphens: auto; /* Pour Safari */
+    -ms-hyphens: auto;     /* Pour IE/Edge */
 }
