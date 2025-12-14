@@ -5,6 +5,4 @@ description: "Devenez un expert en photographie sans vous perdre dans la techniq
 hero_image: ""
 ---
 
-![Image de matériel photo](/images/header.webp)
-
 Votre guide pour des photos et réglages parfaits.
