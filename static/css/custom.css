@@ -1,0 +1,31 @@
+/*
+ * Personnalisation Globale du Header Ananke (Suppression du Noir et Réduction de la Hauteur)
+ */
+
+/* Réduit la hauteur du Hero Header sur TOUTES les pages (cible le conteneur interne) */
+.header .mw7.center.tc-l.pv4 {
+    padding-top: 1rem !important;    /* Très petit padding du haut */
+    padding-bottom: 1rem !important; /* Très petit padding du bas */
+}
+
+/* Supprime la couleur de fond noire du header sur TOUTES les pages */
+.header {
+    background-color: transparent !important;
+    /* Ajout d'une ombre discrète pour séparer le menu du contenu */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); 
+}
+
+/* Rend le texte foncé (au lieu de blanc) pour qu'il soit lisible sur le fond clair du site */
+.header .white, .header .white a {
+    color: #333 !important; /* Gris très foncé / Noir */
+}
+
+/* Optionnel : Ajuste la taille de police si elle est trop grande suite à la réduction de hauteur */
+.header .f-headline-l {
+    font-size: 2.25rem !important; 
+}
+
+/* Corrige l'affichage de l'image de la page d'accueil (si elle était encore présente sous forme de Markdown) */
+.home img[alt="Image de matériel photo"] {
+    display: none;
+}
