@@ -38,29 +38,17 @@ Il existe des objectifs à focale fixe abordables et d'autres très haut de gamm
 ### Le Classique Indémodable : 50mm f/1.8
 Quel que soit votre fabricant (Canon, Sony, Nikon, Fuji), le 50mm f/1.8 est souvent surnommé le *Nifty Fifty*. Il est peu coûteux et offre un bokeh incroyable pour son prix. C'est l'objectif parfait pour débuter avec les focales fixes.
 
-> **[🛒 Voir le prix sur Amazon (Sony FE 50mm f/1.8)](https://amzn.to/4pzjniV)** ```
+> [🛒 Voir le prix sur Amazon (Sony FE 50mm f/1.8)](https://amzn.to/4pzjniV)
 
-### 🚀 Publication Finale de la Correction
-
-Une fois que vous avez appliqué les `>` et inséré ce lien (et les deux autres) dans le fichier, et que vous avez sauvegardé :
-
-```bash
-# 1. Ajoute le fichier modifié (structure et liens finaux)
-git add content/posts/guide-focale-fixe/index.md
-
-# 2. Commite la modification
-git commit -m "Fix: Correction structurelle (blockquotes) et mise à jour finale des liens d'affiliation Focale Fixe."
-
-# 3. Envoie vers GitHub
-git push origin main### Le Roi du Portrait : 85mm f/1.4 (ou f/1.8)
+### Le Roi du Portrait : 85mm f/1.4 (ou f/1.8)
 Pour le portrait où l'isolation du sujet est cruciale, le 85mm est la référence. Sa longueur focale aplatit légèrement le visage, rendant les traits plus flatteurs.
 
-> **[🛒 Voir le prix sur Amazon (Sigma 85mm f/1.4 DG DN Art)](VOTRE_LIEN_D'AFFILIATION_SIGMA)**
+> [🛒 Voir le prix sur Amazon (Sigma 85mm f/1.4 DG DN Art)](https://amzn.to/4jgtbMJ)
 
 ### Le Compagnon de Rue : 35mm f/2
 Le 35mm offre un angle de vue large sans distorsion excessive, parfait pour intégrer le sujet dans son environnement. Le f/2 est souvent plus compact et moins cher que le f/1.4.
 
-> **[🛒 Voir le prix sur Amazon (Tamron 35mm f/2.8 Di III OSD)](VOTRE_LIEN_D'AFFILIATION_TAMRON)**
+> [🛒 Voir le prix sur Amazon (Tamron 35mm f/2.8 Di III OSD)](https://amzn.to/4oUvYMC)
 
 ---
 
