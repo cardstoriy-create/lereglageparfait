@@ -1,6 +1,4 @@
 ---
-
----
 title: "Objectifs à Focale Fixe (Primes) : Le Guide pour une Qualité Optique Maximale"
 # MODIFIEZ CETTE LIGNE pour une date actuelle ou passée
 date: 2025-12-14T09:30:00+01:00 
