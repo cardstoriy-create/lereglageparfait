@@ -4,3 +4,5 @@ date: 2025-01-01T00:00:00+01:00
 description: "Devenez un expert en photographie sans vous perdre dans la technique. Guides, tests et conseils pour le photographe passionné."
 hero_image: "/images/header.webp"
 ---
+
+![Image d'en-tête de la page d'accueil](/images/header.webp)
