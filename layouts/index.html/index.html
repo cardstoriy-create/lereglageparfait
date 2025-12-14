@@ -1,0 +1,21 @@
+{{ define "main" }}
+  {{ partial "site-header.html" . }}
+  <div class="mw7 center tc-l pv4 ph3 ph4-ns">
+    <h1 class="f2 f-headline-l fw5 lh-title white mb3">
+      {{ .Title }}
+    </h1>
+    <div class="f4 fw1 lh-copy white mb3">
+      {{ .Description }}
+    </div>
+    <div class="f6 ttu tracked">
+      {{ partial "tags.html" . }}
+    </div>
+  </div>
+
+  <main class="cf pa3 pa4-ns">
+    <div class="mw7 center">
+      {{ .Content }}
+    </div>
+    {{ partial "latest-posts.html" . }}
+  </main>
+{{ end }}
