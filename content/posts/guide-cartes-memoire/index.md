@@ -38,11 +38,11 @@ C'est la carte "tout-terrain" par excellence. Si vous ne faites pas de vidéo 4K
 
 * **Idéal pour :** Photographie de voyage, paysage, portrait.
 
-**Option 32 Go :**
-[Voir le prix sur Amazon](https://www.amazon.fr/SanDisk-Extreme-Vitesse-Lecture-UHS-I/dp/B09X7DGV1F?th=1)
+**Option 64 Go :**
+[Voir le prix sur Amazon](https://amzn.to/44XPz7m)
 
 **Option 128 Go :**
-[Voir le prix sur Amazon](https://www.amazon.fr/SanDisk-Extreme-Vitesse-Lecture-UHS-I/dp/B09X7C6LMP?th=1)
+[Voir le prix sur Amazon](https://amzn.to/4agqOa8)
 
 ---
 
@@ -52,14 +52,14 @@ C'est actuellement l'une des cartes les plus solides et rapides du marché. Sa c
 * **Idéal pour :** Mariage, Sport, Vidéo 4K/8K haute qualité.
 * **Note :** Elle est chère, mais vos données n'ont pas de prix.
 
-[Voir le prix sur Amazon (64 Go, le meilleur compromis pro)](https://www.amazon.fr/Sony-SF-G64T-Performance-R%C3%A9sistance-Logiciel/dp/B07H9DVLBB)
+[Voir le prix sur Amazon (64 Go, le meilleur compromis pro)](https://amzn.to/3KRTJH1)
 
 ---
 
 ### L'Alternative Professionnelle : Lexar Professional 2000x (UHS-II V90)
 Une concurrente directe de la Sony, offrant des vitesses de lecture impressionnantes pour décharger vos photos rapidement sur l'ordinateur. Souvent disponible à un meilleur prix que la Sony.
 
-[Voir le prix sur Amazon (128 Go)](https://www.amazon.fr/Lexar-Professional-2000x-Carte-LSD2000128G-BNNNG/dp/B07NPL3Q6N)
+[Voir le prix sur Amazon (128 Go)](https://amzn.to/4pDToHp)
 
 ---
 
