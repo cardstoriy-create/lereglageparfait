@@ -13,7 +13,7 @@ Dans ce guide, nous allons déchiffrer le jargon technique (UHS-I, UHS-II, V90, 
 
 ## 1. Décrypter les Symboles : Ce qui compte vraiment
 
-Si vous regardez une carte SD moderne, vous verrez une douzaine de symboles. Voici les seuls qui comptent pour la performance :
+Si vous regardez une carte SD moderne, vous verrez une douzaine de symboles. Voici les seuls qui comptent pour la performance : 
 
 ### La Classe de Vitesse Vidéo (V-Class)
 C'est l'indicateur le plus fiable aujourd'hui pour la vidéo et la photo haute résolution.
@@ -33,29 +33,41 @@ C'est une différence physique.
 
 Voici les modèles que nous utilisons sur le terrain et qui offrent la meilleure fiabilité.
 
-### Le Meilleur Rapport Qualité/Prix : SanDisk Extreme Pro (UHS-I)
+### Le Meilleur Rapport Qualité/Prix : SanDisk Extreme Pro (UHS-I V30)
 C'est la carte "tout-terrain" par excellence. Si vous ne faites pas de vidéo 4K ultra-exigeante ni de rafale sportive, c'est celle qu'il vous faut. Elle est robuste et abordable.
 
 * **Idéal pour :** Photographie de voyage, paysage, portrait.
 
-[Voir le prix sur Amazon](https://www.amazon.fr/SanDisk-Extreme-Vitesse-Lecture-UHS-I/dp/B09X7DGV1F)
+**Option 32 Go :**
+[Voir le prix sur Amazon](https://www.amazon.fr/SanDisk-Extreme-Vitesse-Lecture-UHS-I/dp/B09X7DGV1F?th=1)
+
+**Option 128 Go :**
+[Voir le prix sur Amazon](https://www.amazon.fr/SanDisk-Extreme-Vitesse-Lecture-UHS-I/dp/B09X7C6LMP?th=1)
+
+---
 
 ### La Performance Pure : Sony Tough G (UHS-II V90)
-C'est actuellement l'une des cartes les plus solides et rapides du marché. Sa construction monobloc la rend quasiment incassable (d'où le nom "Tough").
+C'est actuellement l'une des cartes les plus solides et rapides du marché. Sa construction monobloc la rend quasiment incassable (d'où le nom "Tough"). Elle est le meilleur choix pour les professionnels.
 
-* **Idéal pour :** Mariage, Sport, Vidéo professionnelle.
+* **Idéal pour :** Mariage, Sport, Vidéo 4K/8K haute qualité.
 * **Note :** Elle est chère, mais vos données n'ont pas de prix.
 
-[Voir le prix sur Amazon](https://www.amazon.fr/Sony-SF-G64T-Performance-R%C3%A9sistance-Logiciel/dp/B07H9DVLBB)
+[Voir le prix sur Amazon (64 Go, le meilleur compromis pro)](https://www.amazon.fr/Sony-SF-G64T-Performance-R%C3%A9sistance-Logiciel/dp/B07H9DVLBB)
 
-### L'Alternative Professionnelle : Lexar Professional 2000x
-Une concurrente directe de la Sony, souvent un peu moins chère, offrant des vitesses de lecture impressionnantes pour décharger vos photos rapidement sur l'ordinateur.
+---
 
-[Voir le prix sur Amazon](https://www.amazon.fr/Lexar-Professional-2000x-Carte-LSD2000128G-BNNNG/dp/B07NPL3Q6N)
+### L'Alternative Professionnelle : Lexar Professional 2000x (UHS-II V90)
+Une concurrente directe de la Sony, offrant des vitesses de lecture impressionnantes pour décharger vos photos rapidement sur l'ordinateur. Souvent disponible à un meilleur prix que la Sony.
+
+[Voir le prix sur Amazon (128 Go)](https://www.amazon.fr/Lexar-Professional-2000x-Carte-LSD2000128G-BNNNG/dp/B07NPL3Q6N)
 
 ---
 
 ## 3. CFexpress : Le Futur est déjà là
 
 Si vous possédez un boîtier très récent (Nikon Z8, Canon R5, Sony A1), vous avez peut-être un port **CFexpress Type B** ou **Type A**.
-Ces cartes ne sont pas des cartes SD. Elles utilisent une technologie proche des disques SSD d'ordinateurs. Elles sont beaucoup plus rapides (jusqu'à 1700 Mo/s !), mais aussi plus chères. Vérifiez bien votre manuel
+Ces cartes ne sont pas des cartes SD. Elles utilisent une technologie proche des disques SSD d'ordinateurs. Elles sont beaucoup plus rapides (jusqu'à 1700 Mo/s !), mais aussi plus chères. Vérifiez bien votre manuel avant d'acheter. 
+
+## Conclusion
+
+Ne faites pas d'économies de bouts de chandelle sur vos cartes mémoires. Une carte **V60 UHS-II** est aujourd'hui le meilleur investissement pour être tranquille plusieurs années sans brider votre appareil photo.
