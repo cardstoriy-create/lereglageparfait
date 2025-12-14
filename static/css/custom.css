@@ -14,7 +14,7 @@ a, .link {
     color: #0077B6 !important;
 }
 
-/* Boutons */
+/* Boutons (pour vos futurs liens Amazon) */
 .f6.grow.no-underline.br-pill.ph3.pv2.mb2.dib.white {
     background-color: #0077B6 !important;
 }
@@ -35,11 +35,17 @@ a, .link {
  * 2. Correction Globale du Header Ananke (Suppression du Noir et Réduction)
  */
 
-/* ... Le code précédent de réduction du padding ... */
+/* Réduit la hauteur du Hero Header sur TOUTES les pages */
+.header .mw7.center.tc-l.pv4 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important; 
+}
 
-/* CETTE RÈGLE EST LA CLÉ : Elle cible la classe 'bg-black' que Ananke utilise pour son fond */
-.bg-black {
+/* Supprime la couleur de fond noire du header sur TOUTES les pages */
+/* Cible agressivement toutes les classes de fond noir d'Ananke */
+.header, .bg-black {
     background-color: transparent !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); 
 }
 
 /* Rend le texte foncé (au lieu de blanc) pour qu'il soit lisible sur le fond clair du site */
@@ -47,30 +53,7 @@ a, .link {
     color: #333 !important; 
 }
 
-/* ... Le reste des règles ... */
-/* Rend le texte foncé (au lieu de blanc) pour qu'il soit lisible sur le fond clair du site */
-.header .white, .header .white a {
-    color: #333 !important; 
-}
-
-/* Ajuste la taille de police */
+/* Ajuste la taille de police du titre */
 .header .f-headline-l {
     font-size: 2.25rem !important; 
-}
-
-/*
- * 3. Forcer l'Image en Arrière-Plan sur la Page d'Accueil (Final Fix)
- */
-
-.home .header .bg-img {
-    /* Correction pour cibler le conteneur de l'image (si existant) ou le header */
-    background-image: url("/images/header.webp") !important;
-    background-size: cover !important;
-    background-position: center !important;
-    min-height: 400px !important; /* Ajout d'une hauteur minimale */
-}
-
-/* Cache l'image Markdown qui est affichée en double (comme on le voit sur votre capture) */
-.home img[alt="Image de matériel photo"] {
-    display: none !important;
 }
