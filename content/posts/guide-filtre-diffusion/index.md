@@ -72,7 +72,7 @@ Pour 90% des créateurs, c'est le filtre que nous recommandons. K&F Concept a r�
 
 > **💡 L'Avis du Pro :** Si vous débutez avec la diffusion, le **Kit K&F Concept 1/4** est l'investissement le plus sûr. Il offre l'effet "cinéma" sans ruiner votre budget optique.
 >
-> *[Insérez ici votre lien Affiliation Amazon vers le filtre K&F Concept Nano-X]*
+> **[🛒 Voir le prix du K&F Concept Black Mist sur Amazon](https://amzn.to/3KzdpQ6)**
 
 ### 2. Tiffen Black Pro-Mist (La Référence Historique)
 
@@ -80,8 +80,7 @@ Si vous voulez *exactement* le look des films que vous voyez au cinéma, Tiffen 
 
 > **💡 Pour les Puristes :** Le Tiffen reste indétrônable pour les productions à gros budget qui cherchent une continuité visuelle avec les caméras de cinéma traditionnelles.
 >
-> *[Insérez ici votre lien Affiliation Amazon vers le filtre Tiffen Black Pro-Mist]*
-
+> **[🛒 Voir le prix du Tiffen Black Pro-Mist sur Amazon](https://amzn.to/3Ktpw16)**
 ### 3. Moment CineBloom (L'Alternative "Dreamy")
 
 Contrairement aux "Black" Mist, le CineBloom utilise des particules blanches. Cela crée une diffusion beaucoup plus large et laiteuse, très prisée pour les clips musicaux et les styles artistiques "vaporeux". C'est un choix esthétique fort, moins polyvalent que le Black Mist, mais magnifique pour des projets créatifs spécifiques.
