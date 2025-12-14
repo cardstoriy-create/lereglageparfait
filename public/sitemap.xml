@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/guide-filtres-nd-cpl/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2025-12-21T09:30:00+01:00</lastmod>
+  </url><url>
+    <loc>/posts/guide-filtres-nd-cpl/</loc>
     <lastmod>2025-12-14T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-12-14T12:00:00+01:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2025-12-13T19:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/guide-trepied/</loc>
+    <loc>/posts/guide-trepied/</loc>
     <lastmod>2025-12-13T17:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
-    <lastmod>2025-12-13T16:00:00+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/guide-filtre-diffusion/</loc>
+    <loc>/posts/guide-filtre-diffusion/</loc>
     <lastmod>2025-12-13T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/guide-cartes-memoire/</loc>
+    <loc>/posts/guide-cartes-memoire/</loc>
     <lastmod>2025-01-14T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-01-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/guide-objectif-zoom/</loc>
+    <loc>/posts/guide-objectif-zoom/</loc>
     <lastmod>2023-11-20T10:15:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/guide-filtre/</loc>
+    <loc>/posts/guide-filtre/</loc>
     <lastmod>2023-11-20T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/guide-filtres-photo/</loc>
+    <loc>/post/guide-filtres-photo/</loc>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>/post/</loc>
   </url>
 </urlset>
