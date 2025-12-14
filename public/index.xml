@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Le Réglage Parfait</title>
+    <title>Bienvenue sur Le Réglage Parfait on Le Réglage Parfait</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on Le Réglage Parfait</description>
+    <description>Recent content in Bienvenue sur Le Réglage Parfait on Le Réglage Parfait</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <copyright>© 2025 Le Réglage Parfait. Tous droits réservés.</copyright>
-    <lastBuildDate>Sat, 13 Dec 2025 17:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 12:00:00 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filtres ND et CPL : Le Guide Complet pour Maîtriser la Longue Exposition et les Reflets</title>
+      <link>//localhost:1313/posts/guide-filtres-nd-cpl/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-filtres-nd-cpl/</guid>
+      <description>&lt;h2 id=&#34;-introduction--le-secret-des-images-de-paysage-époustouflantes&#34;&gt;🏔️ Introduction : Le Secret des Images de Paysage Époustouflantes&lt;/h2&gt;&#xA;&lt;p&gt;Vous admirez ces photos de cascades où l&amp;rsquo;eau est d&amp;rsquo;une douceur laiteuse ? Ou ces clichés où le ciel est d&amp;rsquo;un bleu profond et les nuages se découpent avec une clarté incroyable ? Le secret ne réside pas uniquement dans l&amp;rsquo;appareil photo, mais dans deux outils optiques souvent sous-estimés : &lt;strong&gt;les filtres à densité neutre (ND)&lt;/strong&gt; et &lt;strong&gt;les filtres polarisants (CPL)&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Guide du Trépied : Comment choisir, installer et stabiliser votre appareil</title>
       <link>//localhost:1313/posts/guide-trepied/</link>
@@ -29,6 +36,13 @@
       <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
       <guid>//localhost:1313/posts/guide-filtre-diffusion/</guid>
       <description>&lt;h2 id=&#34;-introduction--le-problème-de-la-perfection-numérique&#34;&gt;🎥 Introduction : Le Problème de la &amp;ldquo;Perfection&amp;rdquo; Numérique&lt;/h2&gt;&#xA;&lt;p&gt;Avez-vous déjà trouvé que vos images, bien que techniquement parfaites, manquaient d&amp;rsquo;âme ? C&amp;rsquo;est le paradoxe de la photographie et de la vidéo modernes. Les capteurs 4K/8K et les objectifs actuels sont devenus &lt;strong&gt;trop cliniques&lt;/strong&gt;. Ils capturent chaque pore de la peau, chaque défaut, avec une netteté chirurgicale qui peut rendre l&amp;rsquo;image dure et &amp;ldquo;vidéo&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;La solution utilisée par les directeurs de la photographie à Hollywood n&amp;rsquo;est pas (seulement) l&amp;rsquo;étalonnage couleur, mais un outil optique physique : &lt;strong&gt;le filtre de diffusion&lt;/strong&gt;, souvent appelé &lt;strong&gt;&amp;ldquo;Black Mist&amp;rdquo;&lt;/strong&gt; ou &amp;ldquo;Pro Mist&amp;rdquo;. Ce guide technique vous explique comment cet accessoire peut transformer instantanément votre rendu numérique en une image organique, digne du cinéma argentique.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Guide Ultime des Cartes Mémoire : Comprendre les Vitesses (V30, V60, V90) et Choisir la Bonne</title>
+      <link>//localhost:1313/posts/guide-cartes-memoire/</link>
+      <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-cartes-memoire/</guid>
+      <description>&lt;p&gt;Le choix d&amp;rsquo;une carte mémoire est souvent négligé, pourtant c&amp;rsquo;est l&amp;rsquo;un des composants les plus critiques de votre équipement. Avoir le meilleur appareil photo du monde ne sert à rien si votre carte mémoire ne peut pas suivre la cadence en rafale ou en vidéo 4K.&lt;/p&gt;&#xA;&lt;p&gt;Dans ce guide, nous allons déchiffrer le jargon technique (UHS-I, UHS-II, V90, CFexpress) et vous donner nos recommandations précises.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-décrypter-les-symboles--ce-qui-compte-vraiment&#34;&gt;1. Décrypter les Symboles : Ce qui compte vraiment&lt;/h2&gt;&#xA;&lt;p&gt;Si vous regardez une carte SD moderne, vous verrez une douzaine de symboles. Voici les seuls qui comptent pour la performance :&lt;/p&gt;</description>
     </item>
     <item>
       <title>Guide Objectif Zoom : Maîtriser les focales et maximiser la netteté</title>
