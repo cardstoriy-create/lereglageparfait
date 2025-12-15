@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Matériel Pro on Le Réglage Parfait</title>
+    <link>//localhost:1313/categories/mat%C3%A9riel-pro/</link>
+    <description>Recent content in Matériel Pro on Le Réglage Parfait</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 14 Dec 2025 12:00:00 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/mat%C3%A9riel-pro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filtres ND et CPL : Le Guide Complet pour Maîtriser la Longue Exposition et les Reflets</title>
+      <link>//localhost:1313/posts/guide-filtres-nd-cpl/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-filtres-nd-cpl/</guid>
+      <description>Les filtres à densité neutre (ND) et les filtres polarisants (CPL) sont essentiels pour le paysage. Découvrez comment figer le mouvement (eau, nuages) et éliminer les reflets pour des couleurs éclatantes.</description>
+    </item>
+    <item>
+      <title>Guide du Trépied : Comment choisir, installer et stabiliser votre appareil</title>
+      <link>//localhost:1313/posts/guide-trepied/</link>
+      <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-trepied/</guid>
+      <description>Le trépied est l&amp;#39;outil ultime de la netteté. Découvrez les critères essentiels (matériaux, tête, charge maximale) pour bien choisir le vôtre et les techniques de stabilisation de pro.</description>
+    </item>
+    <item>
+      <title>Filtres de Diffusion (Black Mist) : Le Secret du &#39;Ciné Look&#39; en Photo et Vidéo</title>
+      <link>//localhost:1313/posts/guide-filtre-diffusion/</link>
+      <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-filtre-diffusion/</guid>
+      <description>Le piqué de votre appareil est trop clinique ? Découvrez comment les filtres de diffusion (Black Mist) recréent la douceur du cinéma argentique, lissent la peau et subliment les lumières.</description>
+    </item>
+    <item>
+      <title>Guide Objectif Zoom : Maîtriser les focales et maximiser la netteté</title>
+      <link>//localhost:1313/posts/guide-objectif-zoom/</link>
+      <pubDate>Mon, 20 Nov 2023 10:15:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-objectif-zoom/</guid>
+      <description>Choisir un zoom et garantir une image parfaite : techniques de stabilisation, pièges à éviter et astuces pour tirer le meilleur de votre objectif à focale variable.</description>
+    </item>
+    <item>
+      <title>Le Guide Ultime : Filtres ND Variables et CPL Pro pour Photo et Vidéo</title>
+      <link>//localhost:1313/posts/guide-filtre/</link>
+      <pubDate>Mon, 20 Nov 2023 10:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-filtre/</guid>
+      <description>Maîtrisez la lumière comme un pro : guide complet sur le choix, l&amp;#39;utilisation et les pièges des filtres ND variables et polarisants circulaires (CPL) en photo et vidéo.</description>
+    </item>
+  </channel>
+</rss>

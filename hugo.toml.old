@@ -1,0 +1,35 @@
+baseURL = "/"
+languageCode = "fr-fr"
+title = "Le Réglage Parfait"
+theme = "ananke"
+
+# Options Globales de Hugo
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+copyright = "© 2025 Le Réglage Parfait. Tous droits réservés."
+
+# Configuration du Menu de Navigation Principal
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Accueil"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "articles"
+    name = "Guides (Articles)"
+    url = "/posts/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "about"
+    name = "À Propos"
+    url = "/about/"
+    weight = 30
+
+# ... (vos autres paramètres)
+
+# Paramètres du thème (Ananke)
+[params]
+  hero_image = "/images/header.webp"

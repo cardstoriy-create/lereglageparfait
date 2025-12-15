@@ -1,35 +1,31 @@
 baseURL = "/"
 languageCode = "fr-fr"
 title = "Le Réglage Parfait"
-theme = "ananke"
+theme = "PaperMod"
 
-# Options Globales de Hugo
-enableRobotsTXT = true
-disableKinds = ["taxonomy", "term"]
-copyright = "© 2025 Le Réglage Parfait. Tous droits réservés."
+# CORRECTION: Utilisation de la structure pagination recommandée par Hugo 
+[Paginacion] 
+    pagerSize = 10
 
-# Configuration du Menu de Navigation Principal
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Accueil"
-    url = "/"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "articles"
-    name = "Guides (Articles)"
-    url = "/posts/"
-    weight = 20
-
-  [[menu.main]]
-    identifier = "about"
-    name = "À Propos"
-    url = "/about/"
-    weight = 30
-
-# ... (vos autres paramètres)
-
-# Paramètres du thème (Ananke)
+# Tous les paramètres du thème PaperMod sont dans ce seul bloc [params]
 [params]
-  hero_image = "/images/header.webp"
+    env = "production"
+    defaultTheme = "auto"
+    showReadingTime = true
+    showPostNavButtons = true
+    showPageNums = false
+    showToc = false
+    
+[menu]
+    [[menu.main]]
+        name = "Accueil"
+        url = "/"
+        weight = 10
+    [[menu.main]]
+        name = "Articles"
+        url = "/posts/"
+        weight = 20
+    [[menu.main]]
+        name = "À Propos"
+        url = "/about/"
+        weight = 30
