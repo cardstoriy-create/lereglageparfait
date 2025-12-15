@@ -6,36 +6,8 @@
     <description>Recent content in Tags on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 15 Dec 2025 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 22:00:00 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Appareil Photo</title>
-      <link>//localhost:1313/tags/appareil-photo/</link>
-      <pubDate>Mon, 15 Dec 2025 09:00:00 +0100</pubDate>
-      <guid>//localhost:1313/tags/appareil-photo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Débutant</title>
-      <link>//localhost:1313/tags/d%C3%A9butant/</link>
-      <pubDate>Mon, 15 Dec 2025 09:00:00 +0100</pubDate>
-      <guid>//localhost:1313/tags/d%C3%A9butant/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guide Achat</title>
-      <link>//localhost:1313/tags/guide-achat/</link>
-      <pubDate>Mon, 15 Dec 2025 09:00:00 +0100</pubDate>
-      <guid>//localhost:1313/tags/guide-achat/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Matériel</title>
-      <link>//localhost:1313/tags/mat%C3%A9riel/</link>
-      <pubDate>Mon, 15 Dec 2025 09:00:00 +0100</pubDate>
-      <guid>//localhost:1313/tags/mat%C3%A9riel/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Cadrage</title>
       <link>//localhost:1313/tags/cadrage/</link>
@@ -118,6 +90,13 @@
       <link>//localhost:1313/tags/focale-fixe/</link>
       <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
       <guid>//localhost:1313/tags/focale-fixe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matériel</title>
+      <link>//localhost:1313/tags/mat%C3%A9riel/</link>
+      <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/mat%C3%A9riel/</guid>
       <description></description>
     </item>
     <item>
