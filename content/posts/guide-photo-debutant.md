@@ -8,7 +8,3 @@ tags: ["Matériel", "Appareil Photo", "Guide Achat", "Débutant"]
 ---
 
 [Collez ici le corps de votre article complet.]
-
-# Le Meilleur Appareil Photo pour Débuter en 2026
-
-En 2026, le choix entre un hybride et un reflex dépend avant tout de vos besoins...
