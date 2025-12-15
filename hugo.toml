@@ -7,3 +7,10 @@ theme = "PaperMod"
 # CORRECTION: Utilisation de la structure pagination recommandée
 [Paginacion] 
     pagerSize = 10
+
+# Configuration pour forcer la version d'Hugo sur les plateformes de déploiement (comme Cloudflare Pages).
+# Nécessaire pour les thèmes modernes et le support Extended.
+[build]
+	target = "production"
+	extended = true
+	hugo_version = "0.121.2"
