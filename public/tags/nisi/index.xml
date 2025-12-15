@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NiSi on Le Réglage Parfait</title>
+    <link>//localhost:1313/tags/nisi/</link>
+    <description>Recent content in NiSi on Le Réglage Parfait</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 14 Dec 2025 12:00:00 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/nisi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filtres ND et CPL : Le Guide Complet pour Maîtriser la Longue Exposition et les Reflets</title>
+      <link>//localhost:1313/posts/guide-filtres-nd-cpl/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-filtres-nd-cpl/</guid>
+      <description>Les filtres à densité neutre (ND) et les filtres polarisants (CPL) sont essentiels pour le paysage. Découvrez comment figer le mouvement (eau, nuages) et éliminer les reflets pour des couleurs éclatantes.</description>
+    </item>
+  </channel>
+</rss>

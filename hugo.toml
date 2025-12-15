@@ -1,0 +1,8 @@
+baseURL = "/"
+languageCode = "fr-fr"
+title = "Le Réglage Parfait"
+theme = "PaperMod"
+
+# CORRECTION: Utilisation de la structure pagination recommandée
+[Paginacion] 
+    pagerSize = 10
