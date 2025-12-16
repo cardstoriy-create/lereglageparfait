@@ -40,19 +40,25 @@ C'est le critère le plus critique. La charge maximale (ou *payload*) est le poi
 
 Idéal pour les débutants et pour un usage en studio ou en extérieur sans besoin de randonnée. Ce modèle offre une excellente stabilité pour le prix.
 
-[🛒 Voir notre sélection de Trépieds Aluminium sur Amazon](https://amzn.to/AluTrepied)
+[🛒 Voir notre sélection de Trépieds Aluminium sur Amazon](https://amzn.to/4oWjtQs)
 
 #### Le Choix des Voyageurs : La Fibre de Carbone Compacte
 
 Si la légèreté et l'absorption des vibrations sont votre priorité (voyage, randonnée, longue exposition), la fibre de carbone est indispensable.
 
-[🛒 Voir notre sélection de Trépieds Carbone sur Amazon](https://amzn.to/CarboneTrepied)
+[🛒 Voir notre sélection de Trépieds Carbone sur Amazon](Trépieds Carbone)
 
 #### Accessoire essentiel : Le Déclencheur à Distance
 
-Mentionné dans la section 3, un déclencheur à distance est le moyen le plus simple d'éliminer les micro-vibrations dues au toucher de l'appareil. Un investissement indispensable pour la netteté absolue.
+Mentionné dans la section 3, un déclencheur à distance est le moyen le plus simple d'éliminer les micro-vibrations dues au toucher de l'appareil. Choisissez la version compatible avec votre boîtier :
 
-[🛒 Voir un Déclencheur à Distance (Universel ou pour votre boîtier) sur Amazon](https://amzn.to/Declencheur)
+##### Déclencheur pour Canon
+
+[🛒 Déclencheur à Distance SANS FIL pour Canon sur Amazon](https://amzn.to/3MyflJg)
+
+##### Déclencheur pour Sony
+
+[🛒 Déclencheur à Distance FILAIRE pour Sony sur Amazon](https://amzn.to/3Yy6zxm)
 
 ---
 
