@@ -2,154 +2,139 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2025-12-15T13:06:52+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-12-15T13:06:52+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/test-install/</loc>
-    <lastmod>2025-12-15T13:06:52+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/appareil-photo/</loc>
-    <lastmod>2025-12-15T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/d%C3%A9butant/</loc>
-    <lastmod>2025-12-15T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/guide-achat/</loc>
-    <lastmod>2025-12-15T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/guide-photo-debutant/</loc>
-    <lastmod>2025-12-15T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/mat%C3%A9riel/</loc>
-    <lastmod>2025-12-15T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-12-15T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/cadrage/</loc>
+    <loc>/</loc>
     <lastmod>2025-12-14T22:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/composition/</loc>
+    <loc>/tags/cadrage/</loc>
     <lastmod>2025-12-14T22:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/cr%C3%A9ativit%C3%A9/</loc>
+    <loc>/tags/composition/</loc>
     <lastmod>2025-12-14T22:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/guide-composition/</loc>
+    <loc>/tags/cr%C3%A9ativit%C3%A9/</loc>
     <lastmod>2025-12-14T22:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/technique/</loc>
+    <loc>/posts/guide-composition/</loc>
     <lastmod>2025-12-14T22:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2025-12-14T22:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-12-14T22:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/technique/</loc>
+    <lastmod>2025-12-14T22:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
     <lastmod>2025-12-14T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/filtre-cpl/</loc>
+    <loc>/tags/filtre-cpl/</loc>
     <lastmod>2025-12-14T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/filtre-nd/</loc>
+    <loc>/tags/filtre-nd/</loc>
     <lastmod>2025-12-14T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/guide-filtres-nd-cpl/</loc>
+    <loc>/posts/guide-filtres-nd-cpl/</loc>
     <lastmod>2025-12-14T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/kf-concept/</loc>
+    <loc>/tags/kf-concept/</loc>
     <lastmod>2025-12-14T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/longue-exposition/</loc>
+    <loc>/tags/longue-exposition/</loc>
     <lastmod>2025-12-14T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/mat%C3%A9riel-pro/</loc>
+    <loc>/categories/mat%C3%A9riel-pro/</loc>
     <lastmod>2025-12-14T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/nisi/</loc>
+    <loc>/tags/nisi/</loc>
     <lastmod>2025-12-14T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/paysage/</loc>
+    <loc>/tags/paysage/</loc>
     <lastmod>2025-12-14T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/techniques/</loc>
+    <loc>/categories/techniques/</loc>
     <lastmod>2025-12-14T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/bokeh/</loc>
+    <loc>/tags/bokeh/</loc>
     <lastmod>2025-12-14T09:30:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/focale-fixe/</loc>
+    <loc>/tags/focale-fixe/</loc>
     <lastmod>2025-12-14T09:30:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/objectifs/</loc>
+    <loc>/tags/mat%C3%A9riel/</loc>
     <lastmod>2025-12-14T09:30:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/guide-focale-fixe/</loc>
+    <loc>/tags/objectifs/</loc>
     <lastmod>2025-12-14T09:30:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/portrait/</loc>
+    <loc>/posts/guide-focale-fixe/</loc>
     <lastmod>2025-12-14T09:30:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/accessoire/</loc>
+    <loc>/tags/portrait/</loc>
+    <lastmod>2025-12-14T09:30:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/accessoire/</loc>
     <lastmod>2025-12-13T17:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/accessoires/</loc>
+    <loc>/categories/accessoires/</loc>
     <lastmod>2025-12-13T17:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/guide-dachat/</loc>
+    <loc>/tags/guide-dachat/</loc>
     <lastmod>2025-12-13T17:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/guide-trepied/</loc>
+    <loc>/posts/guide-trepied/</loc>
     <lastmod>2025-12-13T17:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/stabilit%C3%A9/</loc>
+    <loc>/tags/stabilit%C3%A9/</loc>
     <lastmod>2025-12-13T17:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/tr%C3%A9pied/</loc>
+    <loc>/tags/tr%C3%A9pied/</loc>
     <lastmod>2025-12-13T17:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/black-mist/</loc>
+    <loc>/tags/black-mist/</loc>
     <lastmod>2025-12-13T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/cinematography/</loc>
+    <loc>/tags/cinematography/</loc>
     <lastmod>2025-12-13T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/guide-filtre-diffusion/</loc>
+    <loc>/posts/guide-filtre-diffusion/</loc>
     <lastmod>2025-12-13T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/tiffen/</loc>
+    <loc>/tags/tiffen/</loc>
     <lastmod>2025-12-13T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/guide-technique/</loc>
+    <loc>/tags/guide-technique/</loc>
     <lastmod>2025-01-14T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/guide-cartes-memoire/</loc>
+    <loc>/posts/guide-cartes-memoire/</loc>
     <lastmod>2025-01-14T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/stockage/</loc>
+    <loc>/tags/stockage/</loc>
     <lastmod>2025-01-14T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/focale/</loc>
+    <loc>/tags/focale/</loc>
     <lastmod>2023-11-20T10:15:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/guide-objectif-zoom/</loc>
+    <loc>/posts/guide-objectif-zoom/</loc>
     <lastmod>2023-11-20T10:15:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/nettet%C3%A9/</loc>
+    <loc>/tags/nettet%C3%A9/</loc>
     <lastmod>2023-11-20T10:15:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/objectif/</loc>
+    <loc>/tags/objectif/</loc>
     <lastmod>2023-11-20T10:15:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/zoom/</loc>
+    <loc>/tags/zoom/</loc>
     <lastmod>2023-11-20T10:15:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/guide-filtre/</loc>
+    <loc>/posts/guide-filtre/</loc>
     <lastmod>2023-11-20T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/lumi%C3%A8re/</loc>
+    <loc>/tags/lumi%C3%A8re/</loc>
     <lastmod>2023-11-20T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/vid%C3%A9o/</loc>
+    <loc>/tags/vid%C3%A9o/</loc>
     <lastmod>2023-11-20T10:00:00+01:00</lastmod>
   </url>
 </urlset>

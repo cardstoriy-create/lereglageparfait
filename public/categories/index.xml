@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Le Réglage Parfait</title>
-    <link>//localhost:1313/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 14 Dec 2025 12:00:00 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Matériel Pro</title>
-      <link>//localhost:1313/categories/mat%C3%A9riel-pro/</link>
+      <link>/categories/mat%C3%A9riel-pro/</link>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
-      <guid>//localhost:1313/categories/mat%C3%A9riel-pro/</guid>
+      <guid>/categories/mat%C3%A9riel-pro/</guid>
       <description></description>
     </item>
     <item>
       <title>Techniques</title>
-      <link>//localhost:1313/categories/techniques/</link>
+      <link>/categories/techniques/</link>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
-      <guid>//localhost:1313/categories/techniques/</guid>
+      <guid>/categories/techniques/</guid>
       <description></description>
     </item>
     <item>
       <title>Accessoires</title>
-      <link>//localhost:1313/categories/accessoires/</link>
+      <link>/categories/accessoires/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
-      <guid>//localhost:1313/categories/accessoires/</guid>
+      <guid>/categories/accessoires/</guid>
       <description></description>
     </item>
   </channel>

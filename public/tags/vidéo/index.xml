@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vidéo on Le Réglage Parfait</title>
-    <link>//localhost:1313/tags/vid%C3%A9o/</link>
+    <link>/tags/vid%C3%A9o/</link>
     <description>Recent content in Vidéo on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 20 Nov 2023 10:00:00 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/vid%C3%A9o/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/vid%C3%A9o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le Guide Ultime : Filtres ND Variables et CPL Pro pour Photo et Vidéo</title>
-      <link>//localhost:1313/posts/guide-filtre/</link>
+      <link>/posts/guide-filtre/</link>
       <pubDate>Mon, 20 Nov 2023 10:00:00 +0100</pubDate>
-      <guid>//localhost:1313/posts/guide-filtre/</guid>
+      <guid>/posts/guide-filtre/</guid>
       <description>Maîtrisez la lumière comme un pro : guide complet sur le choix, l&amp;#39;utilisation et les pièges des filtres ND variables et polarisants circulaires (CPL) en photo et vidéo.</description>
     </item>
   </channel>

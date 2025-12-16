@@ -14,3 +14,29 @@ theme = "PaperMod"
 	target = "production"
 	extended = true
 	hugo_version = "0.121.2"
+	[menu]
+  [[menu.main]]
+    identifier = "accueil"
+    name = "Accueil"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "materiel"
+    name = "Matériel"
+    url = "/tags/Matériel/"
+    weight = 20
+  [[menu.main]]
+    identifier = "technique"
+    name = "Technique & Composition"
+    url = "/tags/Composition/" # Nous utilisons un tag central pour cette catégorie
+    weight = 30
+  [[menu.main]]
+    identifier = "articles"
+    name = "Articles"
+    url = "/posts/"
+    weight = 40
+  [[menu.main]]
+    identifier = "a-propos"
+    name = "À Propos"
+    url = "/a-propos/" # Assurez-vous d'avoir une page 'a-propos.md' dans /content/
+    weight = 50
