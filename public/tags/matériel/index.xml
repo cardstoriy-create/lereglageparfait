@@ -2,24 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Matériel on Le Réglage Parfait</title>
+<<<<<<< HEAD
     <link>/tags/mat%C3%A9riel/</link>
+=======
+    <link>//localhost:1313/tags/mat%C3%A9riel/</link>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
     <description>Recent content in Matériel on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 14 Dec 2025 09:30:00 +0100</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="/tags/mat%C3%A9riel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Objectifs à Focale Fixe (Primes) : Le Guide pour une Qualité Optique Maximale</title>
       <link>/posts/guide-focale-fixe/</link>
       <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
       <guid>/posts/guide-focale-fixe/</guid>
+=======
+    <atom:link href="//localhost:1313/tags/mat%C3%A9riel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Objectifs à Focale Fixe (Primes) : Le Guide pour une Qualité Optique Maximale</title>
+      <link>//localhost:1313/posts/guide-focale-fixe/</link>
+      <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-focale-fixe/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Découvrez pourquoi les objectifs à focale fixe offrent une netteté et une luminosité imbattables pour le portrait, la photo de rue et les situations de basse lumière.</description>
     </item>
     <item>
       <title>Guide Ultime des Cartes Mémoire : Comprendre les Vitesses (V30, V60, V90) et Choisir la Bonne</title>
+<<<<<<< HEAD
       <link>/posts/guide-cartes-memoire/</link>
       <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
       <guid>/posts/guide-cartes-memoire/</guid>
+=======
+      <link>//localhost:1313/posts/guide-cartes-memoire/</link>
+      <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-cartes-memoire/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Ne perdez plus jamais une photo à cause d&amp;#39;une carte lente. Tout comprendre sur les normes SD, UHS-II, CFexpress et nos recommandations d&amp;#39;achat.</description>
     </item>
   </channel>

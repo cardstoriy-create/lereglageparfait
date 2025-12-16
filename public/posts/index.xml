@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Le Réglage Parfait</title>
+<<<<<<< HEAD
     <link>/posts/</link>
     <description>Recent content in Posts on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
@@ -13,55 +14,117 @@
       <link>/posts/guide-composition/</link>
       <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
       <guid>/posts/guide-composition/</guid>
+=======
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Le Réglage Parfait</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 15 Dec 2025 09:00:00 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le Guide Achat Appareil Photo 2026 (TEST FINAL)</title>
+      <link>//localhost:1313/posts/guide-achat-debutant-neuf/</link>
+      <pubDate>Mon, 15 Dec 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-achat-debutant-neuf/</guid>
+      <description>&lt;p&gt;Ceci est le test. Si cela s&amp;rsquo;affiche, le problème est dans l&amp;rsquo;ancien fichier.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Maîtriser le Cadrage : Les 3 Règles Essentielles de la Composition</title>
+      <link>//localhost:1313/posts/guide-composition/</link>
+      <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-composition/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Passez de la technique à l&amp;#39;art. Découvrez la Règle des Tiers, le principe de Symétrie et comment utiliser les Lignes Directrices pour créer des photos captivantes.</description>
     </item>
     <item>
       <title>Filtres ND et CPL : Le Guide Complet pour Maîtriser la Longue Exposition et les Reflets</title>
+<<<<<<< HEAD
       <link>/posts/guide-filtres-nd-cpl/</link>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
       <guid>/posts/guide-filtres-nd-cpl/</guid>
+=======
+      <link>//localhost:1313/posts/guide-filtres-nd-cpl/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-filtres-nd-cpl/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Les filtres à densité neutre (ND) et les filtres polarisants (CPL) sont essentiels pour le paysage. Découvrez comment figer le mouvement (eau, nuages) et éliminer les reflets pour des couleurs éclatantes.</description>
     </item>
     <item>
       <title>Objectifs à Focale Fixe (Primes) : Le Guide pour une Qualité Optique Maximale</title>
+<<<<<<< HEAD
       <link>/posts/guide-focale-fixe/</link>
       <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
       <guid>/posts/guide-focale-fixe/</guid>
+=======
+      <link>//localhost:1313/posts/guide-focale-fixe/</link>
+      <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-focale-fixe/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Découvrez pourquoi les objectifs à focale fixe offrent une netteté et une luminosité imbattables pour le portrait, la photo de rue et les situations de basse lumière.</description>
     </item>
     <item>
       <title>Guide du Trépied : Comment choisir, installer et stabiliser votre appareil</title>
+<<<<<<< HEAD
       <link>/posts/guide-trepied/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
       <guid>/posts/guide-trepied/</guid>
+=======
+      <link>//localhost:1313/posts/guide-trepied/</link>
+      <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-trepied/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Le trépied est l&amp;#39;outil ultime de la netteté. Découvrez les critères essentiels (matériaux, tête, charge maximale) pour bien choisir le vôtre et les techniques de stabilisation de pro.</description>
     </item>
     <item>
       <title>Filtres de Diffusion (Black Mist) : Le Secret du &#39;Ciné Look&#39; en Photo et Vidéo</title>
+<<<<<<< HEAD
       <link>/posts/guide-filtre-diffusion/</link>
       <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
       <guid>/posts/guide-filtre-diffusion/</guid>
+=======
+      <link>//localhost:1313/posts/guide-filtre-diffusion/</link>
+      <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-filtre-diffusion/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Le piqué de votre appareil est trop clinique ? Découvrez comment les filtres de diffusion (Black Mist) recréent la douceur du cinéma argentique, lissent la peau et subliment les lumières.</description>
     </item>
     <item>
       <title>Guide Ultime des Cartes Mémoire : Comprendre les Vitesses (V30, V60, V90) et Choisir la Bonne</title>
+<<<<<<< HEAD
       <link>/posts/guide-cartes-memoire/</link>
       <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
       <guid>/posts/guide-cartes-memoire/</guid>
+=======
+      <link>//localhost:1313/posts/guide-cartes-memoire/</link>
+      <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-cartes-memoire/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Ne perdez plus jamais une photo à cause d&amp;#39;une carte lente. Tout comprendre sur les normes SD, UHS-II, CFexpress et nos recommandations d&amp;#39;achat.</description>
     </item>
     <item>
       <title>Guide Objectif Zoom : Maîtriser les focales et maximiser la netteté</title>
+<<<<<<< HEAD
       <link>/posts/guide-objectif-zoom/</link>
       <pubDate>Mon, 20 Nov 2023 10:15:00 +0100</pubDate>
       <guid>/posts/guide-objectif-zoom/</guid>
+=======
+      <link>//localhost:1313/posts/guide-objectif-zoom/</link>
+      <pubDate>Mon, 20 Nov 2023 10:15:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-objectif-zoom/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Choisir un zoom et garantir une image parfaite : techniques de stabilisation, pièges à éviter et astuces pour tirer le meilleur de votre objectif à focale variable.</description>
     </item>
     <item>
       <title>Le Guide Ultime : Filtres ND Variables et CPL Pro pour Photo et Vidéo</title>
+<<<<<<< HEAD
       <link>/posts/guide-filtre/</link>
       <pubDate>Mon, 20 Nov 2023 10:00:00 +0100</pubDate>
       <guid>/posts/guide-filtre/</guid>
+=======
+      <link>//localhost:1313/posts/guide-filtre/</link>
+      <pubDate>Mon, 20 Nov 2023 10:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-filtre/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Maîtrisez la lumière comme un pro : guide complet sur le choix, l&amp;#39;utilisation et les pièges des filtres ND variables et polarisants circulaires (CPL) en photo et vidéo.</description>
     </item>
   </channel>

@@ -2,220 +2,407 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Le Réglage Parfait</title>
+<<<<<<< HEAD
     <link>/tags/</link>
+=======
+    <link>//localhost:1313/tags/</link>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
     <description>Recent content in Tags on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 14 Dec 2025 22:00:00 +0100</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cadrage</title>
       <link>/tags/cadrage/</link>
       <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
       <guid>/tags/cadrage/</guid>
+=======
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cadrage</title>
+      <link>//localhost:1313/tags/cadrage/</link>
+      <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/cadrage/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Composition</title>
+<<<<<<< HEAD
       <link>/tags/composition/</link>
       <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
       <guid>/tags/composition/</guid>
+=======
+      <link>//localhost:1313/tags/composition/</link>
+      <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/composition/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Créativité</title>
+<<<<<<< HEAD
       <link>/tags/cr%C3%A9ativit%C3%A9/</link>
       <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
       <guid>/tags/cr%C3%A9ativit%C3%A9/</guid>
+=======
+      <link>//localhost:1313/tags/cr%C3%A9ativit%C3%A9/</link>
+      <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/cr%C3%A9ativit%C3%A9/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Technique</title>
+<<<<<<< HEAD
       <link>/tags/technique/</link>
       <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
       <guid>/tags/technique/</guid>
+=======
+      <link>//localhost:1313/tags/technique/</link>
+      <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/technique/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Filtre CPL</title>
+<<<<<<< HEAD
       <link>/tags/filtre-cpl/</link>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
       <guid>/tags/filtre-cpl/</guid>
+=======
+      <link>//localhost:1313/tags/filtre-cpl/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/filtre-cpl/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Filtre ND</title>
+<<<<<<< HEAD
       <link>/tags/filtre-nd/</link>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
       <guid>/tags/filtre-nd/</guid>
+=======
+      <link>//localhost:1313/tags/filtre-nd/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/filtre-nd/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>K&amp;F Concept</title>
+<<<<<<< HEAD
       <link>/tags/kf-concept/</link>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
       <guid>/tags/kf-concept/</guid>
+=======
+      <link>//localhost:1313/tags/kf-concept/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/kf-concept/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Longue Exposition</title>
+<<<<<<< HEAD
       <link>/tags/longue-exposition/</link>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
       <guid>/tags/longue-exposition/</guid>
+=======
+      <link>//localhost:1313/tags/longue-exposition/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/longue-exposition/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>NiSi</title>
+<<<<<<< HEAD
       <link>/tags/nisi/</link>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
       <guid>/tags/nisi/</guid>
+=======
+      <link>//localhost:1313/tags/nisi/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/nisi/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Paysage</title>
+<<<<<<< HEAD
       <link>/tags/paysage/</link>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
       <guid>/tags/paysage/</guid>
+=======
+      <link>//localhost:1313/tags/paysage/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/paysage/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Bokeh</title>
+<<<<<<< HEAD
       <link>/tags/bokeh/</link>
       <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
       <guid>/tags/bokeh/</guid>
+=======
+      <link>//localhost:1313/tags/bokeh/</link>
+      <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/bokeh/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Focale Fixe</title>
+<<<<<<< HEAD
       <link>/tags/focale-fixe/</link>
       <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
       <guid>/tags/focale-fixe/</guid>
+=======
+      <link>//localhost:1313/tags/focale-fixe/</link>
+      <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/focale-fixe/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Matériel</title>
+<<<<<<< HEAD
       <link>/tags/mat%C3%A9riel/</link>
       <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
       <guid>/tags/mat%C3%A9riel/</guid>
+=======
+      <link>//localhost:1313/tags/mat%C3%A9riel/</link>
+      <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/mat%C3%A9riel/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Objectifs</title>
+<<<<<<< HEAD
       <link>/tags/objectifs/</link>
       <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
       <guid>/tags/objectifs/</guid>
+=======
+      <link>//localhost:1313/tags/objectifs/</link>
+      <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/objectifs/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Portrait</title>
+<<<<<<< HEAD
       <link>/tags/portrait/</link>
       <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
       <guid>/tags/portrait/</guid>
+=======
+      <link>//localhost:1313/tags/portrait/</link>
+      <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/portrait/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Accessoire</title>
+<<<<<<< HEAD
       <link>/tags/accessoire/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
       <guid>/tags/accessoire/</guid>
+=======
+      <link>//localhost:1313/tags/accessoire/</link>
+      <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/accessoire/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Guide D&#39;achat</title>
+<<<<<<< HEAD
       <link>/tags/guide-dachat/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
       <guid>/tags/guide-dachat/</guid>
+=======
+      <link>//localhost:1313/tags/guide-dachat/</link>
+      <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/guide-dachat/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Stabilité</title>
+<<<<<<< HEAD
       <link>/tags/stabilit%C3%A9/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
       <guid>/tags/stabilit%C3%A9/</guid>
+=======
+      <link>//localhost:1313/tags/stabilit%C3%A9/</link>
+      <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/stabilit%C3%A9/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Trépied</title>
+<<<<<<< HEAD
       <link>/tags/tr%C3%A9pied/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
       <guid>/tags/tr%C3%A9pied/</guid>
+=======
+      <link>//localhost:1313/tags/tr%C3%A9pied/</link>
+      <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/tr%C3%A9pied/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Black Mist</title>
+<<<<<<< HEAD
       <link>/tags/black-mist/</link>
       <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
       <guid>/tags/black-mist/</guid>
+=======
+      <link>//localhost:1313/tags/black-mist/</link>
+      <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/black-mist/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Cinematography</title>
+<<<<<<< HEAD
       <link>/tags/cinematography/</link>
       <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
       <guid>/tags/cinematography/</guid>
+=======
+      <link>//localhost:1313/tags/cinematography/</link>
+      <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/cinematography/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Tiffen</title>
+<<<<<<< HEAD
       <link>/tags/tiffen/</link>
       <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
       <guid>/tags/tiffen/</guid>
+=======
+      <link>//localhost:1313/tags/tiffen/</link>
+      <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/tiffen/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Guide Technique</title>
+<<<<<<< HEAD
       <link>/tags/guide-technique/</link>
       <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
       <guid>/tags/guide-technique/</guid>
+=======
+      <link>//localhost:1313/tags/guide-technique/</link>
+      <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/guide-technique/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Stockage</title>
+<<<<<<< HEAD
       <link>/tags/stockage/</link>
       <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
       <guid>/tags/stockage/</guid>
+=======
+      <link>//localhost:1313/tags/stockage/</link>
+      <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/stockage/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Focale</title>
+<<<<<<< HEAD
       <link>/tags/focale/</link>
       <pubDate>Mon, 20 Nov 2023 10:15:00 +0100</pubDate>
       <guid>/tags/focale/</guid>
+=======
+      <link>//localhost:1313/tags/focale/</link>
+      <pubDate>Mon, 20 Nov 2023 10:15:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/focale/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Netteté</title>
+<<<<<<< HEAD
       <link>/tags/nettet%C3%A9/</link>
       <pubDate>Mon, 20 Nov 2023 10:15:00 +0100</pubDate>
       <guid>/tags/nettet%C3%A9/</guid>
+=======
+      <link>//localhost:1313/tags/nettet%C3%A9/</link>
+      <pubDate>Mon, 20 Nov 2023 10:15:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/nettet%C3%A9/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Objectif</title>
+<<<<<<< HEAD
       <link>/tags/objectif/</link>
       <pubDate>Mon, 20 Nov 2023 10:15:00 +0100</pubDate>
       <guid>/tags/objectif/</guid>
+=======
+      <link>//localhost:1313/tags/objectif/</link>
+      <pubDate>Mon, 20 Nov 2023 10:15:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/objectif/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Zoom</title>
+<<<<<<< HEAD
       <link>/tags/zoom/</link>
       <pubDate>Mon, 20 Nov 2023 10:15:00 +0100</pubDate>
       <guid>/tags/zoom/</guid>
+=======
+      <link>//localhost:1313/tags/zoom/</link>
+      <pubDate>Mon, 20 Nov 2023 10:15:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/zoom/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Lumière</title>
+<<<<<<< HEAD
       <link>/tags/lumi%C3%A8re/</link>
       <pubDate>Mon, 20 Nov 2023 10:00:00 +0100</pubDate>
       <guid>/tags/lumi%C3%A8re/</guid>
+=======
+      <link>//localhost:1313/tags/lumi%C3%A8re/</link>
+      <pubDate>Mon, 20 Nov 2023 10:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/lumi%C3%A8re/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
     <item>
       <title>Vidéo</title>
+<<<<<<< HEAD
       <link>/tags/vid%C3%A9o/</link>
       <pubDate>Mon, 20 Nov 2023 10:00:00 +0100</pubDate>
       <guid>/tags/vid%C3%A9o/</guid>
+=======
+      <link>//localhost:1313/tags/vid%C3%A9o/</link>
+      <pubDate>Mon, 20 Nov 2023 10:00:00 +0100</pubDate>
+      <guid>//localhost:1313/tags/vid%C3%A9o/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description></description>
     </item>
   </channel>

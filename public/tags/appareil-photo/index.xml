@@ -6,6 +6,7 @@
     <description>Recent content in Appareil Photo on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 15 Dec 2025 08:00:00 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/tags/appareil-photo/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,6 +14,15 @@
       <link>//localhost:1313/posts/guide-photo-debutant/</link>
       <pubDate>Mon, 01 Dec 2025 09:00:00 +0100</pubDate>
       <guid>//localhost:1313/posts/guide-photo-debutant/</guid>
+=======
+    <lastBuildDate>Mon, 15 Dec 2025 09:00:00 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/appareil-photo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le Meilleur Appareil Photo pour Débuter en 2026 : Hybride vs Reflex</title>
+      <link>//localhost:1313/posts/guide-achat-debutant-neuf/</link>
+      <pubDate>Mon, 01 Dec 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-achat-debutant-neuf/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Notre guide complet pour choisir votre premier appareil photo en 2026...</description>
     </item>
   </channel>

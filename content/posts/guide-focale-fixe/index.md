@@ -57,6 +57,7 @@ Pour le portrait où l'isolation du sujet est cruciale, le 85mm est la référen
 Le 35mm offre un angle de vue large sans distorsion excessive, parfait pour intégrer le sujet dans son environnement. Le f/2 est souvent plus compact et moins cher que le f/1.4.
 
 <a href="https://amzn.to/4oUvYMC" target="_blank" rel="sponsored">🛒 Voir le prix sur Amazon (Tamron 35mm f/2.8 Di III OSD)</a>
+
 ---
 
 ## Conclusion : Dézoomer pour Mieux Voir

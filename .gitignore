@@ -1,0 +1,8 @@
+# Dossier de sortie de Hugo (ne doit pas être suivi par Git)
+public/
+/public/
+
+# Fichiers temporaires ou locaux
+.DS_Store
+*.swp
+*.bak

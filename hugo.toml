@@ -3,13 +3,10 @@ languageCode = "fr-fr"
 title = "Le Réglage Parfait"
 theme = "PaperMod"
 
-
 # CORRECTION: Utilisation de la structure pagination recommandée
 [Paginacion] 
     pagerSize = 10
 
-# Configuration pour forcer la version d'Hugo sur les plateformes de déploiement (comme Cloudflare Pages).
-# Nécessaire pour les thèmes modernes et le support Extended.
 # Configuration pour forcer la version d'Hugo sur les plateformes de déploiement (comme Cloudflare Pages).
 # Nécessaire pour les thèmes modernes et le support Extended.
 [build]
@@ -45,6 +42,11 @@ theme = "PaperMod"
     url = "/a-propos/" 
     weight = 50
 
-# CORRECTION: Utilisation de la structure pagination recommandée
-[Paginacion] 
-    pagerSize = 10
+# Tous les paramètres du thème PaperMod sont dans ce seul bloc [params]
+[params]
+    env = "production"
+    defaultTheme = "auto"
+    showReadingTime = true
+    showPostNavButtons = true
+    showPageNums = false
+    showToc = false

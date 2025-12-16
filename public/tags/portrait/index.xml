@@ -2,24 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Portrait on Le Réglage Parfait</title>
+<<<<<<< HEAD
     <link>/tags/portrait/</link>
+=======
+    <link>//localhost:1313/tags/portrait/</link>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
     <description>Recent content in Portrait on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 14 Dec 2025 09:30:00 +0100</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="/tags/portrait/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Objectifs à Focale Fixe (Primes) : Le Guide pour une Qualité Optique Maximale</title>
       <link>/posts/guide-focale-fixe/</link>
       <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
       <guid>/posts/guide-focale-fixe/</guid>
+=======
+    <atom:link href="//localhost:1313/tags/portrait/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Objectifs à Focale Fixe (Primes) : Le Guide pour une Qualité Optique Maximale</title>
+      <link>//localhost:1313/posts/guide-focale-fixe/</link>
+      <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-focale-fixe/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Découvrez pourquoi les objectifs à focale fixe offrent une netteté et une luminosité imbattables pour le portrait, la photo de rue et les situations de basse lumière.</description>
     </item>
     <item>
       <title>Filtres de Diffusion (Black Mist) : Le Secret du &#39;Ciné Look&#39; en Photo et Vidéo</title>
+<<<<<<< HEAD
       <link>/posts/guide-filtre-diffusion/</link>
       <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
       <guid>/posts/guide-filtre-diffusion/</guid>
+=======
+      <link>//localhost:1313/posts/guide-filtre-diffusion/</link>
+      <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-filtre-diffusion/</guid>
+>>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
       <description>Le piqué de votre appareil est trop clinique ? Découvrez comment les filtres de diffusion (Black Mist) recréent la douceur du cinéma argentique, lissent la peau et subliment les lumières.</description>
     </item>
   </channel>
