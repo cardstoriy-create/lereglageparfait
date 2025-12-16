@@ -46,7 +46,7 @@ Idéal pour les débutants et pour un usage en studio ou en extérieur sans beso
 
 Si la légèreté et l'absorption des vibrations sont votre priorité (voyage, randonnée, longue exposition), la fibre de carbone est indispensable.
 
-[🛒 Voir notre sélection de Trépieds Carbone sur Amazon](Trépieds Carbone)
+[🛒 Voir notre sélection de Trépieds Carbone sur Amazon](https://amzn.to/4s5N7WA)
 
 #### Accessoire essentiel : Le Déclencheur à Distance
 
