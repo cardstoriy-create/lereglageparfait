@@ -32,21 +32,23 @@ C'est le critère le plus critique. La charge maximale (ou *payload*) est le poi
 
 ---
 
+---
+
 ### 2. Notre Sélection de Trépieds et Accessoires (Affiliation)
 
-**Note :** *Cette section contient des liens d'affiliation (Amazon). Les liens sont sécurisés et conformes grâce à la configuration globale de votre site.*
+**Note :** *Cette section contient des liens d'affiliation (Amazon). Les liens sont sécurisés et conformes grâce à l'utilisation du code HTML pur.*
 
 #### Le Choix Low-Cost : L'Aluminium Robuste
 
 Idéal pour les débutants et pour un usage en studio ou en extérieur sans besoin de randonnée. Ce modèle offre une excellente stabilité pour le prix.
 
-[🛒 Voir notre sélection de Trépieds Aluminium sur Amazon](https://amzn.to/4oWjtQs)
+<a href="https://amzn.to/4oWjtQs" target="_blank" rel="sponsored">🛒 Voir notre sélection de Trépieds Aluminium sur Amazon</a>
 
 #### Le Choix des Voyageurs : La Fibre de Carbone Compacte
 
 Si la légèreté et l'absorption des vibrations sont votre priorité (voyage, randonnée, longue exposition), la fibre de carbone est indispensable.
 
-[🛒 Voir notre sélection de Trépieds Carbone sur Amazon](https://amzn.to/4s5N7WA)
+<a href="https://amzn.to/4s5N7WA" target="_blank" rel="sponsored">🛒 Voir notre sélection de Trépieds Carbone sur Amazon</a>
 
 #### Accessoire essentiel : Le Déclencheur à Distance
 
@@ -54,11 +56,11 @@ Mentionné dans la section 3, un déclencheur à distance est le moyen le plus s
 
 ##### Déclencheur pour Canon
 
-[🛒 Déclencheur à Distance SANS FIL pour Canon sur Amazon](https://amzn.to/3MyflJg)
+<a href="https://amzn.to/3MyflJg" target="_blank" rel="sponsored">🛒 Déclencheur à Distance SANS FIL pour Canon sur Amazon</a>
 
 ##### Déclencheur pour Sony
 
-[🛒 Déclencheur à Distance SANS FIL pour Sony sur Amazon](https://amzn.to/3Yy6zxm)
+<a href="https://amzn.to/3Yy6zxm" target="_blank" rel="sponsored">🛒 Déclencheur à Distance FILAIRE pour Sony sur Amazon</a>
 
 ---
 
