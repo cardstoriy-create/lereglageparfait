@@ -7,14 +7,14 @@ tags: ["trépied", "stabilité", "accessoire", "guide d'achat"]
 categories: ["Matériel Pro", "Accessoires"]
 featured_image: "/posts/guide-trepied/trepied-couverture.webp"
 images:
-  - "trepied-couverture.webp"
+  - "trepied-couverture.webp"
 ---
 
 ## Pourquoi un trépied est-il indispensable ?
 
 Un trépied est l'outil le plus efficace pour garantir une netteté parfaite, notamment lors de l'utilisation de longues focales, de faibles vitesses d'obturation (photographie de nuit, pose longue), ou de techniques de précision (macro, focus stacking). Choisir le bon trépied est un investissement en stabilité pour toute votre carrière photographique.
 
-### Section 1 : Les Critères de Choix Essentiels
+### 1. Les Critères de Choix Essentiels
 
 #### La Charge Maximale (Payload)
 
@@ -30,7 +30,35 @@ C'est le critère le plus critique. La charge maximale (ou *payload*) est le poi
 * **Rotule (Ball Head) :** Rapide et intuitive. Un seul mouvement permet de déverrouiller le mouvement sur trois axes simultanément. Idéale pour l'action et la vitesse.
 * **Tête 3-Way :** Offre trois leviers indépendants pour les mouvements panoramique, inclinaison et basculement latéral. Plus lente à ajuster, mais indispensable pour la précision (architecture, macro, et composition très fine).
 
-### Section 2 : Techniques de Stabilisation Avancées
+---
+
+### 2. Notre Sélection de Trépieds et Accessoires (Affiliation)
+
+**Note :** *Cette section contient des liens d'affiliation (Amazon). Les liens sont sécurisés et conformes grâce à la configuration globale de votre site.*
+
+#### Le Choix Low-Cost : L'Aluminium Robuste
+
+Idéal pour les débutants et pour un usage en studio ou en extérieur sans besoin de randonnée. Ce modèle offre une excellente stabilité pour le prix.
+
+[🛒 Voir notre sélection de Trépieds Aluminium sur Amazon](https://amzn.to/AluTrepied)
+
+#### Le Choix des Voyageurs : La Fibre de Carbone Compacte
+
+Si la légèreté et l'absorption des vibrations sont votre priorité (voyage, randonnée, longue exposition), la fibre de carbone est indispensable.
+
+[🛒 Voir notre sélection de Trépieds Carbone sur Amazon](https://amzn.to/CarboneTrepied)
+
+#### Accessoire essentiel : Le Déclencheur à Distance
+
+Mentionné dans la section 3, un déclencheur à distance est le moyen le plus simple d'éliminer les micro-vibrations dues au toucher de l'appareil. Un investissement indispensable pour la netteté absolue.
+
+[🛒 Voir un Déclencheur à Distance (Universel ou pour votre boîtier) sur Amazon](https://amzn.to/Declencheur)
+
+---
+
+### 3. Techniques de Stabilisation Avancées
+
+*(Ceci est l'ancienne Section 2, renumérotée pour intégrer notre sélection de produits.)*
 
 #### Abaissement du Centre de Gravité
 
