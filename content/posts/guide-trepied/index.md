@@ -7,7 +7,7 @@ tags: ["trépied", "stabilité", "accessoire", "guide d'achat"]
 categories: ["Matériel Pro", "Accessoires"]
 featured_image: "/posts/guide-trepied/trepied-couverture.webp"
 images:
-  - "trepied-couverture.webp"
+  - "trepied-couverture.webp"
 ---
 
 ## Pourquoi un trépied est-il indispensable ?
@@ -63,8 +63,6 @@ Mentionné dans la section 3, un déclencheur à distance est le moyen le plus s
 ---
 
 ### 3. Techniques de Stabilisation Avancées
-
-*(Ceci est l'ancienne Section 2, renumérotée pour intégrer notre sélection de produits.)*
 
 #### Abaissement du Centre de Gravité
 
