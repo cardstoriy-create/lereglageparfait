@@ -50,3 +50,14 @@ theme = "PaperMod"
     showPostNavButtons = true
     showPageNums = false
     showToc = false
+
+    [markup.goldmark.renderer]
+unsafe = true # Autorise l'intégration de HTML brut (juste au cas où)
+
+[markup.goldmark.external]
+nofollow = true
+noopener = true
+noreferrer = true
+target = "_blank"
+# Ajout de l'attribut sponsored pour la conformité avec Amazon
+relList = ["external", "sponsored"]
