@@ -59,13 +59,13 @@ Pour débuter avec le meilleur de la technologie moderne et une courbe d'apprent
 
 C'est un excellent point de départ. Compact, doté d'un autofocus rapide et fiable, et d'une excellente qualité d'image avec son capteur APS-C. Il est souvent vendu en kit avec un objectif 16-50mm polyvalent.
 
-[🛒 Voir le Sony Alpha a6100 sur Amazon](https://amzn.to/4oThJaZ)
+<a href="https://amzn.to/4oThJaZ" target="_blank" rel="sponsored">🛒 Voir le Sony Alpha a6100 sur Amazon</a>
 
 #### Premier Objectif Essentiel : Le 50mm f/1.8 (pour Sony E-Mount)
 
 Une fois que vous maîtrisez votre kit, cet objectif est la première amélioration à faire. Il vous ouvrira les portes du vrai bokeh et de la photo en basse lumière.
 
-[🛒 Voir le Sony FE 50mm f/1.8 sur Amazon](https://amzn.to/4akFs0a)
+<a href="https://amzn.to/4akFs0a" target="_blank" rel="sponsored">🛒 Voir le Sony FE 50mm f/1.8 sur Amazon</a>
 
 ### 📸 Option 2 : Le Reflex (Bon Rapport Qualité/Prix en Occasion)
 
@@ -75,12 +75,11 @@ Si votre budget est très serré et que vous trouvez une bonne affaire en occasi
 
 Un modèle classique et éprouvé, idéal pour apprendre les bases. Son viseur optique et sa robustesse en font un bon compagnon d'apprentissage. Cherchez-le en kit avec un 18-55mm.
 
-[🛒 Voir le Canon EOS Rebel T7 / 2000D sur Amazon](https://amzn.to/4s4RT6I)
+<a href="https://amzn.to/4s4RT6I" target="_blank" rel="sponsored">🛒 Voir le Canon EOS Rebel T7 / 2000D sur Amazon</a>
 
 #### Premier Objectif Essentiel : Le 50mm f/1.8 (pour Canon EF)
 
 Comme pour les Hybrides, le 50mm f/1.8 (souvent appelé "Nifty Fifty" chez Canon) est un incontournable pour les utilisateurs de Reflex.
 
-[🛒 Voir le Canon EF 50mm f/1.8 STM sur Amazon](https://amzn.to/4pJJPGT)
-
+<a href="https://amzn.to/4pJJPGT" target="_blank" rel="sponsored">🛒 Voir le Canon EF 50mm f/1.8 STM sur Amazon</a>
 ---
