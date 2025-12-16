@@ -10,11 +10,15 @@ theme = "PaperMod"
 
 # Configuration pour forcer la version d'Hugo sur les plateformes de déploiement (comme Cloudflare Pages).
 # Nécessaire pour les thèmes modernes et le support Extended.
+# Configuration pour forcer la version d'Hugo sur les plateformes de déploiement (comme Cloudflare Pages).
+# Nécessaire pour les thèmes modernes et le support Extended.
 [build]
 	target = "production"
 	extended = true
 	hugo_version = "0.121.2"
-	[menu]
+
+# MENU PRINCIPAL OPTIMISÉ
+[menu]
   [[menu.main]]
     identifier = "accueil"
     name = "Accueil"
@@ -28,7 +32,7 @@ theme = "PaperMod"
   [[menu.main]]
     identifier = "technique"
     name = "Technique & Composition"
-    url = "/tags/Composition/" # Nous utilisons un tag central pour cette catégorie
+    url = "/tags/Composition/" 
     weight = 30
   [[menu.main]]
     identifier = "articles"
@@ -38,5 +42,9 @@ theme = "PaperMod"
   [[menu.main]]
     identifier = "a-propos"
     name = "À Propos"
-    url = "/a-propos/" # Assurez-vous d'avoir une page 'a-propos.md' dans /content/
+    url = "/a-propos/" 
     weight = 50
+
+# CORRECTION: Utilisation de la structure pagination recommandée
+[Paginacion] 
+    pagerSize = 10
