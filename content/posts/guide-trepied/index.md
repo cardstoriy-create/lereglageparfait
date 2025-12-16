@@ -58,7 +58,7 @@ Mentionné dans la section 3, un déclencheur à distance est le moyen le plus s
 
 ##### Déclencheur pour Sony
 
-[🛒 Déclencheur à Distance FILAIRE pour Sony sur Amazon](https://amzn.to/3Yy6zxm)
+[🛒 Déclencheur à Distance SANS FIL pour Sony sur Amazon](https://amzn.to/3Yy6zxm)
 
 ---
 
