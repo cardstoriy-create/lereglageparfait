@@ -15,27 +15,41 @@ Après avoir choisi vos [objectifs](/posts/guide-focale-fixe) et vos [filtres](/
 ### 1. La Règle des Tiers : Le Fondement
 C'est la règle la plus simple et la plus efficace. Divisez votre image en 9 parties égales.
 * **Les Points Forts :** Placez votre sujet principal aux intersections de ces lignes.
-* **L'Horizon :** Pour un paysage, placez l'horizon sur la ligne du tiers inférieur (pour privilégier le sol) ou supérieur (pour privilégier le ciel).
+* **L'Horizon :** Pour un paysage, placez l'horizon sur la ligne du tiers inférieur ou supérieur.
+
+![Illustration de la Règle des Tiers](composition-tiers.webp)
 
 **Astuce :** Utilisez un [trépied stable](/posts/guide-trepied) pour prendre le temps de peaufiner votre cadrage au millimètre près.
 
 ---
 
-### 2. Guider le Regard : Lignes Directrices et Symétrie
-L'œil du spectateur doit être "conduit" à travers l'image.
+### 2. Guider le Regard : Les Lignes Directrices
+L'œil du spectateur doit être "conduit" à travers l'image vers votre sujet.
 
-* **Lignes Directrices :** Utilisez des routes, des rivières ou des clôtures pour mener le regard vers votre sujet.
-* **La Symétrie :** Contrairement aux tiers, la symétrie demande de placer le sujet **au centre**. C'est très puissant pour l'architecture ou les reflets sur l'eau (idéal avec un [filtre polarisant](/posts/guide-filtre)).
+![Illustration des Lignes Directrices](composition-lignes.webp)
+
+* **Utilisation :** Utilisez des routes, des rivières ou des structures architecturales pour créer de la profondeur.
+* **Dynamisme :** Les lignes qui partent des coins de l'image sont particulièrement puissantes pour attirer l'attention.
 
 ---
 
-### 3. Ressources pour Progresser (Sélection 2025)
+### 3. L'Équilibre Visuel : Symétrie et Espace Négatif
+Pour certains sujets, la symétrie apporte une force et une sérénité inégalées.
 
-| Outil | Utilité | Performance | Budget | Verdict |
+![Illustration Symétrie et Espace Négatif](composition-symetrie.webp)
+
+* **La Symétrie :** Idéale pour l'architecture ou les reflets (sublimés par un [filtre polarisant](/posts/guide-filtre)).
+* **L'Espace Négatif :** Laissez de l'espace vide autour de votre sujet pour le laisser "respirer" et renforcer son importance.
+
+---
+
+### 4. Ressources pour Progresser (Sélection 2025)
+
+| Outil | Performance | Dominante | Budget | Verdict |
 | :--- | :---: | :---: | :---: | :--- |
-| **Livre : L'œil du photographe** | Théorie | ⭐⭐⭐⭐⭐ | 💶 | **La Bible de la compo** |
-| **Niveau à bulle Hot Shoe** | Précision | ⭐⭐⭐ | 💶 | **Indispensable Horizon** |
-| **Prisme de Fresnel** | Créativité | ⭐⭐⭐⭐ | 💶💶 | **Look Artistique** |
+| **Livre : L'œil du photographe** | ⭐⭐⭐⭐⭐ | ⚪ Neutre | 💶 | **La Bible de la compo** |
+| **Niveau à bulle Hot Shoe** | ⭐⭐⭐ | ⚪ Neutre | 💶 | **Indispensable Horizon** |
+| **Prisme de Fresnel** | ⭐⭐⭐⭐ | ⚪ Neutre | 💶💶 | **Look Artistique** |
 
 ---
 
@@ -48,14 +62,6 @@ C'est l'ouvrage le plus complet pour comprendre pourquoi une image fonctionne. U
 Rien ne gâche plus une composition qu'un horizon de travers. Ce petit accessoire se glisse sur votre appareil pour garantir une symétrie parfaite.
 
 <a href="https://amzn.to/4haK1S1" target="_blank" rel="sponsored">🛒 Voir l'accessoire sur Amazon</a>
-
----
-
-### 4. L'Espace Négatif : Apprendre à épurer
-L'espace vide (le ciel, un mur uni) n'est pas "perdu". Au contraire, l'espace négatif permet de :
-1. **Faire respirer** le sujet.
-2. **Éliminer les distractions** inutiles.
-3. **Transmettre une émotion** (calme, solitude, immensité).
 
 ## Conclusion : Trouvez votre propre style
 La composition n'est pas une liste de lois immuables, mais une boîte à outils. Une fois que vous maîtrisez la règle des tiers, apprenez à la transgresser sciemment. C'est là que votre signature visuelle commence.
