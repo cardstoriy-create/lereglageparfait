@@ -26,22 +26,31 @@ Un filtre Mist contient des milliers de micro-particules qui dévient la lumièr
 
 ---
 
-### 2. Sélection des Meilleurs Filtres Mist (Affiliation)
+---
 
-**Note :** *Cette section contient des liens d'affiliation Amazon. Ces modèles ont été sélectionnés pour leur neutralité colorimétrique.*
+### 2. Notre Sélection des Meilleurs Filtres Mist (2025)
 
-#### Le Meilleur Rapport Qualité/Prix : K&F Concept Nano-X Black Mist
-Pour 90% des créateurs, c'est le filtre idéal. Il offre une neutralité surprenante et un traitement anti-rayures pour un prix deux fois inférieur aux marques historiques.
+| Modèle | Performance | Dominante | Budget | Verdict |
+| :--- | :---: | :---: | :---: | :--- |
+| **K&F Nano-X** | ⭐⭐⭐⭐ | ⚪ Neutre | 💶 | **Meilleur Rapport Q/P** |
+| **Tiffen Pro-Mist**| ⭐⭐⭐⭐⭐ | 🟢 Légère | 💶💶💶 | **Le Standard Hollywood** |
+| **Moment CineBloom**| ⭐⭐⭐ | 🟡 Chaude | 💶💶 | **Look Artistique** |
+| **NiSi Black Mist** | ⭐⭐⭐⭐⭐ | ⚪ Neutre | 💶💶 | **Excellence Optique** |
+
+---
+
+#### 🏆 Le Choix Malin : K&F Concept Nano-X Black Mist
+Pour 90% des créateurs, c'est le filtre idéal. Il offre une neutralité surprenante et un traitement anti-rayures pour un prix imbattable.
 
 <a href="https://amzn.to/3KzdpQ6" target="_blank" rel="sponsored">🛒 Voir le K&F Concept Black Mist (1/4) sur Amazon</a>
 
-#### La Référence Hollywoodienne : Tiffen Black Pro-Mist
+#### 🎬 La Référence : Tiffen Black Pro-Mist
 C'est le filtre utilisé sur d'innombrables plateaux de cinéma. Il possède une "texture" de diffusion unique que les puristes adorent.
 
 <a href="https://amzn.to/3Ktpw16" target="_blank" rel="sponsored">🛒 Voir le Tiffen Black Pro-Mist sur Amazon</a>
 
-#### L'Alternative Artistique : Moment CineBloom
-Utilisant des particules blanches, il crée une diffusion plus large et vaporeuse, parfaite pour les clips musicaux ou un style "vintage" marqué.
+#### 🎨 L'Alternative : Moment CineBloom
+Utilisant des particules blanches, il crée une diffusion plus large et vaporeuse, parfaite pour un style "vintage" marqué.
 
 <a href="https://amzn.to/3qfO8K9" target="_blank" rel="sponsored">🛒 Voir le filtre Moment CineBloom sur Amazon</a>
 
