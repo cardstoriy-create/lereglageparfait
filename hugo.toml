@@ -3,18 +3,15 @@ languageCode = "fr-fr"
 title = "Le Réglage Parfait"
 theme = "PaperMod"
 
-# CORRECTION: Utilisation de la structure pagination recommandée
 [Paginacion] 
     pagerSize = 10
 
-# Configuration pour forcer la version d'Hugo sur les plateformes de déploiement (comme Cloudflare Pages).
-# Nécessaire pour les thèmes modernes et le support Extended.
 [build]
 	target = "production"
 	extended = true
 	hugo_version = "0.121.2"
 
-# MENU PRINCIPAL OPTIMISÉ
+# MENU PRINCIPAL
 [menu]
   [[menu.main]]
     identifier = "accueil"
@@ -28,36 +25,51 @@ theme = "PaperMod"
     weight = 20
   [[menu.main]]
     identifier = "technique"
-    name = "Technique & Composition"
+    name = "Technique"
     url = "/tags/Composition/" 
     weight = 30
   [[menu.main]]
     identifier = "articles"
-    name = "Articles"
+    name = "Tous les Articles"
     url = "/posts/"
     weight = 40
-  [[menu.main]]
-    identifier = "a-propos"
-    name = "À Propos"
-    url = "/a-propos/" 
-    weight = 50
 
-# Tous les paramètres du thème PaperMod sont dans ce seul bloc [params]
 [params]
     env = "production"
     defaultTheme = "auto"
     showReadingTime = true
     showPostNavButtons = true
-    showPageNums = false
-    showToc = false
+    showPageNums = true
+    showToc = true
 
-    [markup.goldmark.renderer]
-unsafe = true # Autorise l'intégration de HTML brut (juste au cas où)
+    # --- CONFIGURATION DE LA PAGE D'ACCUEIL (Profile Mode) ---
+    [params.profileMode]
+        enabled = true
+        title = "Le Réglage Parfait 📸"
+        subtitle = "Dominez votre matériel, sublimez vos images. Guides experts pour photographes exigeants."
+        imageUrl = "logo.webp" # Nous créerons ce logo juste après
+        imageWidth = 120
+        imageHeight = 120
+        [[params.profileMode.buttons]]
+            name = "📸 Nos Guides Matériel"
+            url = "/tags/Matériel/"
+        [[params.profileMode.buttons]]
+            name = "🎨 Maîtriser la Composition"
+            url = "/posts/guide-composition/"
+
+    # --- RÉSEAUX SOCIAUX (Optionnel - laissez vide si non utilisé) ---
+    [[params.socialIcons]]
+        name = "instagram"
+        url = "https://instagram.com/"
+    [[params.socialIcons]]
+        name = "youtube"
+        url = "https://youtube.com/"
+
+[markup.goldmark.renderer]
+    unsafe = true
 
 [markup.goldmark.external]
-nofollow = true
-noopener = true
-noreferrer = true
-target = "_blank"
-# Ajout de l'attribut sponsored pour la conformité avec Amazon
-relList = ["external", "sponsored"]
+    nofollow = true
+    noopener = true
+    noreferrer = true
+    target = "_blank"
