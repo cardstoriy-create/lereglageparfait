@@ -10,14 +10,13 @@ images:
   - "guide-flash-cover.webp"
 ---
 
-Beaucoup de photographes craignent le flash car ils l'associent à des visages trop blancs, des ombres portées noires et un rendu "plat". Pourtant, le flash est l'outil ultime pour sculpter la lumière, déboucher les ombres en plein soleil ou figer un mouvement rapide.
+Beaucoup de photographes craignent le flash car ils l'associent à des visages trop blancs et des ombres portées noires. Pourtant, le flash est l'outil ultime pour sculpter la lumière, même en plein soleil.
 
 ### 1. Pourquoi utiliser un Flash Cobra ?
 
-Le flash intégré à votre appareil est souvent trop petit et mal placé. Le **Flash Cobra** (ou Speedlight) offre trois avantages majeurs :
-* **La Puissance :** Il permet d'éclairer des sujets plus lointains.
-* **L'Orientation :** Sa tête pivotante permet de diriger la lumière vers un mur ou un plafond (lumière indirecte).
-* **Le Déporté :** Utilisé avec un déclencheur sans fil, il permet de créer des schémas de lumière studio en extérieur.
+Le flash intégré à votre appareil est souvent trop petit et mal placé. Le **Flash Cobra** offre trois avantages majeurs :
+* **L'Orientation :** Sa tête pivotante permet de faire rebondir la lumière sur un mur ou un plafond pour un rendu naturel.
+* **Le Déporté :** Utilisé avec un déclencheur sans fil, il permet de créer un éclairage studio partout.
 
 ---
 
@@ -32,30 +31,27 @@ Le flash intégré à votre appareil est souvent trop petit et mal placé. Le **
 ---
 
 #### 🏆 Le Choix des Professionnels : Godox V1
-Avec sa tête ronde, il produit une chute de lumière beaucoup plus douce et naturelle qu'un flash rectangulaire classique. Sa batterie Lithium offre un temps de recyclage ultra-rapide.
+Avec sa tête ronde, il produit une chute de lumière beaucoup plus douce qu'un flash rectangulaire classique. 
 
-<a href="https://amzn.to/3ZpWc2l" target="_blank" rel="sponsored">🛒 Voir le Godox V1 sur Amazon</a>
+> **⚠️ Attention :** Lors de l'achat, choisissez la version correspondant à votre boîtier (V1-S pour Sony, V1-N pour Nikon, V1-C pour Canon).
+
+<a href="https://amzn.to/4pOmSlO" target="_blank" rel="sponsored">🛒 Voir toutes les versions du Godox V1 (Sony, Canon, Nikon...) sur Amazon</a>
 
 #### 🚀 La Puissance Accessible : Godox V860III
-C'est le cheval de bataille de nombreux photographes de mariage. Puissant, fiable, il intègre une lampe de modelage pour prévisualiser l'ombre avant de déclencher.
+Le cheval de bataille des photographes de mariage. Puissant et fiable avec une batterie très longue durée.
 
-<a href="https://amzn.to/49A4VfO" target="_blank" rel="sponsored">🛒 Voir le Godox V860III sur Amazon</a>
+<a href="https://amzn.to/4pH6xz8" target="_blank" rel="sponsored">🛒 Voir toutes les versions du Godox V860III (Sony, Canon, Nikon...) sur Amazon</a>
 
 #### 📡 L'Accessoire Indispensable : Émetteur Godox XPro II
-Pour utiliser votre flash à distance (déporté) et créer de vrais portraits de studio, ce déclencheur est obligatoire.
+Pour utiliser votre flash à distance. Assurez-vous de prendre le modèle compatible avec votre marque.
 
-<a href="https://amzn.to/3ZpWj9J" target="_blank" rel="sponsored">🛒 Voir le déclencheur XPro II sur Amazon</a>
+<a href="https://amzn.to/4ao8lZm" target="_blank" rel="sponsored">🛒 Voir les déclencheurs Godox XPro II sur Amazon</a>
 
 ---
 
-### 3. Trois Techniques pour une Lumière Douce
-
-1. **Le "Bounce" (Rebond) :** Ne dirigez jamais le flash vers votre sujet. Orientez la tête vers un plafond blanc. Le plafond devient une immense source de lumière douce.
-2. **Le Flash de Remplissage (Fill-In) :** En plein soleil, utilisez le flash pour éclairer les ombres dures sous les yeux de votre modèle.
-3. **Diffuseurs :** Utilisez une petite "softbox" de flash pour agrandir la source de lumière et adoucir les transitions.
+### 3. Conseils techniques pour débuter
+* **Le Rebond (Bounce) :** Ne visez pas votre sujet, visez le plafond blanc.
+* **TTL vs Manuel :** Commencez en mode TTL (automatique) pour laisser le flash calculer la puissance, puis passez en manuel quand vous serez à l'aise.
 
 ## Conclusion
-
-Le flash n'est pas là pour remplacer la lumière, mais pour l'améliorer. En investissant dans un système polyvalent comme **Godox**, vous vous ouvrez les portes de la photographie créative et du portrait professionnel.
-
-**Astuce :** Pensez à vérifier la compatibilité avec votre marque (Sony, Canon, Nikon) avant l'achat !
+Le flash n'est pas là pour remplacer la lumière, mais pour la contrôler. En choisissant un système polyvalent comme Godox, vous investissez dans un matériel qui évoluera avec vous.
