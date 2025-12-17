@@ -27,6 +27,14 @@ L'absence de pièces mobiles complexes pour le zoom permet aux ingénieurs d'opt
 ---
 
 ### 2. Les Focales Fixes Essentielles (Sélection 2025)
+> **⚠️ Ne vous trompez pas de Monture !**
+> Une focale fixe est un investissement durable, mais elle doit être compatible avec votre boîtier. Les objectifs listés ci-dessous existent pour la plupart des marques :
+> * **Sony** : Cherchez la mention **FE** ou **E-Mount**.
+> * **Nikon** : Cherchez la mention **Nikkor Z**.
+> * **Canon** : Cherchez la mention **RF** (Hybrides) ou **EF** (Reflex).
+> * **Fujifilm** : Cherchez la mention **X-Mount**.
+>
+> 🛒 **Conseil :** En cliquant sur les liens ci-dessous, utilisez le menu pour sélectionner la monture adaptée à votre appareil.
 
 | Modèle | Performance | Dominante | Budget | Verdict |
 | :--- | :---: | :---: | :---: | :--- |

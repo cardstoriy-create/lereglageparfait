@@ -20,6 +20,12 @@ C'est le facteur déterminant entre un objectif amateur et un modèle profession
 * **Ouverture Constante (ex: f/2.8) :** Maintient la même luminosité sur toute la plage. Indispensable pour un *bokeh* prononcé et une exposition constante, particulièrement en vidéo.
 
 ---
+> **⚠️ Rappel Important : La Monture**
+> Avant d'acheter, vérifiez que l'objectif correspond à la **monture** de votre boîtier. Les liens ci-dessous proposent souvent plusieurs versions : 
+> * **Sony** : Monture E (E-Mount)
+> * **Nikon** : Monture Z (Z-mount) ou F
+> * **Canon** : Monture RF ou EF
+> * **Fujifilm** : Monture X
 
 ### 2. Notre Sélection des Meilleurs Zooms Standards (2025)
 
