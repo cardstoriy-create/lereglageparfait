@@ -1,17 +1,18 @@
-﻿baseURL = "/"
+baseURL = "/"
 languageCode = "fr-fr"
-title = "Le RÃ©glage Parfait"
+title = "Le Réglage Parfait"
 theme = "PaperMod"
+
+# Forcer Hugo à utiliser des URLs en minuscules
+preserveTaxonomyNames = false
 
 [Paginacion] 
     pagerSize = 10
 
 [build]
-	target = "production"
-	extended = true
-	hugo_version = "0.121.2"
+    target = "production"
+    extended = true
 
-# MENU PRINCIPAL
 [menu]
   [[menu.main]]
     identifier = "accueil"
@@ -20,13 +21,13 @@ theme = "PaperMod"
     weight = 10
   [[menu.main]]
     identifier = "materiel"
-    name = "MatÃ©riel"
-    url = "/tags/MatÃ©riel/"
+    name = "Matériel"
+    url = "/tags/materiel/"
     weight = 20
   [[menu.main]]
     identifier = "technique"
     name = "Technique"
-    url = "/tags/Composition/" 
+    url = "/tags/composition/" 
     weight = 30
   [[menu.main]]
     identifier = "articles"
@@ -42,35 +43,19 @@ theme = "PaperMod"
     showPageNums = true
     showToc = true
 
-    # --- CONFIGURATION DE LA PAGE D'ACCUEIL (Profile Mode) ---
     [params.profileMode]
         enabled = true
-        title = "Le RÃ©glage Parfait ðŸ“¸"
-        subtitle = "Dominez votre matÃ©riel, sublimez vos images. Guides experts pour photographes exigeants."
-        imageUrl = "logo.webp" # Nous crÃ©erons ce logo juste aprÃ¨s
+        title = "Le Réglage Parfait 📸"
+        subtitle = "Dominez votre matériel, sublimez vos images. Guides experts pour photographes exigeants."
+        imageUrl = "logo.webp"
         imageWidth = 120
         imageHeight = 120
         [[params.profileMode.buttons]]
-            name = "ðŸ“¸ Nos Guides MatÃ©riel"
-            url = "/tags/MatÃ©riel/"
+            name = "📸 Nos Guides Matériel"
+            url = "/tags/materiel/"
         [[params.profileMode.buttons]]
-            name = "ðŸŽ¨ MaÃ®triser la Composition"
+            name = "🎨 Maîtriser la Composition"
             url = "/posts/guide-composition/"
-
-    # --- RÃ‰SEAUX SOCIAUX (Optionnel - laissez vide si non utilisÃ©) ---
-    [[params.socialIcons]]
-        name = "instagram"
-        url = "https://instagram.com/"
-    [[params.socialIcons]]
-        name = "youtube"
-        url = "https://youtube.com/"
 
 [markup.goldmark.renderer]
     unsafe = true
-
-[markup.goldmark.external]
-    nofollow = true
-    noopener = true
-    noreferrer = true
-    target = "_blank"
-
