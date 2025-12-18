@@ -63,3 +63,4 @@ Pour ceux qui ne veulent emporter qu'un seul objectif. Bien qu'Ã  ouverture va
 ## Conclusion
 
 Un zoom de qualitÃ© est un investissement durable. Si vous shootez souvent en intÃ©rieur ou en fin de journÃ©e, privilÃ©giez toujours une **ouverture constante f/2.8**, mÃªme si cela implique de choisir une marque tierce comme Sigma ou Tamron pour respecter votre budget.
+

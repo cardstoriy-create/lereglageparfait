@@ -65,3 +65,4 @@ Utilisant des particules blanches, il crÃ©e une diffusion plus large et vapore
 ## Conclusion
 
 Le filtre de diffusion n'est pas un gadget, c'est un outil de narration. Il dit au spectateur que ce qu'il regarde est une histoire, un souvenir, et non une rÃ©alitÃ© brute. Pour dÃ©buter, nous vous recommandons vivement l'intensitÃ© **1/4**.
+

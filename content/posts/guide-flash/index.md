@@ -55,3 +55,4 @@ Pour utiliser votre flash Ã  distance. Assurez-vous de prendre le modÃ¨le co
 
 ## Conclusion
 Le flash n'est pas lÃ  pour remplacer la lumiÃ¨re, mais pour la contrÃ´ler. En choisissant un systÃ¨me polyvalent comme Godox, vous investissez dans un matÃ©riel qui Ã©voluera avec vous.
+

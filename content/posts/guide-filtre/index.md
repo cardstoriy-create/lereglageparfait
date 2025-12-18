@@ -64,3 +64,4 @@ Pour magnifier les couleurs et supprimer les reflets sans assombrir l'image.
 ## Conclusion
 
 Investir dans un bon filtre, c'est comme mettre de bons pneus sur une voiture de sport. Un filtre de mauvaise qualitÃ© gÃ¢chera le piquÃ© de votre objectif. PrivilÃ©giez toujours le verre optique traitÃ© comme ceux sÃ©lectionnÃ©s ci-dessus.
+

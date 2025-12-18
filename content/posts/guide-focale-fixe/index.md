@@ -75,3 +75,4 @@ Utiliser une focale fixe force le photographe Ã  **"zoomer avec ses pieds"**. 
 ## Conclusion : DÃ©zoomer pour mieux voir
 
 Si vous recherchez la nettetÃ© absolue et le bokeh cinÃ©matographique, la focale fixe est le meilleur investissement aprÃ¨s un bon [trÃ©pied](/posts/guide-trepied). Elle changera radicalement votre maniÃ¨re de composer vos images.
+

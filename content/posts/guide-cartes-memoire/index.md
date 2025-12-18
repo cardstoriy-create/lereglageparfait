@@ -66,3 +66,4 @@ Pour Ã©viter la corruption de donnÃ©es, ne supprimez pas vos photos une par 
 ## Conclusion
 
 Ne faites pas d'Ã©conomies de bouts de chandelle sur vos cartes mÃ©moires. Une carte **V60 ou V90** est aujourd'hui le meilleur investissement pour Ãªtre tranquille plusieurs annÃ©es sans brider votre appareil photo.
+
