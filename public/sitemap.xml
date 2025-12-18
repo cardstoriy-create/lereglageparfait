@@ -2,52 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/flash/</loc>
-    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/posts/guide-flash/</loc>
-    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/lumi%C3%A3re/</loc>
-    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/mat%C3%A3riel/</loc>
-    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/categories/mat%C3%A3riel-pro/</loc>
-    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/portrait/</loc>
-    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/categories/techniques/</loc>
-    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/appareil-photo/</loc>
-    <lastmod>2025-12-15T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/d%C3%A3butant/</loc>
-    <lastmod>2025-12-15T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/guide-achat/</loc>
-    <lastmod>2025-12-15T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/posts/guide-photo-debutant/</loc>
-    <lastmod>2025-12-15T08:00:00+01:00</lastmod>
-  </url><url>
     <loc>/tags/cadrage/</loc>
+    <lastmod>2025-12-14T22:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
     <lastmod>2025-12-14T22:00:00+01:00</lastmod>
   </url><url>
     <loc>/tags/composition/</loc>
@@ -59,80 +17,42 @@
     <loc>/categories/d%C3%A9buter/</loc>
     <lastmod>2025-12-14T22:00:00+01:00</lastmod>
   </url><url>
+    <loc>/</loc>
+    <lastmod>2025-12-14T22:00:00+01:00</lastmod>
+  </url><url>
     <loc>/posts/guide-composition/</loc>
+    <lastmod>2025-12-14T22:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-12-14T22:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2025-12-14T22:00:00+01:00</lastmod>
   </url><url>
     <loc>/tags/technique/</loc>
     <lastmod>2025-12-14T22:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/filtres/</loc>
-    <lastmod>2025-12-14T12:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/posts/guide-filtre/</loc>
-    <lastmod>2025-12-14T12:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/longue-exposition/</loc>
-    <lastmod>2025-12-14T12:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/paysage/</loc>
-    <lastmod>2025-12-14T12:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/focale-fixe/</loc>
-    <lastmod>2025-12-14T09:30:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/objectif/</loc>
-    <lastmod>2025-12-14T09:30:00+01:00</lastmod>
-  </url><url>
-    <loc>/posts/guide-focale-fixe/</loc>
-    <lastmod>2025-12-14T09:30:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/accessoire/</loc>
-    <lastmod>2025-12-13T17:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/categories/accessoires/</loc>
-    <lastmod>2025-12-13T17:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/guide-dachat/</loc>
-    <lastmod>2025-12-13T17:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/posts/guide-trepied/</loc>
-    <lastmod>2025-12-13T17:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/materiel/</loc>
-    <lastmod>2025-12-13T17:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/stabilit%C3%A3/</loc>
-    <lastmod>2025-12-13T17:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/tr%C3%A3pied/</loc>
-    <lastmod>2025-12-13T17:00:00+01:00</lastmod>
+    <loc>/categories/techniques/</loc>
+    <lastmod>2025-12-14T22:00:00+01:00</lastmod>
   </url><url>
     <loc>/about/</loc>
-    <lastmod>2025-12-13T16:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/cin%C3%A3ma/</loc>
-    <lastmod>2025-12-13T09:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/posts/guide-filtre-diffusion/</loc>
-    <lastmod>2025-12-13T09:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/guide-technique/</loc>
-    <lastmod>2025-01-14T09:00:00+01:00</lastmod>
+    <lastmod>2025-12-13T19:00:00+01:00</lastmod>
   </url><url>
     <loc>/posts/guide-cartes-memoire/</loc>
-    <lastmod>2025-01-14T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>/categories/mat%C3%A3riel/</loc>
-    <lastmod>2025-01-14T09:00:00+01:00</lastmod>
+    <loc>/posts/guide-filtre-diffusion/</loc>
   </url><url>
-    <loc>/tags/stockage/</loc>
-    <lastmod>2025-01-14T09:00:00+01:00</lastmod>
+    <loc>/posts/guide-filtre/</loc>
+  </url><url>
+    <loc>/posts/guide-flash/</loc>
+  </url><url>
+    <loc>/posts/guide-focale-fixe/</loc>
   </url><url>
     <loc>/posts/guide-objectif-zoom/</loc>
-    <lastmod>2023-11-20T10:15:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/zoom/</loc>
-    <lastmod>2023-11-20T10:15:00+01:00</lastmod>
+    <loc>/posts/guide-photo-debutant/</loc>
+  </url><url>
+    <loc>/posts/guide-trepied/</loc>
   </url><url>
     <loc>/post/guide-filtres-photo/</loc>
   </url><url>

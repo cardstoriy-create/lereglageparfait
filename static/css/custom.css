@@ -47,7 +47,7 @@ a, .link {
     font-size: 2.25rem !important; 
 }
 
-/* * 3. SOLUTION NUCLÉAIRE ANTI-DOUBLON 
+/* * 3. SOLUTION NUCLéAIRE ANTI-DOUBLON 
  * Cela interdit strictement l'affichage de l'image en background dans le header
  */
 .header, .bg-left, .bg-center, .cover, .bg-img, div[style*="background-image"] {

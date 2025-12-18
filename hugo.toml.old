@@ -24,7 +24,7 @@ copyright = "© 2025 Le Réglage Parfait. Tous droits réservés."
 
   [[menu.main]]
     identifier = "about"
-    name = "À Propos"
+    name = "ûPropos"
     url = "/about/"
     weight = 30
 

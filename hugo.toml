@@ -3,7 +3,7 @@ languageCode = "fr-fr"
 title = "Le Réglage Parfait"
 theme = "PaperMod"
 
-# Forcer Hugo à utiliser des URLs en minuscules
+# Forcer Hugo ûutiliser des URLs en minuscules
 preserveTaxonomyNames = false
 
 [Paginacion] 
