@@ -1,6 +1,6 @@
-baseURL = "/"
+﻿baseURL = "/"
 languageCode = "fr-fr"
-title = "Le Réglage Parfait"
+title = "Le RÃ©glage Parfait"
 theme = "PaperMod"
 
 [Paginacion] 
@@ -20,8 +20,8 @@ theme = "PaperMod"
     weight = 10
   [[menu.main]]
     identifier = "materiel"
-    name = "Matériel"
-    url = "/tags/Matériel/"
+    name = "MatÃ©riel"
+    url = "/tags/MatÃ©riel/"
     weight = 20
   [[menu.main]]
     identifier = "technique"
@@ -45,19 +45,19 @@ theme = "PaperMod"
     # --- CONFIGURATION DE LA PAGE D'ACCUEIL (Profile Mode) ---
     [params.profileMode]
         enabled = true
-        title = "Le Réglage Parfait 📸"
-        subtitle = "Dominez votre matériel, sublimez vos images. Guides experts pour photographes exigeants."
-        imageUrl = "logo.webp" # Nous créerons ce logo juste après
+        title = "Le RÃ©glage Parfait ðŸ“¸"
+        subtitle = "Dominez votre matÃ©riel, sublimez vos images. Guides experts pour photographes exigeants."
+        imageUrl = "logo.webp" # Nous crÃ©erons ce logo juste aprÃ¨s
         imageWidth = 120
         imageHeight = 120
         [[params.profileMode.buttons]]
-            name = "📸 Nos Guides Matériel"
-            url = "/tags/Matériel/"
+            name = "ðŸ“¸ Nos Guides MatÃ©riel"
+            url = "/tags/MatÃ©riel/"
         [[params.profileMode.buttons]]
-            name = "🎨 Maîtriser la Composition"
+            name = "ðŸŽ¨ MaÃ®triser la Composition"
             url = "/posts/guide-composition/"
 
-    # --- RÉSEAUX SOCIAUX (Optionnel - laissez vide si non utilisé) ---
+    # --- RÃ‰SEAUX SOCIAUX (Optionnel - laissez vide si non utilisÃ©) ---
     [[params.socialIcons]]
         name = "instagram"
         url = "https://instagram.com/"
