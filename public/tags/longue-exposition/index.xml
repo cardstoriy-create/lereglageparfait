@@ -2,31 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Longue Exposition on Le Réglage Parfait</title>
-<<<<<<< HEAD
     <link>/tags/longue-exposition/</link>
-=======
-    <link>//localhost:1313/tags/longue-exposition/</link>
->>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
     <description>Recent content in Longue Exposition on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 14 Dec 2025 12:00:00 +0100</lastBuildDate>
-<<<<<<< HEAD
     <atom:link href="/tags/longue-exposition/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Filtres ND et CPL : Le Guide Complet pour Maîtriser la Longue Exposition et les Reflets</title>
-      <link>/posts/guide-filtres-nd-cpl/</link>
+      <title>Guide Ultime : Filtres ND et CPL pour MaÃ®triser la Longue Exposition et les Reflets</title>
+      <link>/posts/guide-filtre/</link>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
-      <guid>/posts/guide-filtres-nd-cpl/</guid>
-=======
-    <atom:link href="//localhost:1313/tags/longue-exposition/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Filtres ND et CPL : Le Guide Complet pour Maîtriser la Longue Exposition et les Reflets</title>
-      <link>//localhost:1313/posts/guide-filtres-nd-cpl/</link>
-      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
-      <guid>//localhost:1313/posts/guide-filtres-nd-cpl/</guid>
->>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
-      <description>Les filtres à densité neutre (ND) et les filtres polarisants (CPL) sont essentiels pour le paysage. Découvrez comment figer le mouvement (eau, nuages) et éliminer les reflets pour des couleurs éclatantes.</description>
+      <guid>/posts/guide-filtre/</guid>
+      <description>MaÃ®trisez la lumiÃ¨re comme un pro : guide complet sur le choix et l&amp;#39;utilisation des filtres ND (densitÃ© neutre) et polarisants (CPL) en photo et vidÃ©o.</description>
     </item>
   </channel>
 </rss>

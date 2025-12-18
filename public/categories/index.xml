@@ -2,56 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Le Réglage Parfait</title>
-<<<<<<< HEAD
     <link>/categories/</link>
-=======
-    <link>//localhost:1313/categories/</link>
->>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
     <description>Recent content in Categories on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 14 Dec 2025 12:00:00 +0100</lastBuildDate>
-<<<<<<< HEAD
+    <lastBuildDate>Wed, 17 Dec 2025 10:00:00 +0100</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Matériel Pro</title>
-      <link>/categories/mat%C3%A9riel-pro/</link>
-      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
-      <guid>/categories/mat%C3%A9riel-pro/</guid>
-=======
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Matériel Pro</title>
-      <link>//localhost:1313/categories/mat%C3%A9riel-pro/</link>
-      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
-      <guid>//localhost:1313/categories/mat%C3%A9riel-pro/</guid>
->>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
+      <title>MatÃ©riel Pro</title>
+      <link>/categories/mat%C3%A3riel-pro/</link>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0100</pubDate>
+      <guid>/categories/mat%C3%A3riel-pro/</guid>
       <description></description>
     </item>
     <item>
       <title>Techniques</title>
-<<<<<<< HEAD
       <link>/categories/techniques/</link>
-      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0100</pubDate>
       <guid>/categories/techniques/</guid>
-=======
-      <link>//localhost:1313/categories/techniques/</link>
-      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
-      <guid>//localhost:1313/categories/techniques/</guid>
->>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
+      <description></description>
+    </item>
+    <item>
+      <title>Débuter</title>
+      <link>/categories/d%C3%A9buter/</link>
+      <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
+      <guid>/categories/d%C3%A9buter/</guid>
       <description></description>
     </item>
     <item>
       <title>Accessoires</title>
-<<<<<<< HEAD
       <link>/categories/accessoires/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
       <guid>/categories/accessoires/</guid>
-=======
-      <link>//localhost:1313/categories/accessoires/</link>
-      <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
-      <guid>//localhost:1313/categories/accessoires/</guid>
->>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
+      <description></description>
+    </item>
+    <item>
+      <title>MatÃ©riel</title>
+      <link>/categories/mat%C3%A3riel/</link>
+      <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
+      <guid>/categories/mat%C3%A3riel/</guid>
       <description></description>
     </item>
   </channel>

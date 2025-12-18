@@ -2,31 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Focale Fixe on Le Réglage Parfait</title>
-<<<<<<< HEAD
     <link>/tags/focale-fixe/</link>
-=======
-    <link>//localhost:1313/tags/focale-fixe/</link>
->>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
     <description>Recent content in Focale Fixe on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 14 Dec 2025 09:30:00 +0100</lastBuildDate>
-<<<<<<< HEAD
     <atom:link href="/tags/focale-fixe/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Objectifs à Focale Fixe (Primes) : Le Guide pour une Qualité Optique Maximale</title>
+      <title>Objectifs Ã  Focale Fixe (Primes) : Le Guide pour une QualitÃ© Optique Maximale</title>
       <link>/posts/guide-focale-fixe/</link>
       <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
       <guid>/posts/guide-focale-fixe/</guid>
-=======
-    <atom:link href="//localhost:1313/tags/focale-fixe/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Objectifs à Focale Fixe (Primes) : Le Guide pour une Qualité Optique Maximale</title>
-      <link>//localhost:1313/posts/guide-focale-fixe/</link>
-      <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
-      <guid>//localhost:1313/posts/guide-focale-fixe/</guid>
->>>>>>> c271c63f617b67930cbe527b2de1276ed924e4b8
-      <description>Découvrez pourquoi les objectifs à focale fixe offrent une netteté et une luminosité imbattables pour le portrait, la photo de rue et les situations de basse lumière.</description>
+      <description>Guide complet sur les Objectifs Ã  Focale Fixe (Primes). DÃ©couvrez comment atteindre une nettetÃ© imbattable, obtenir un bokeh crÃ©meux et choisir la meilleure focale.</description>
     </item>
   </channel>
 </rss>
