@@ -1,13 +1,13 @@
 ---
-title: "ûPropos : Notre Mission et Philosophie"
+title: "À Propos : Notre Mission et Philosophie"
 date: 2025-12-13T19:00:00+01:00
 draft: false
 featured_image: "/images/optique-about.webp" # Exemple de chemin d'image pour cette page
 ---
 
-# Notre Mission : L’Excellence Optique ûPortée de Main
+# Notre Mission : L’Excellence Optique à Portée de Main
 
-Bienvenue sur **Le Réglage Parfait**, la ressource dédiée ûtous ceux qui aiment l'image, des débutants aux passionnés avancés. Notre mission est simple : vous fournir les connaissances techniques nécessaires pour obtenir des résultats impeccables, peu importe votre équipement.
+Bienvenue sur **Le Réglage Parfait**, la ressource dédiée à tous ceux qui aiment l'image, des débutants aux passionnés avancés. Notre mission est simple : vous fournir les connaissances techniques nécessaires pour obtenir des résultats impeccables, peu importe votre équipement.
 
 ---
 
@@ -21,12 +21,12 @@ Ce site est alimenté par un groupe d'**amateurs passionnés et avertis** qui pa
 
 Nous vous proposons des guides d'achat et des tutoriels basés sur une approche technique rigoureuse, couvrant trois piliers fondamentaux :
 
-* **Maîtrise de la Lumière :** Guides complets sur l'utilisation des filtres ND, CPL, et autres correcteurs optiques.
-* **Stabilité et Précision :** Critères de sélection et techniques avancées pour les trépieds et autres systèmes de support.
-* **Optique et Focale :** Conseils pour choisir et exploiter au maximum vos objectifs, du zoom au focale fixe.
+- **Maîtrise de la Lumière :** Guides complets sur l'utilisation des filtres ND, CPL, et autres correcteurs optiques.
+- **Stabilité et Précision :** Critères de sélection et techniques avancées pour les trépieds et autres systèmes de support.
+- **Optique et Focale :** Conseils pour choisir et exploiter au maximum vos objectifs, du zoom au focale fixe.
 
 ## 🤝 Notre Engagement
 
 Nos recommandations sont basées sur des tests pratiques et le partage d'expérience. Notre objectif n'est pas de vendre des produits, mais de vous équiper intellectuellement. C'est pourquoi nous mettons l'accent sur la neutralité et la pertinence de l'information.
 
-**Le Réglage Parfait est votre partenaire pour passer du simple déclencheur ûl'amateur qui maîtrise la lumière et le temps.**
+**Le Réglage Parfait est votre partenaire pour passer du simple déclencheur à l'amateur qui maîtrise la lumière et le temps.**

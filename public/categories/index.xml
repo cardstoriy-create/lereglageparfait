@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 14 Dec 2025 22:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 10:00:00 +0100</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Materiel-Pro</title>
+      <link>/categories/materiel-pro/</link>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0100</pubDate>
+      <guid>/categories/materiel-pro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Techniques</title>
+      <link>/categories/techniques/</link>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0100</pubDate>
+      <guid>/categories/techniques/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Débuter</title>
       <link>/categories/d%C3%A9buter/</link>
@@ -16,10 +30,17 @@
       <description></description>
     </item>
     <item>
-      <title>Techniques</title>
-      <link>/categories/techniques/</link>
-      <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
-      <guid>/categories/techniques/</guid>
+      <title>Accessoires</title>
+      <link>/categories/accessoires/</link>
+      <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
+      <guid>/categories/accessoires/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Materiel</title>
+      <link>/categories/materiel/</link>
+      <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
+      <guid>/categories/materiel/</guid>
       <description></description>
     </item>
   </channel>

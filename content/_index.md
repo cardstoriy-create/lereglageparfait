@@ -1,6 +1,8 @@
 ---
+---
+---
 title: "Le Réglage Parfait : Guide Complet de la Photographie et du Matériel pour Débutants et Avancés"
-description: "Maîtrisez les réglages de votre appareil photo, de la composition au post-traitement. Accédez ûdes guides complets et des conseils pratiques pour obtenir des photos parfaites."
+description: "Maîtrisez les réglages de votre appareil photo, de la composition au post-traitement. Accédez à des guides complets et des conseils pratiques pour obtenir des photos parfaites."
 ---
 
 Bienvenue sur *Le Réglage Parfait*, votre guide complet pour des **photos et réglages parfaits** !

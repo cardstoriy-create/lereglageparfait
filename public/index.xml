@@ -1,175 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Le Réglage Parfait : Guide Complet de la Photographie et du Matériel pour Débutants et Avancés on Le Réglage Parfait</title>
+    <title>Le Réglage Parfait</title>
     <link>/</link>
-    <description>Recent content in Le Réglage Parfait : Guide Complet de la Photographie et du Matériel pour Débutants et Avancés on Le Réglage Parfait</description>
+    <description>Recent content on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 14 Dec 2025 22:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 10:00:00 +0100</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide du Flash Cobra : Sublimer vos Photos sans l&#39;effet &#39;Fromage Blanc&#39;</title>
+      <link>/posts/guide-flash/</link>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0100</pubDate>
+      <guid>/posts/guide-flash/</guid>
+      <description>Apprenez à maîtriser le flash cobra. Découvrez comment créer une lumière douce, choisir le bon matériel et éviter les erreurs classiques du débutant.</description>
+    </item>
+    <item>
+      <title>Le Meilleur Appareil Photo pour Débuter en 2026 : Hybride vs Reflex</title>
+      <link>/posts/guide-photo-debutant/</link>
+      <pubDate>Mon, 01 Dec 2025 09:00:00 +0100</pubDate>
+      <guid>/posts/guide-photo-debutant/</guid>
+      <description>Notre guide complet pour choisir votre premier appareil photo en 2026. Découvrez les différences clés entre Hybride et Reflex, et quel modèle choisir pour commencer votre aventure photographique.</description>
+    </item>
     <item>
       <title>Maîtriser le Cadrage : Les 3 Règles d&#39;Or de la Composition</title>
       <link>/posts/guide-composition/</link>
       <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
       <guid>/posts/guide-composition/</guid>
-      <description>Passez de la technique Ã  l&amp;#39;art. Découvrez la Règle des Tiers, la Symétrie et comment utiliser les Lignes Directrices pour des photos captivantes.</description>
+      <description>Passez de la technique à l&amp;#39;art. Découvrez la Règle des Tiers, la Symétrie et comment utiliser les Lignes Directrices pour des photos captivantes.</description>
     </item>
     <item>
-      <title></title>
-      <link>/posts/guide-cartes-memoire/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/guide-cartes-memoire/</guid>
-      <description>&lt;p&gt;ï»¿&amp;mdash;
-title: &amp;ldquo;Guide Ultime des Cartes MÃƒâ©moire : Comprendre les Vitesses (V30, V60, V90) et Choisir la Bonne&amp;rdquo;
-date: 2025-01-14T09:00:00+01:00
-draft: false
-description: &amp;ldquo;Ne perdez plus jamais une photo Ãƒâ  cause d&amp;rsquo;une carte lente. Tout comprendre sur les normes SD, UHS-II, CFexpress et nos recommandations d&amp;rsquo;achat.&amp;rdquo;
-featured_image: &amp;ldquo;cartes-memoire.webp&amp;rdquo;
-tags: [&amp;ldquo;MatÃƒâ©riel&amp;rdquo;, &amp;ldquo;Stockage&amp;rdquo;, &amp;ldquo;Guide Technique&amp;rdquo;]
-categories: [&amp;ldquo;Accessoires&amp;rdquo;, &amp;ldquo;MatÃƒâ©riel&amp;rdquo;]
-images:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;cartes-memoire.webp&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Le choix d&amp;rsquo;une carte mÃƒâ©moire est souvent nÃƒâ©gligÃƒâ©, pourtant c&amp;rsquo;est l&amp;rsquo;un des composants les plus critiques de votre Ãƒâ©quipement. Avoir le meilleur appareil photo du monde ne sert Ãƒâ  rien si votre carte mÃƒâ©moire ne peut pas suivre la cadence en rafale ou en vidÃƒâ©o 4K.&lt;/p&gt;</description>
+      <title>Objectifs à Focale Fixe (Primes) : Le Guide pour une Qualité Optique Maximale</title>
+      <link>/posts/guide-focale-fixe/</link>
+      <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
+      <guid>/posts/guide-focale-fixe/</guid>
+      <description>Guide complet sur les Objectifs à Focale Fixe (Primes). Découvrez comment atteindre une netteté imbattable, obtenir un bokeh crémeux et choisir la meilleure focale.</description>
     </item>
     <item>
-      <title></title>
+      <title>Guide du Trépied : Comment choisir, installer et stabiliser votre appareil</title>
+      <link>/posts/guide-trepied/</link>
+      <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
+      <guid>/posts/guide-trepied/</guid>
+      <description>Le trépied est l&amp;#39;outil ultime de la netteté. Découvrez les critères essentiels (matériaux, tête, charge maximale) pour bien choisir le vôtre et les techniques de stabilisation de pro.</description>
+    </item>
+    <item>
+      <title>Filtres de Diffusion (Black Mist) : Le Secret du &#39;Ciné Look&#39; en Photo et Vidéo</title>
       <link>/posts/guide-filtre-diffusion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
       <guid>/posts/guide-filtre-diffusion/</guid>
-      <description>&lt;p&gt;ï»¿&amp;mdash;
-title: &amp;ldquo;Filtres de Diffusion (Black Mist) : Le Secret du &amp;lsquo;CinÃƒâ© Look&amp;rsquo; en Photo et VidÃƒâ©o&amp;rdquo;
-date: 2025-12-13T09:00:00+01:00
-draft: false
-description: &amp;ldquo;DÃƒâ©couvrez comment les filtres de diffusion (Black Mist) recrÃƒâ©ent la douceur du cinÃƒâ©ma argentique, lissent la peau et subliment les lumiÃƒâ¨res.&amp;rdquo;
-tags: [&amp;ldquo;MatÃƒâ©riel&amp;rdquo;, &amp;ldquo;Filtres&amp;rdquo;, &amp;ldquo;CinÃƒâ©ma&amp;rdquo;, &amp;ldquo;Portrait&amp;rdquo;]
-categories: [&amp;ldquo;MatÃƒâ©riel Pro&amp;rdquo;, &amp;ldquo;Techniques&amp;rdquo;]
-featured_image: &amp;ldquo;diffusion-mist-couverture.webp&amp;rdquo;
-images:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;diffusion-mist-couverture.webp&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Avez-vous dÃƒâ©jÃƒâ  trouvÃƒâ© que vos images manquaient d&amp;rsquo;Ãƒâ¢me malgrÃƒâ© un matÃƒâ©riel de pointe ? Les capteurs 4K/8K et les objectifs modernes sont devenus &lt;strong&gt;trop cliniques&lt;/strong&gt;. La solution utilisÃƒâ©e Ãƒâ  Hollywood est le &lt;strong&gt;filtre de diffusion&lt;/strong&gt;, souvent appelÃƒâ© &lt;strong&gt;&amp;ldquo;Black Mist&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>Découvrez comment les filtres de diffusion (Black Mist) recréent la douceur du cinéma argentique, lissent la peau et subliment les lumières.</description>
+    </item>
+    <item>
+      <title>Guide Ultime des Cartes Mémoire : Comprendre les Vitesses (V30, V60, V90) et Choisir la Bonne</title>
+      <link>/posts/guide-cartes-memoire/</link>
+      <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
+      <guid>/posts/guide-cartes-memoire/</guid>
+      <description>Ne perdez plus jamais une photo à cause d&amp;#39;une carte lente. Tout comprendre sur les normes SD, UHS-II, CFexpress et nos recommandations d&amp;#39;achat.</description>
     </item>
     <item>
       <title></title>
       <link>/posts/guide-filtre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/posts/guide-filtre/</guid>
-      <description>&lt;p&gt;ï»¿&amp;mdash;
-title: &amp;ldquo;Guide Ultime : Filtres ND et CPL pour MaÃƒâ®triser la Longue Exposition et les Reflets&amp;rdquo;
+      <description>&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;title: &amp;ldquo;Guide Ultime : Filtres ND et CPL pour Maîtriser la Longue Exposition et les Reflets&amp;rdquo;
 date: 2025-12-14T12:00:00+01:00
 draft: false
-description: &amp;ldquo;MaÃƒâ®trisez la lumiÃƒâ¨re comme un pro : guide complet sur le choix et l&amp;rsquo;utilisation des filtres ND (densitÃƒâ© neutre) et polarisants (CPL) en photo et vidÃƒâ©o.&amp;rdquo;
-tags: [&amp;ldquo;MatÃƒâ©riel&amp;rdquo;, &amp;ldquo;Filtres&amp;rdquo;, &amp;ldquo;Paysage&amp;rdquo;, &amp;ldquo;Longue Exposition&amp;rdquo;]
-categories: [&amp;ldquo;MatÃƒâ©riel Pro&amp;rdquo;, &amp;ldquo;Techniques&amp;rdquo;]
+description: &amp;ldquo;Maîtrisez la lumière comme un pro : guide complet sur le choix et l&amp;rsquo;utilisation des filtres ND (densité neutre) et polarisants (CPL) en photo et vidéo.&amp;rdquo;
+tags: [&amp;ldquo;materiel&amp;rdquo;, &amp;ldquo;Filtres&amp;rdquo;, &amp;ldquo;Paysage&amp;rdquo;, &amp;ldquo;Longue Exposition&amp;rdquo;]
+categories: [&amp;ldquo;materiel-pro&amp;rdquo;, &amp;ldquo;Techniques&amp;rdquo;]
 featured_image: &amp;ldquo;filtre-nd-couverture.webp&amp;rdquo;
 images:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&amp;ldquo;filtre-nd-couverture.webp&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;Dans le monde de l&amp;rsquo;optique, la lumiÃƒâ¨re est votre matiÃƒâ¨re premiÃƒâ¨re. Un photographe ou vidÃƒâ©aste professionnel ne peut pas se contenter de laisser l&amp;rsquo;appareil gÃƒâ©rer l&amp;rsquo;exposition. Les &lt;strong&gt;filtres Ãƒâ  densitÃƒâ© neutre (ND)&lt;/strong&gt; et les &lt;strong&gt;filtres polarisants circulaires (CPL)&lt;/strong&gt; sont des outils de prÃƒâ©cision qui permettent de manipuler le temps et les reflets.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/posts/guide-flash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/guide-flash/</guid>
-      <description>&lt;p&gt;ï»¿&amp;mdash;
-title: &amp;ldquo;Guide du Flash Cobra : Sublimer vos Photos sans l&amp;rsquo;effet &amp;lsquo;Fromage Blanc&amp;rsquo;&amp;rdquo;
-date: 2025-12-17T10:00:00+01:00
-draft: false
-description: &amp;ldquo;Apprenez Ãƒâ  maÃƒâ®triser le flash cobra. DÃƒâ©couvrez comment crÃƒâ©er une lumiÃƒâ¨re douce, choisir le bon matÃƒâ©riel et Ãƒâ©viter les erreurs classiques du dÃƒâ©butant.&amp;rdquo;
-featured_image: &amp;ldquo;guide-flash-cover.webp&amp;rdquo;
-tags: [&amp;ldquo;MatÃƒâ©riel&amp;rdquo;, &amp;ldquo;Flash&amp;rdquo;, &amp;ldquo;LumiÃƒâ¨re&amp;rdquo;, &amp;ldquo;Portrait&amp;rdquo;]
-categories: [&amp;ldquo;MatÃƒâ©riel Pro&amp;rdquo;, &amp;ldquo;Techniques&amp;rdquo;]
-images:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;guide-flash-cover.webp&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Beaucoup de photographes craignent le flash car ils l&amp;rsquo;associent Ãƒâ  des visages trop blancs et des ombres portÃƒâ©es noires. Pourtant, le flash est l&amp;rsquo;outil ultime pour sculpter la lumiÃƒâ¨re, mÃƒâªme en plein soleil.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/posts/guide-focale-fixe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/guide-focale-fixe/</guid>
-      <description>&lt;p&gt;ï»¿&amp;mdash;
-title: &amp;ldquo;Objectifs Ãƒâ  Focale Fixe (Primes) : Le Guide pour une QualitÃƒâ© Optique Maximale&amp;rdquo;
-date: 2025-12-14T09:30:00+01:00
-draft: false
-description: &amp;ldquo;Guide complet sur les Objectifs Ãƒâ  Focale Fixe (Primes). DÃƒâ©couvrez comment atteindre une nettetÃƒâ© imbattable, obtenir un bokeh crÃƒâ©meux et choisir la meilleure focale.&amp;rdquo;
-featured_image: &amp;ldquo;focale-fixe-cover.webp&amp;rdquo;
-tags: [&amp;ldquo;MatÃƒâ©riel&amp;rdquo;, &amp;ldquo;Objectif&amp;rdquo;, &amp;ldquo;Focale Fixe&amp;rdquo;, &amp;ldquo;Portrait&amp;rdquo;]
-categories: [&amp;ldquo;MatÃƒâ©riel Pro&amp;rdquo;, &amp;ldquo;Techniques&amp;rdquo;]
-images:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;focale-fixe-cover.webp&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Contrairement Ãƒâ  leurs homologues &lt;a href=&#34;/posts/guide-objectif-zoom&#34;&gt;zooms&lt;/a&gt; qui privilÃƒâ©gient la polyvalence, les objectifs Ãƒâ  focale fixe ââ‚¬â€ souvent appelÃƒâ©s &amp;ldquo;Primes&amp;rdquo; ââ‚¬â€ sont dÃƒâ©diÃƒâ©s Ãƒâ  une seule longueur focale.&lt;/p&gt;</description>
+&lt;p&gt;Dans le monde de l&amp;rsquo;optique, la lumière est votre matière première. Un photographe ou vidéaste professionnel ne peut pas se contenter de laisser l&amp;rsquo;appareil gérer l&amp;rsquo;exposition. Les &lt;strong&gt;filtres à densité neutre (ND)&lt;/strong&gt; et les &lt;strong&gt;filtres polarisants circulaires (CPL)&lt;/strong&gt; sont des outils de précision qui permettent de manipuler le temps et les reflets.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>/posts/guide-objectif-zoom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/posts/guide-objectif-zoom/</guid>
-      <description>&lt;p&gt;ï»¿&amp;mdash;
-title: &amp;ldquo;Guide Objectif Zoom : MaÃƒâ®triser les focales et maximiser la nettetÃƒâ©&amp;rdquo;
+      <description>&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;title: &amp;ldquo;Guide Objectif Zoom : Maîtriser les focales et maximiser la netteté&amp;rdquo;
 date: 2023-11-20T10:15:00+01:00
 draft: false
-description: &amp;ldquo;Choisir un zoom et garantir une image parfaite : techniques de stabilisation, piÃƒâ¨ges Ãƒâ  Ãƒâ©viter et astuces pour tirer le meilleur de votre objectif.&amp;rdquo;
-tags: [&amp;ldquo;MatÃƒâ©riel&amp;rdquo;, &amp;ldquo;Objectif&amp;rdquo;, &amp;ldquo;Zoom&amp;rdquo;, &amp;ldquo;Technique&amp;rdquo;]
-categories: [&amp;ldquo;MatÃƒâ©riel Pro&amp;rdquo;, &amp;ldquo;Techniques&amp;rdquo;]
+description: &amp;ldquo;Choisir un zoom et garantir une image parfaite : techniques de stabilisation, pièges à éviter et astuces pour tirer le meilleur de votre objectif.&amp;rdquo;
+tags: [&amp;ldquo;materiel&amp;rdquo;, &amp;ldquo;Objectif&amp;rdquo;, &amp;ldquo;Zoom&amp;rdquo;, &amp;ldquo;Technique&amp;rdquo;]
+categories: [&amp;ldquo;materiel-pro&amp;rdquo;, &amp;ldquo;Techniques&amp;rdquo;]
 featured_image: &amp;ldquo;objectif-zoom-couverture.webp&amp;rdquo;
 images:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&amp;ldquo;objectif-zoom-couverture.webp&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;L&amp;rsquo;objectif zoom est l&amp;rsquo;alliÃƒâ© de la polyvalence. Capable de couvrir une large gamme de focales, il est souvent l&amp;rsquo;investissement le plus important aprÃƒâ¨s le boÃƒâ®tier. Cependant, sa complexitÃƒâ© optique exige une technique rigoureuse pour garantir une nettetÃƒâ© maximale.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/posts/guide-photo-debutant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/guide-photo-debutant/</guid>
-      <description>&lt;p&gt;ï»¿&amp;mdash;
-title: &amp;ldquo;Le Meilleur Appareil Photo pour DÃƒâ©buter en 2026 : Hybride vs Reflex&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;correction--changer-lheure-pour-garantir-que-larticle-soit-considãƒârãƒâ-comme-passãƒâ&#34;&gt;CORRECTION : Changer l&amp;rsquo;heure pour garantir que l&amp;rsquo;article soit considÃƒâ©rÃƒâ© comme &amp;lsquo;passÃƒâ©&amp;rsquo;&lt;/h1&gt;
-&lt;h2 id=&#34;tags-matãƒâriel-appareil-photo-guide-achat-dãƒâbutant&#34;&gt;date: 2025-12-15T08:00:00+01:00
-draft: false
-publishDate: 2025-12-01T09:00:00+01:00
-description: &amp;ldquo;Notre guide complet pour choisir votre premier appareil photo en 2026. DÃƒâ©couvrez les diffÃƒâ©rences clÃƒâ©s entre Hybride et Reflex, et quel modÃƒâ¨le choisir pour commencer votre aventure photographique.&amp;rdquo;
-tags: [&amp;ldquo;MatÃƒâ©riel&amp;rdquo;, &amp;ldquo;Appareil Photo&amp;rdquo;, &amp;ldquo;Guide Achat&amp;rdquo;, &amp;ldquo;DÃƒâ©butant&amp;rdquo;]&lt;/h2&gt;
-&lt;p&gt;Si vous dÃƒâ©butez en photographie, le choix de votre premier appareil est crucial. Faut-il opter pour un Reflex (DSLR) traditionnel ou pour un appareil &lt;strong&gt;Hybride (Mirrorless)&lt;/strong&gt;, plus moderne et compact ? Ce guide est conÃƒâ§u pour vous aider Ãƒâ  y voir clair et Ãƒâ  faire le meilleur investissement pour votre apprentissage en 2026.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/posts/guide-trepied/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/guide-trepied/</guid>
-      <description>&lt;p&gt;ï»¿&amp;mdash;
-title: &amp;ldquo;Guide du TrÃƒâ©pied : Comment choisir, installer et stabiliser votre appareil&amp;rdquo;
-date: 2025-12-13T17:00:00+01:00
-draft: false
-description: &amp;ldquo;Le trÃƒâ©pied est l&amp;rsquo;outil ultime de la nettetÃƒâ©. DÃƒâ©couvrez les critÃƒâ¨res essentiels (matÃƒâ©riaux, tÃƒâªte, charge maximale) pour bien choisir le vÃƒâ´tre et les techniques de stabilisation de pro.&amp;rdquo;
-tags: [&amp;ldquo;materiel&amp;rdquo;, &amp;ldquo;trÃƒâ©pied&amp;rdquo;, &amp;ldquo;stabilitÃƒâ©&amp;rdquo;, &amp;ldquo;accessoire&amp;rdquo;, &amp;ldquo;guide d&amp;rsquo;achat&amp;rdquo;]
-categories: [&amp;ldquo;MatÃƒâ©riel Pro&amp;rdquo;, &amp;ldquo;Accessoires&amp;rdquo;]
-featured_image: &amp;ldquo;/posts/guide-trepied/trepied-couverture.webp&amp;rdquo;
-images:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;trepied-couverture.webp&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;pourquoi-un-trãƒâpied-est-il-indispensable-&#34;&gt;Pourquoi un trÃƒâ©pied est-il indispensable ?&lt;/h2&gt;
-&lt;p&gt;Un trÃƒâ©pied est l&amp;rsquo;outil le plus efficace pour garantir une nettetÃƒâ© parfaite, notamment lors de l&amp;rsquo;utilisation de longues focales, de faibles vitesses d&amp;rsquo;obturation (photographie de nuit, pose longue), ou de techniques de prÃƒâ©cision (macro, focus stacking). Choisir le bon trÃƒâ©pied est un investissement en stabilitÃƒâ© pour toute votre carriÃƒâ¨re photographique.&lt;/p&gt;</description>
+&lt;p&gt;L&amp;rsquo;objectif zoom est l&amp;rsquo;allié de la polyvalence. Capable de couvrir une large gamme de focales, il est souvent l&amp;rsquo;investissement le plus important après le boîtier. Cependant, sa complexité optique exige une technique rigoureuse pour garantir une netteté maximale.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Le Guide Ultime : Filtres ND Variables et CPL Pro pour Photo et Vidéo</title>

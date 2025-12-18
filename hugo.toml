@@ -3,7 +3,7 @@ languageCode = "fr-fr"
 title = "Le Réglage Parfait"
 theme = "PaperMod"
 
-# Forcer Hugo ûutiliser des URLs en minuscules
+# Forcer Hugo à utiliser des URLs en minuscules
 preserveTaxonomyNames = false
 
 [Paginacion] 
@@ -15,22 +15,22 @@ preserveTaxonomyNames = false
 
 [menu]
   [[menu.main]]
-    identifier = "accueil"
+    identifier = "nav-accueil"
     name = "Accueil"
     url = "/"
     weight = 10
   [[menu.main]]
-    identifier = "materiel"
+    identifier = "nav-materiel"
     name = "Matériel"
     url = "/tags/materiel/"
     weight = 20
   [[menu.main]]
-    identifier = "technique"
+    identifier = "nav-technique"
     name = "Technique"
     url = "/tags/composition/" 
     weight = 30
   [[menu.main]]
-    identifier = "articles"
+    identifier = "nav-articles"
     name = "Tous les Articles"
     url = "/posts/"
     weight = 40
