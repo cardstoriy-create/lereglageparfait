@@ -1,5 +1,3 @@
-## Conclusion
-
 ---
 title: "Guide Ultime : Filtres ND et CPL pour Maîtriser la Longue Exposition et les Reflets"
 date: 2025-12-14T12:00:00+01:00

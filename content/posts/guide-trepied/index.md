@@ -1,4 +1,3 @@
-
 ---
 title: "Guide du Trépied : Comment choisir, installer et stabiliser votre appareil"
 date: 2025-12-13T17:00:00+01:00

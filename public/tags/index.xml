@@ -86,6 +86,27 @@
       <description></description>
     </item>
     <item>
+      <title>Filtres</title>
+      <link>/tags/filtres/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>/tags/filtres/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Longue Exposition</title>
+      <link>/tags/longue-exposition/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>/tags/longue-exposition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paysage</title>
+      <link>/tags/paysage/</link>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
+      <guid>/tags/paysage/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Focale Fixe</title>
       <link>/tags/focale-fixe/</link>
       <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
@@ -135,13 +156,6 @@
       <description></description>
     </item>
     <item>
-      <title>Filtres</title>
-      <link>/tags/filtres/</link>
-      <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
-      <guid>/tags/filtres/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Guide Technique</title>
       <link>/tags/guide-technique/</link>
       <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
@@ -153,6 +167,13 @@
       <link>/tags/stockage/</link>
       <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
       <guid>/tags/stockage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zoom</title>
+      <link>/tags/zoom/</link>
+      <pubDate>Mon, 20 Nov 2023 10:15:00 +0100</pubDate>
+      <guid>/tags/zoom/</guid>
       <description></description>
     </item>
   </channel>

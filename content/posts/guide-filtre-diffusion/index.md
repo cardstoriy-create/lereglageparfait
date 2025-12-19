@@ -1,4 +1,3 @@
-
 ---
 title: "Filtres de Diffusion (Black Mist) : Le Secret du 'Ciné Look' en Photo et Vidéo"
 date: 2025-12-13T09:00:00+01:00

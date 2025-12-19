@@ -34,6 +34,11 @@ preserveTaxonomyNames = false
     name = "Tous les Articles"
     url = "/posts/"
     weight = 40
+  [[menu.main]]
+    identifier = "nav-about"
+    name = "À Propos"
+    url = "/about/"
+    weight = 50
 
 [params]
     env = "production"

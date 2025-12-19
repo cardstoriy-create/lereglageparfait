@@ -1,5 +1,3 @@
-## Conclusion
-
 ---
 title: "Guide Objectif Zoom : Maîtriser les focales et maximiser la netteté"
 date: 2023-11-20T10:15:00+01:00
