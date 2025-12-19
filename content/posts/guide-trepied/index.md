@@ -14,6 +14,8 @@ images:
 
 Un trépied est l'outil le plus efficace pour garantir une netteté parfaite, notamment lors de l'utilisation de longues focales, de faibles vitesses d'obturation (photographie de nuit, pose longue), ou de techniques de précision (macro, focus stacking). Choisir le bon trépied est un investissement en stabilité pour toute votre carrière photographique.
 
+La stabilité est l'un des trois piliers de la netteté, aux côtés de la maîtrise du triangle d'exposition (vitesse, ouverture, ISO).
+
 ### 1. Les Critères de Choix Essentiels
 
 #### La Charge Maximale (Payload)
@@ -40,13 +42,13 @@ C'est le critère le plus critique. La charge maximale (ou *payload*) est le poi
 
 Idéal pour les débutants et pour un usage en studio ou en extérieur sans besoin de randonnée. Ce modèle offre une excellente stabilité pour le prix.
 
-<a href="https://amzn.to/4oWjtQs" target="_blank" rel="sponsored">👉 Voir notre sélection de Trépieds Aluminium sur Amazon</a>
+[👉 Voir notre sélection de Trépieds Aluminium sur Amazon](https://amzn.to/4oWjtQs)
 
 #### Le Choix des Voyageurs : La Fibre de Carbone Compacte
 
 Si la légèreté et l'absorption des vibrations sont votre priorité (voyage, randonnée, longue exposition), la fibre de carbone est indispensable.
 
-<a href="https://amzn.to/4s5N7WA" target="_blank" rel="sponsored">👉 Voir notre sélection de Trépieds Carbone sur Amazon</a>
+[👉 Voir notre sélection de Trépieds Carbone sur Amazon](https://amzn.to/4s5N7WA)
 
 #### Accessoire essentiel : Le Déclencheur à Distance
 
@@ -54,11 +56,11 @@ Mentionné dans la section 3, un déclencheur à distance est le moyen le plus s
 
 ##### Déclencheur pour Canon
 
-<a href="https://amzn.to/3MyflJg" target="_blank" rel="sponsored">👉 Déclencheur à Distance SANS FIL pour Canon sur Amazon</a>
+[👉 Déclencheur à Distance SANS FIL pour Canon sur Amazon](https://amzn.to/3MyflJg)
 
 ##### Déclencheur pour Sony
 
-<a href="https://amzn.to/3Yy6zxm" target="_blank" rel="sponsored">👉 Déclencheur à Distance FILAIRE pour Sony sur Amazon</a>
+[👉 Déclencheur à Distance FILAIRE pour Sony sur Amazon](https://amzn.to/3Yy6zxm)
 
 ---
 
