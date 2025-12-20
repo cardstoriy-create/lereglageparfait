@@ -24,43 +24,53 @@ L'absence de mécanisme de zoom permet aux ingénieurs d'optimiser chaque lentil
 
 ---
 
-### 3. Notre Sélection des Meilleurs Investissements (Affiliation)
+### 2. Les Focales Fixes Essentielles (Tableau Comparatif)
 
-**Note :** *Cette section contient des liens d'affiliation Amazon. Ces objectifs ont été choisis pour leur rapport qualité/prix exceptionnel.*
-
-#### Le "Nifty Fifty" : Sony FE 50mm f/1.8
-C'est l'objectif par lequel tout le monde commence. Il est léger, abordable et offre un flou d'arrière-plan magnifique pour son prix.
-
-<a href="https://amzn.to/4pzjniV" target="_blank" rel="sponsored">👉 Voir le Sony 50mm f/1.8 sur Amazon</a>
-
-#### Le Roi du Portrait : Sigma 85mm f/1.4 DG DN Art
-Pour ceux qui recherchent l'isolation extrême du sujet et un piqué chirurgical. La gamme "Art" de Sigma concurrence les optiques les plus chères du marché.
-
-<a href="https://amzn.to/4jgtbMJ" target="_blank" rel="sponsored">👉 Voir le Sigma 85mm f/1.4 sur Amazon</a>
-
-#### Le Polyvalent (Rue & Reportage) : Tamron 35mm f/2.8
-Une focale fixe compacte avec un angle de vue naturel, parfait pour la photo de rue sans distorsion excessive.
-
-<a href="https://amzn.to/4oUvYMC" target="_blank" rel="sponsored">👉 Voir le Tamron 35mm sur Amazon</a>
+| Modèle | Performance | Dominante | Budget | Verdict |
+| :--- | :---: | :---: | :---: | :--- |
+| **35mm f/1.8** | ★★★★★ | Neutre | ★★★★ | **Le Roi du Reportage** |
+| **50mm f/1.8** | ★★★★ | Neutre | ★★★ | **L'Indispensable Débutant** |
+| **85mm f/1.8** | ★★★★★ | Neutre | ★★★★ | **Le Maître du Portrait** |
 
 ---
 
-### 3. Apprendre à "Zoomer avec ses pieds"
+### 3. Notre Sélection des Meilleurs Investissements (Affiliation)
+
+#### Le "Nifty Fifty" : Sony FE 50mm f/1.8
+C'est l'objectif idéal pour débuter. Léger, abordable et performant.
+
+<div style="text-align: center; margin: 20px 0;">
+    <a href="https://amzn.to/4pzjniV" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Sony 50mm f/1.8 sur Amazon</a>
+</div>
+
+#### Le Roi du Portrait : Sigma 85mm f/1.4 DG DN Art
+Pour un piqué chirurgical et un flou d'arrière-plan professionnel.
+
+<div style="text-align: center; margin: 20px 0;">
+    <a href="https://amzn.to/4jgtbMJ" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">👑 Voir le Sigma 85mm f/1.4 sur Amazon</a>
+</div>
+
+#### Le Polyvalent : Tamron 35mm f/2.8
+Parfait pour la photo de rue et le reportage au quotidien.
+
+<div style="text-align: center; margin: 20px 0;">
+    <a href="https://amzn.to/4oUvYMC" style="background-color: #e67e22; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🌆 Voir le Tamron 35mm sur Amazon</a>
+</div>
+
+---
+
+### 4. Apprendre à "Zoomer avec ses pieds"
 
 Le plus grand défi de la focale fixe est aussi sa plus grande force : **l'impossibilité de zoomer**. Cela vous force à être actif.
 
 * **Composition forcée :** Vous devez vous déplacer, chercher l'angle, vous baisser ou vous rapprocher. 
 * **Cohérence visuelle :** Travailler avec une seule focale donne une "signature" à vos séries de photos.
 
-Comme nous l'avons vu dans notre **[Guide sur la Composition](/posts/guide-composition/)**, la contrainte technique booste souvent la créativité.
-
 ---
 
 ### Conclusion : Faut-il abandonner vos zooms ?
 
-Pas forcément. Le zoom reste le roi de l'événementiel et du sport. Mais pour la recherche esthétique, le portrait et la photo basse lumière, la **focale fixe est indispensable**.
-
-**Mon conseil :** Si vous n'avez qu'un petit budget, commencez par un 50mm $f/1.8$. C'est l'objectif qui vous fera redécouvrir votre propre appareil photo.
+Pas forcément. Le zoom reste le roi de l'événementiel. Mais pour la recherche esthétique et le portrait, la **focale fixe est indispensable**. Si vous n'avez qu'un petit budget, commencez par un 50mm $f/1.8$.
 
 ---
 *En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises.*
