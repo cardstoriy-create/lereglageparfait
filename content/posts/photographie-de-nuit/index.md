@@ -3,7 +3,7 @@ title: "Photographie de Nuit : Le Guide Complet pour Dompter l'Obscurité"
 date: 2025-12-19T18:00:00+01:00
 draft: false
 description: "Apprenez les réglages et techniques pour réussir vos photos de nuit. De la pose longue à la gestion du bruit, transformez l'obscurité en art."
-tags: ["Technique", "Nuit", "Pose Longue", "Lumière"]
+tags: ["Technique", "Nuit", "Pose Longue", "Lumière", "Composition"]
 categories: ["Techniques"]
 cover:
     image: "nuit-cover.webp"

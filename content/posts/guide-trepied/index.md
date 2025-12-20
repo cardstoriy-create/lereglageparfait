@@ -31,6 +31,10 @@ C'est le critère le plus critique. La charge maximale (ou *payload*) est le poi
 
 * **Rotule (Ball Head) :** Rapide et intuitive. Un seul mouvement permet de déverrouiller le mouvement sur trois axes simultanément. Idéale pour l'action et la vitesse.
 * **Tête 3-Way :** Offre trois leviers indépendants pour les mouvements panoramique, inclinaison et basculement latéral. Plus lente à ajuster, mais indispensable pour la précision (architecture, macro, et composition très fine).
+---
+
+> 📸 **Prêt à passer à la pratique ?**
+> Maintenant que vous savez quel trépied choisir, découvrez comment l'utiliser pour capturer des images spectaculaires dans mon **[Guide Complet sur la Photographie de Nuit](/posts/photographie-de-nuit/)**. C'est l'exercice parfait pour tester la stabilité de votre matériel !
 
 ---
 

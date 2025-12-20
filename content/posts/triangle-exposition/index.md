@@ -3,14 +3,16 @@ title: "Maîtriser le Triangle d'Exposition : Le guide ultime du photographe"
 date: 2025-12-19T10:00:00+01:00
 draft: false
 description: "Apprenez à équilibrer l'ouverture, la vitesse d'obturation et l'ISO pour réussir toutes vos photos. Le secret pour sortir du mode automatique."
-tags: ["technique", "débutant", "exposition", "triangle d'exposition"]
+tags: ["Technique", "Composition", "débutant", "exposition", "triangle d'exposition"]
 categories: ["Cours Photo"]
-featured_image: "/posts/triangle-exposition/couverture-triangle.webp"
+cover:
+    image: "couverture-triangle.webp"
+    alt: "Infographie complète du triangle d'exposition"
+    caption: "L'équilibre parfait entre Ouverture, Vitesse et ISO"
+    relative: true # Indispensable pour PaperMod
 ---
 
 Comprendre le **triangle d'exposition**, c'est reprendre le contrôle total sur votre appareil photo. C'est le passage obligé pour quiconque souhaite passer du mode "Auto" au mode "Manuel".
-
-![Infographie complète du triangle d'exposition montrant l'équilibre entre Ouverture, Vitesse et ISO](/posts/triangle-exposition/couverture-triangle.webp "L'équilibre parfait de l'exposition")
 
 ## Les trois piliers de l'exposition
 
@@ -26,4 +28,17 @@ Elle détermine la quantité de lumière qui traverse l'objectif.
 ### 2. La Vitesse d'Obturation (le temps de pose)
 Elle détermine pendant combien de temps le capteur est exposé à la lumière.
 * **Vitesse rapide ($1/1000s$) :** Fige le mouvement (sport, oiseaux).
-* **Vitesse lente ($1/2s$ ou plus) :** Crée un flou artistique
+* **Vitesse lente ($1/2s$ ou plus) :** Crée un flou artistique (filé d'eau, traînées lumineuses). Pour ces réglages, l'utilisation d'un **[trépied stable](/posts/guide-trepied/)** est obligatoire.
+
+### 3. La Sensibilité ISO
+Elle indique la sensibilité du capteur à la lumière.
+* **ISO bas (100 - 200) :** Qualité d'image maximale, aucun grain.
+* **ISO élevés (3200+) :** Permet de photographier dans l'obscurité, mais introduit du "bruit numérique" (grain disgracieux).
+
+---
+
+## Conclusion : L'art de l'équilibre
+
+Chaque modification d'un des trois paramètres doit être compensée par un autre pour garder la même exposition. C'est ce qu'on appelle la **loi de réciprocité**. 
+
+Si vous voulez aller plus loin et appliquer ces concepts dans des conditions difficiles, consultez mon guide pratique sur la **[photographie de nuit](/posts/photographie-de-nuit/)**, où la gestion de ce triangle devient un véritable art.

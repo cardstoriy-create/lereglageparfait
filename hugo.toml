@@ -3,10 +3,10 @@ languageCode = "fr-fr"
 title = "Le Réglage Parfait"
 theme = "PaperMod"
 
-# Forcer Hugo à utiliser des URLs en minuscules
+# SEO & URLs : On force les minuscules pour éviter les erreurs de liens
 preserveTaxonomyNames = false
 
-[Paginacion] 
+[pagination]
     pagerSize = 10
 
 [build]
@@ -27,7 +27,7 @@ preserveTaxonomyNames = false
   [[menu.main]]
     identifier = "nav-technique"
     name = "Technique"
-    url = "/tags/composition/" 
+    url = "/tags/technique/" 
     weight = 30
   [[menu.main]]
     identifier = "nav-articles"
@@ -40,14 +40,7 @@ preserveTaxonomyNames = false
     url = "/about/"
     weight = 50
 
-[params]
-    env = "production"
-    defaultTheme = "auto"
-    showReadingTime = true
-    showPostNavButtons = true
-    showPageNums = true
-    showToc = true
-
+# Configuration du mode profil (Page d'accueil)
     [params.profileMode]
         enabled = true
         title = "Le Réglage Parfait 📸"
@@ -55,12 +48,18 @@ preserveTaxonomyNames = false
         imageUrl = "logo.webp"
         imageWidth = 120
         imageHeight = 120
+        
+        [[params.profileMode.buttons]]
+            name = "🎁 Checklist Photo de Nuit Offerte !"
+            url = "/posts/photographie-de-nuit/"
+
         [[params.profileMode.buttons]]
             name = "📸 Nos Guides Matériel"
             url = "/tags/materiel/"
+
         [[params.profileMode.buttons]]
             name = "🎨 Maîtriser la Composition"
             url = "/posts/guide-composition/"
 
 [markup.goldmark.renderer]
-    unsafe = true
+    unsafe = true # Permet d'insérer du HTML (ex: boutons d'affiliation, shortcodes)
