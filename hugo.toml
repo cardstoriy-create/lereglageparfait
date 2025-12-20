@@ -3,7 +3,7 @@ languageCode = "fr-fr"
 title = "Le Réglage Parfait"
 theme = "PaperMod"
 
-# SEO & URLs : On force les minuscules pour éviter les erreurs de liens
+# SEO & URLs
 preserveTaxonomyNames = false
 
 [pagination]
@@ -40,7 +40,16 @@ preserveTaxonomyNames = false
     url = "/about/"
     weight = 50
 
-# Configuration du mode profil (Page d'accueil)
+[params]
+    env = "production"
+    description = "Guides experts en photographie : maîtrisez les réglages de votre boîtier et choisissez le meilleur matériel optique."
+    defaultTheme = "auto"
+    showReadingTime = true
+    showPostNavButtons = true
+    showPageNums = true
+    showToc = true
+
+    # Configuration du mode profil (Page d'accueil)
     [params.profileMode]
         enabled = true
         title = "Le Réglage Parfait 📸"
@@ -62,4 +71,4 @@ preserveTaxonomyNames = false
             url = "/posts/guide-composition/"
 
 [markup.goldmark.renderer]
-    unsafe = true # Permet d'insérer du HTML (ex: boutons d'affiliation, shortcodes)
+    unsafe = true # Indispensable pour tes boutons HTML et l'affiliation

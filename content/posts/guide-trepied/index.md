@@ -14,70 +14,68 @@ images:
 
 Un trépied est l'outil le plus efficace pour garantir une netteté parfaite, notamment lors de l'utilisation de longues focales, de faibles vitesses d'obturation (photographie de nuit, pose longue), ou de techniques de précision (macro, focus stacking). Choisir le bon trépied est un investissement en stabilité pour toute votre carrière photographique.
 
-La stabilité est l'un des trois piliers de la netteté, aux côtés de la maîtrise du triangle d'exposition (vitesse, ouverture, ISO).
+La stabilité est l'un des trois piliers de la netteté, aux côtés de la maîtrise du **[triangle d'exposition](/posts/triangle-exposition/)** (vitesse, ouverture, ISO).
 
 ### 1. Les Critères de Choix Essentiels
 
 #### La Charge Maximale (Payload)
 
-C'est le critère le plus critique. La charge maximale (ou *payload*) est le poids maximal que le trépied est censé supporter. Pour une stabilité optimale, votre trépied devrait supporter **au moins 1,5 à 2 fois le poids total de votre équipement le plus lourd** (boîtier, objectif, flash). Ne pas respecter cette règle garantit une instabilité, même par faible vent.
+C'est le critère le plus critique. Pour une stabilité optimale, votre trépied devrait supporter **au moins 1,5 à 2 fois le poids total de votre équipement le plus lourd** (boîtier, objectif, flash). Ne pas respecter cette règle garantit une instabilité, même par faible vent.
 
 #### La Comparaison des Matériaux : Aluminium vs. Carbone
 
-* **Aluminium :** Moins cher, très robuste, mais plus lourd et transmet facilement les vibrations.
-* **Fibre de Carbone :** Plus cher, nettement plus léger pour le transport, offre une excellente absorption des vibrations, et est plus résistant aux températures extrêmes. C'est le choix privilégié des professionnels qui voyagent ou font de la randonnée.
+* **Aluminium :** Robuste et abordable, mais plus lourd et transmet davantage les vibrations.
+* **Fibre de Carbone :** Le choix des professionnels. Plus léger pour le transport, il offre une excellente absorption des vibrations et résiste mieux aux températures extrêmes.
 
 #### Le Système de Tête : Rotule (Ball Head) vs. 3-Way
 
-* **Rotule (Ball Head) :** Rapide et intuitive. Un seul mouvement permet de déverrouiller le mouvement sur trois axes simultanément. Idéale pour l'action et la vitesse.
-* **Tête 3-Way :** Offre trois leviers indépendants pour les mouvements panoramique, inclinaison et basculement latéral. Plus lente à ajuster, mais indispensable pour la précision (architecture, macro, et composition très fine).
+* **Rotule (Ball Head) :** Rapide et intuitive. Idéale pour l'action et le voyage.
+* **Tête 3-Way :** Offre un contrôle indépendant sur trois axes. Indispensable pour la précision (architecture et macro).
+
 ---
 
 > 📸 **Prêt à passer à la pratique ?**
-> Maintenant que vous savez quel trépied choisir, découvrez comment l'utiliser pour capturer des images spectaculaires dans mon **[Guide Complet sur la Photographie de Nuit](/posts/photographie-de-nuit/)**. C'est l'exercice parfait pour tester la stabilité de votre matériel !
+> Découvrez comment utiliser votre support pour capturer des images spectaculaires dans mon **[Guide Complet sur la Photographie de Nuit](/posts/photographie-de-nuit/)**. C'est l'exercice parfait pour tester la stabilité de votre matériel !
 
 ---
 
-### 2. Notre Sélection de Trépieds et Accessoires (Affiliation)
-
-**Note :** *Cette section contient des liens d'affiliation (Amazon). Les liens sont sécurisés et conformes grâce à l'utilisation du code HTML pur.*
+### 2. Notre Sélection de Trépieds (Affiliation)
 
 #### Le Choix Low-Cost : L'Aluminium Robuste
+Idéal pour débuter sans se ruiner, ce modèle offre une base solide pour vos premières poses longues en studio ou en extérieur proche.
 
-Idéal pour les débutants et pour un usage en studio ou en extérieur sans besoin de randonnée. Ce modèle offre une excellente stabilité pour le prix.
+<div style="text-align: center; margin: 25px 0;">
+    <a href="https://amzn.to/4oWjtQs" style="background-color: #2ecc71; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" target="_blank" rel="nofollow">
+        🚀 Voir le Trépied Aluminium sur Amazon
+    </a>
+</div>
 
-[👉 Voir notre sélection de Trépieds Aluminium sur Amazon](https://amzn.to/4oWjtQs)
+#### Le Choix des Voyageurs : La Fibre de Carbone
+Si vous prévoyez de randonner ou de voyager léger tout en exigeant une absorption maximale des vibrations.
 
-#### Le Choix des Voyageurs : La Fibre de Carbone Compacte
-
-Si la légèreté et l'absorption des vibrations sont votre priorité (voyage, randonnée, longue exposition), la fibre de carbone est indispensable.
-
-[👉 Voir notre sélection de Trépieds Carbone sur Amazon](https://amzn.to/4s5N7WA)
+<div style="text-align: center; margin: 25px 0;">
+    <a href="https://amzn.to/4s5N7WA" style="background-color: #3498db; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" target="_blank" rel="nofollow">
+        💎 Voir le modèle Carbone sur Amazon
+    </a>
+</div>
 
 #### Accessoire essentiel : Le Déclencheur à Distance
+Pour éliminer les micro-vibrations au moment du déclenchement.
 
-Mentionné dans la section 3, un déclencheur à distance est le moyen le plus simple d'éliminer les micro-vibrations dues au toucher de l'appareil. Choisissez la version compatible avec votre boîtier :
-
-##### Déclencheur pour Canon
-
-[👉 Déclencheur à Distance SANS FIL pour Canon sur Amazon](https://amzn.to/3MyflJg)
-
-##### Déclencheur pour Sony
-
-[👉 Déclencheur à Distance FILAIRE pour Sony sur Amazon](https://amzn.to/3Yy6zxm)
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
+    <a href="https://amzn.to/3MyflJg" style="background-color: #e67e22; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 0.9em; font-weight: bold;" target="_blank" rel="nofollow">Version Canon</a>
+    <a href="https://amzn.to/3Yy6zxm" style="background-color: #e67e22; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 0.9em; font-weight: bold;" target="_blank" rel="nofollow">Version Sony</a>
+</div>
 
 ---
 
 ### 3. Techniques de Stabilisation Avancées
 
 #### Abaissement du Centre de Gravité
+N'étendez la colonne centrale qu'en dernier recours. Pour stabiliser l'ensemble par vent fort, suspendez votre sac photo au crochet situé sous la colonne centrale.
 
-Pour maximiser la stabilité, n'étendez la colonne centrale qu'en dernier recours. Le centre de gravité idéal se situe au niveau du point de fixation de l'appareil. Par vent fort, utilisez le crochet sous la colonne centrale pour suspendre votre sac photo ou un poids.
+#### Utilisation du Retardateur
+Si vous n'avez pas de déclencheur, utilisez le retardateur (2 ou 10 secondes) pour que les vibrations de votre main s'estompent avant l'ouverture de l'obturateur.
 
-#### Utilisation du Retardateur ou du Déclencheur à Distance
-
-Même la pression d'un doigt sur le bouton de l'obturateur peut induire une micro-vibration, surtout en pose longue. Utilisez toujours le **retardateur** (2 ou 10 secondes) ou un **déclencheur à distance** (sans fil ou filaire) pour garantir que l'appareil est parfaitement immobile au moment de l'exposition.
-
-#### Désactiver la Stabilisation Optique (VR/IS)
-
-Lorsque l'appareil est monté sur un support rigide, les systèmes de stabilisation optique (VR, IS, OS, etc.) et même la stabilisation interne du boîtier (IBIS) peuvent parfois introduire un léger flou de vibration. Assurez-vous de **désactiver la stabilisation** lorsque vous travaillez sur un trépied stable.
+#### Désactiver la Stabilisation (VR/IS)
+**Important :** Lorsque l'appareil est sur trépied, désactivez la stabilisation optique et interne (IBIS). Ces systèmes cherchent parfois à corriger un mouvement inexistant, créant ainsi un flou parasite.

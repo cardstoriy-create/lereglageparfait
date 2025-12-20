@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2025-12-19T18:00:00+01:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
     <lastmod>2025-12-19T18:00:00+01:00</lastmod>
   </url><url>
     <loc>/tags/composition/</loc>
+    <lastmod>2025-12-19T18:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2025-12-19T18:00:00+01:00</lastmod>
   </url><url>
     <loc>/tags/lumi%C3%A8re/</loc>
