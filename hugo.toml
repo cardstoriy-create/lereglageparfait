@@ -49,20 +49,19 @@ preserveTaxonomyNames = false
     showPageNums = true
     showToc = true
 
-    # --- CONFIGURATION DES ASSETS (FAVICONS) ---
-    # On définit les chemins directement pour PaperMod
-    favicon = "/favicon.ico"
-    favicon16x16 = "/favicon-16x16.png"
-    favicon32x32 = "/favicon-32x32.png"
-    apple_touch_icon = "/apple-touch-icon.png"
+    # --- CONFIGURATION FAVICON DIRECTE ---
+    # Ces noms de variables sont ceux que PaperMod cherche par défaut
+    favicon = "favicon.ico"
+    favicon16x16 = "favicon-16x16.png"
+    favicon32x32 = "favicon-32x32.png"
+    apple_touch_icon = "apple-touch-icon.png"
 
     [params.assets]
-        favicon = "/favicon.ico"
+        favicon = "favicon.ico"
 
-    # --- LABEL DANS LA BARRE DE NAVIGATION ---
     [params.label]
         text = "Le Réglage Parfait"
-        icon = "/favicon-32x32.png"
+        icon = "favicon-32x32.png"
         iconHeight = 30
 
     # Configuration du mode profil (Page d'accueil)
