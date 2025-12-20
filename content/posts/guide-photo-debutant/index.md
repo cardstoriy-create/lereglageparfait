@@ -4,9 +4,11 @@ date: 2025-12-15T08:00:00+01:00
 draft: false
 description: "Notre guide complet pour choisir votre premier appareil photo en 2026. Découvrez les différences clés entre Hybride et Reflex, et quel modèle choisir."
 tags: ["materiel", "Appareil Photo", "Guide Achat", "Débutant"]
+categories: ["materiel-pro", "Techniques"]
 cover:
-    image: "posts/composition-cover.webp" # Ajout du dossier posts/ devant
-    relative: false
+    image: "composition-cover.webp" # On enlève "posts/"
+    relative: true                # On remet à TRUE pour le mode Bundle
+---ive: false
 ---
 
 Si vous débutez en photographie, le choix de votre premier appareil est crucial. Faut-il opter pour un Reflex (DSLR) traditionnel ou pour un appareil **Hybride (Mirrorless)**, plus moderne et compact ? 
