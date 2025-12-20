@@ -30,19 +30,19 @@ L'absence de mécanisme de zoom permet aux ingénieurs d'optimiser chaque lentil
 C'est souvent le premier achat après l'objectif de kit. Léger et abordable, il simule la vision humaine et excelle en portrait comme en photographie de rue.
 
 * **Pourquoi l'acheter :** Son rapport qualité/prix est imbattable.
-* **[Voir le 50mm f/1.8 pour votre boîtier sur Amazon](votre-lien-affilié)**
+* **[Voir le 50mm f/1.8 pour votre boîtier sur Amazon](https://amzn.to/3BvL3eQ)**
 
 #### 📸 Le Roi du Portrait : Le 85mm $f/1.8$
 Si vous voulez des portraits avec un arrière-plan qui disparaît totalement dans un flou artistique, c'est l'objectif qu'il vous faut. Il flatte les visages sans les déformer.
 
 * **Pourquoi l'acheter :** Pour un rendu professionnel instantané.
-* **[Découvrir la sélection 85mm sur Amazon](votre-lien-affilié)**
+* **[Découvrir la sélection 85mm sur Amazon](https://amzn.to/3BvL3eQ)**
 
 #### 🌆 Le Polyvalent : Le 35mm $f/1.8$
 Idéal pour le reportage, le voyage et la photo de rue. Il permet d'inclure un peu plus de contexte dans l'image tout en gardant une grande ouverture.
 
 * **Pourquoi l'acheter :** Pour ne jamais quitter votre boîtier en voyage.
-* **[Voir les tarifs du 35mm sur Amazon](votre-lien-affilié)**
+* **[Voir les tarifs du 35mm sur Amazon](https://amzn.to/3BvL3eQ)**
 
 ---
 
