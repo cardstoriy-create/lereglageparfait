@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Trépied on Le Réglage Parfait</title>
-    <link>//localhost:1313/tags/tr%C3%A9pied/</link>
+    <link>http://localhost:1313/tags/tr%C3%A9pied/</link>
     <description>Recent content in Trépied on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 13 Dec 2025 17:00:00 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/tr%C3%A9pied/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tr%C3%A9pied/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guide du Trépied : Comment choisir, installer et stabiliser votre appareil</title>
-      <link>//localhost:1313/posts/guide-trepied/</link>
+      <link>http://localhost:1313/posts/guide-trepied/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
-      <guid>//localhost:1313/posts/guide-trepied/</guid>
+      <guid>http://localhost:1313/posts/guide-trepied/</guid>
       <description>Le trépied est l&amp;#39;outil ultime de la netteté. Découvrez comment bien choisir le vôtre et les techniques de stabilisation de pro.</description>
     </item>
   </channel>

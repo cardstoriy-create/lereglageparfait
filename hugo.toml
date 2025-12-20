@@ -1,9 +1,11 @@
-baseURL = "/"
+baseURL = "https://lereglageparfait.com/"
 languageCode = "fr-fr"
 title = "Le Réglage Parfait"
 theme = "PaperMod"
 
-# SEO & URLs
+# --- CONFIGURATION DES URLS (Correction Sitemap) ---
+canonifyURLs = true
+relativeURLs = false
 preserveTaxonomyNames = false
 
 [pagination]
@@ -49,8 +51,7 @@ preserveTaxonomyNames = false
     showPageNums = true
     showToc = true
 
-    # --- CONFIGURATION FAVICON DIRECTE ---
-    # Ces noms de variables sont ceux que PaperMod cherche par défaut
+    # --- CONFIGURATION FAVICON ---
     favicon = "favicon.ico"
     favicon16x16 = "favicon-16x16.png"
     favicon32x32 = "favicon-32x32.png"
@@ -86,4 +87,4 @@ preserveTaxonomyNames = false
             url = "/posts/guide-composition/"
 
 [markup.goldmark.renderer]
-    unsafe = true # Indispensable pour les boutons HTML et l'affiliation
+    unsafe = true

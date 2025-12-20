@@ -14,8 +14,6 @@ Contrairement à leurs homologues **[zooms](/posts/guide-objectif-zoom/)** qui p
 
 Cette simplicité cache le secret d'une qualité optique, d'une luminosité et d'une netteté que les zooms ont du mal à égaler. Si vous avez suivi notre **[Guide Photo pour Débutant](/posts/guide-photo-debutant/)**, vous savez que l'objectif est le cœur de votre image.
 
-[Image of lens internal construction prime vs zoom]
-
 ### 1. Pourquoi la Focale Fixe surclasse le Zoom ?
 
 L'absence de mécanisme de zoom permet aux ingénieurs d'optimiser chaque lentille pour une seule tâche :
@@ -26,8 +24,44 @@ L'absence de mécanisme de zoom permet aux ingénieurs d'optimiser chaque lentil
 
 ---
 
-### 2. Notre Sélection des Meilleurs Investissements (Affiliation)
+### 2. Notre Sélection des Meilleurs Investissements
 
-> **🔧 Conseil de montage :** Assurez-vous de choisir la version correspondant à votre marque (Sony FE, Canon RF, Nikon Z).
+#### 🏆 L'Indispensable : Le 50mm $f/1.8$ (Le "Nifty Fifty")
+C'est souvent le premier achat après l'objectif de kit. Léger et abordable, il simule la vision humaine et excelle en portrait comme en photographie de rue.
 
-#### 🏆 L'Indispensable : Le 50mm $f/1.8$ (Le "Nifty
+* **Pourquoi l'acheter :** Son rapport qualité/prix est imbattable.
+* **[Voir le 50mm f/1.8 pour votre boîtier sur Amazon](votre-lien-affilié)**
+
+#### 📸 Le Roi du Portrait : Le 85mm $f/1.8$
+Si vous voulez des portraits avec un arrière-plan qui disparaît totalement dans un flou artistique, c'est l'objectif qu'il vous faut. Il flatte les visages sans les déformer.
+
+* **Pourquoi l'acheter :** Pour un rendu professionnel instantané.
+* **[Découvrir la sélection 85mm sur Amazon](votre-lien-affilié)**
+
+#### 🌆 Le Polyvalent : Le 35mm $f/1.8$
+Idéal pour le reportage, le voyage et la photo de rue. Il permet d'inclure un peu plus de contexte dans l'image tout en gardant une grande ouverture.
+
+* **Pourquoi l'acheter :** Pour ne jamais quitter votre boîtier en voyage.
+* **[Voir les tarifs du 35mm sur Amazon](votre-lien-affilié)**
+
+---
+
+### 3. Apprendre à "Zoomer avec ses pieds"
+
+Le plus grand défi de la focale fixe est aussi sa plus grande force : **l'impossibilité de zoomer**. Cela vous force à être actif.
+
+* **Composition forcée :** Vous devez vous déplacer, chercher l'angle, vous baisser ou vous rapprocher. 
+* **Cohérence visuelle :** Travailler avec une seule focale donne une "signature" à vos séries de photos.
+
+Comme nous l'avons vu dans notre **[Guide sur la Composition](/posts/guide-composition/)**, la contrainte technique booste souvent la créativité.
+
+---
+
+### Conclusion : Faut-il abandonner vos zooms ?
+
+Pas forcément. Le zoom reste le roi de l'événementiel et du sport. Mais pour la recherche esthétique, le portrait et la photo basse lumière, la **focale fixe est indispensable**.
+
+**Mon conseil :** Si vous n'avez qu'un petit budget, commencez par un 50mm $f/1.8$. C'est l'objectif qui vous fera redécouvrir votre propre appareil photo.
+
+---
+*En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises.*
