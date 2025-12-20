@@ -24,25 +24,24 @@ L'absence de mécanisme de zoom permet aux ingénieurs d'optimiser chaque lentil
 
 ---
 
-### 2. Notre Sélection des Meilleurs Investissements
+### 3. Notre Sélection des Meilleurs Investissements (Affiliation)
 
-#### 🏆 L'Indispensable : Le 50mm $f/1.8$ (Le "Nifty Fifty")
-C'est souvent le premier achat après l'objectif de kit. Léger et abordable, il simule la vision humaine et excelle en portrait comme en photographie de rue.
+**Note :** *Cette section contient des liens d'affiliation Amazon. Ces objectifs ont été choisis pour leur rapport qualité/prix exceptionnel.*
 
-* **Pourquoi l'acheter :** Son rapport qualité/prix est imbattable.
-* **[Voir le 50mm f/1.8 pour votre boîtier sur Amazon](https://amzn.to/3BvL3eQ)**
+#### Le "Nifty Fifty" : Sony FE 50mm f/1.8
+C'est l'objectif par lequel tout le monde commence. Il est léger, abordable et offre un flou d'arrière-plan magnifique pour son prix.
 
-#### 📸 Le Roi du Portrait : Le 85mm $f/1.8$
-Si vous voulez des portraits avec un arrière-plan qui disparaît totalement dans un flou artistique, c'est l'objectif qu'il vous faut. Il flatte les visages sans les déformer.
+<a href="https://amzn.to/4pzjniV" target="_blank" rel="sponsored">👉 Voir le Sony 50mm f/1.8 sur Amazon</a>
 
-* **Pourquoi l'acheter :** Pour un rendu professionnel instantané.
-* **[Découvrir la sélection 85mm sur Amazon](https://amzn.to/3BvL3eQ)**
+#### Le Roi du Portrait : Sigma 85mm f/1.4 DG DN Art
+Pour ceux qui recherchent l'isolation extrême du sujet et un piqué chirurgical. La gamme "Art" de Sigma concurrence les optiques les plus chères du marché.
 
-#### 🌆 Le Polyvalent : Le 35mm $f/1.8$
-Idéal pour le reportage, le voyage et la photo de rue. Il permet d'inclure un peu plus de contexte dans l'image tout en gardant une grande ouverture.
+<a href="https://amzn.to/4jgtbMJ" target="_blank" rel="sponsored">👉 Voir le Sigma 85mm f/1.4 sur Amazon</a>
 
-* **Pourquoi l'acheter :** Pour ne jamais quitter votre boîtier en voyage.
-* **[Voir les tarifs du 35mm sur Amazon](https://amzn.to/3BvL3eQ)**
+#### Le Polyvalent (Rue & Reportage) : Tamron 35mm f/2.8
+Une focale fixe compacte avec un angle de vue naturel, parfait pour la photo de rue sans distorsion excessive.
+
+<a href="https://amzn.to/4oUvYMC" target="_blank" rel="sponsored">👉 Voir le Tamron 35mm sur Amazon</a>
 
 ---
 
