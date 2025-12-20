@@ -49,6 +49,22 @@ preserveTaxonomyNames = false
     showPageNums = true
     showToc = true
 
+    # --- CONFIGURATION DES ASSETS (FAVICONS) ---
+    # On définit les chemins directement pour PaperMod
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon-16x16.png"
+    favicon32x32 = "/favicon-32x32.png"
+    apple_touch_icon = "/apple-touch-icon.png"
+
+    [params.assets]
+        favicon = "/favicon.ico"
+
+    # --- LABEL DANS LA BARRE DE NAVIGATION ---
+    [params.label]
+        text = "Le Réglage Parfait"
+        icon = "/favicon-32x32.png"
+        iconHeight = 30
+
     # Configuration du mode profil (Page d'accueil)
     [params.profileMode]
         enabled = true
@@ -71,4 +87,4 @@ preserveTaxonomyNames = false
             url = "/posts/guide-composition/"
 
 [markup.goldmark.renderer]
-    unsafe = true # Indispensable pour tes boutons HTML et l'affiliation
+    unsafe = true # Indispensable pour les boutons HTML et l'affiliation
