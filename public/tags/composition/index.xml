@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Composition on Le Réglage Parfait</title>
-    <link>/tags/composition/</link>
+    <link>//localhost:1313/tags/composition/</link>
     <description>Recent content in Composition on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 19 Dec 2025 18:00:00 +0100</lastBuildDate>
-    <atom:link href="/tags/composition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/composition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photographie de Nuit : Le Guide Complet pour Dompter l&#39;Obscurité</title>
-      <link>/posts/photographie-de-nuit/</link>
+      <link>//localhost:1313/posts/photographie-de-nuit/</link>
       <pubDate>Fri, 19 Dec 2025 18:00:00 +0100</pubDate>
-      <guid>/posts/photographie-de-nuit/</guid>
+      <guid>//localhost:1313/posts/photographie-de-nuit/</guid>
       <description>Apprenez les réglages et techniques pour réussir vos photos de nuit. De la pose longue à la gestion du bruit, transformez l&amp;#39;obscurité en art.</description>
     </item>
     <item>
       <title>Maîtriser le Triangle d&#39;Exposition : Le guide ultime du photographe</title>
-      <link>/posts/triangle-exposition/</link>
+      <link>//localhost:1313/posts/triangle-exposition/</link>
       <pubDate>Fri, 19 Dec 2025 10:00:00 +0100</pubDate>
-      <guid>/posts/triangle-exposition/</guid>
+      <guid>//localhost:1313/posts/triangle-exposition/</guid>
       <description>Apprenez à équilibrer l&amp;#39;ouverture, la vitesse d&amp;#39;obturation et l&amp;#39;ISO pour réussir toutes vos photos. Le secret pour sortir du mode automatique.</description>
     </item>
     <item>
       <title>Maîtriser le Cadrage : Les 3 Règles d&#39;Or de la Composition</title>
-      <link>/posts/guide-composition/</link>
+      <link>//localhost:1313/posts/guide-composition/</link>
       <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
-      <guid>/posts/guide-composition/</guid>
+      <guid>//localhost:1313/posts/guide-composition/</guid>
       <description>Passez de la technique à l&amp;#39;art. Découvrez la Règle des Tiers, la Symétrie et comment utiliser les Lignes Directrices pour des photos captivantes.</description>
     </item>
   </channel>

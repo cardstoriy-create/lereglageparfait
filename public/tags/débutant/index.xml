@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Débutant on Le Réglage Parfait</title>
-    <link>/tags/d%C3%A9butant/</link>
+    <link>//localhost:1313/tags/d%C3%A9butant/</link>
     <description>Recent content in Débutant on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 19 Dec 2025 10:00:00 +0100</lastBuildDate>
-    <atom:link href="/tags/d%C3%A9butant/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/d%C3%A9butant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maîtriser le Triangle d&#39;Exposition : Le guide ultime du photographe</title>
-      <link>/posts/triangle-exposition/</link>
+      <link>//localhost:1313/posts/triangle-exposition/</link>
       <pubDate>Fri, 19 Dec 2025 10:00:00 +0100</pubDate>
-      <guid>/posts/triangle-exposition/</guid>
+      <guid>//localhost:1313/posts/triangle-exposition/</guid>
       <description>Apprenez à équilibrer l&amp;#39;ouverture, la vitesse d&amp;#39;obturation et l&amp;#39;ISO pour réussir toutes vos photos. Le secret pour sortir du mode automatique.</description>
     </item>
     <item>
       <title>Le Meilleur Appareil Photo pour Débuter en 2026 : Hybride vs Reflex</title>
-      <link>/posts/guide-photo-debutant/</link>
-      <pubDate>Mon, 01 Dec 2025 09:00:00 +0100</pubDate>
-      <guid>/posts/guide-photo-debutant/</guid>
-      <description>Notre guide complet pour choisir votre premier appareil photo en 2026. Découvrez les différences clés entre Hybride et Reflex, et quel modèle choisir pour commencer votre aventure photographique.</description>
+      <link>//localhost:1313/posts/guide-photo-debutant/</link>
+      <pubDate>Mon, 15 Dec 2025 08:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/guide-photo-debutant/</guid>
+      <description>Notre guide complet pour choisir votre premier appareil photo en 2026. Découvrez les différences clés entre Hybride et Reflex, et quel modèle choisir.</description>
     </item>
   </channel>
 </rss>
