@@ -2,7 +2,10 @@
 title: "À Propos"
 date: 2025-12-13T16:00:00+01:00
 description: "Découvrez l'expertise derrière Le Réglage Parfait : votre ressource dédiée à la précision technique et à l'excellence optique."
-layout: "simple"
+cover:
+    image: "/images/optique-about.webp"
+    alt: "Objectif photo de précision - Le Réglage Parfait"
+    relative: false
 ---
 
 # L'obsession de la précision numérique
@@ -23,8 +26,8 @@ Ce site n'est pas une simple collection d'articles. C'est une base de connaissan
 
 ### Ce que vous allez maîtriser ici
 
-1. **Le Matériel :** Choisir l'outil juste, du trépied carbone à l'optique fixe ultra-lumineuse.
-2. **La Technique :** Dompter le triangle d'exposition et comprendre les limites de votre capteur.
+1. **Le Matériel :** Choisir l'outil juste, du **[trépied carbone](/posts/guide-trepied/)** à l'optique fixe ultra-lumineuse.
+2. **La Technique :** Dompter le **[triangle d'exposition](/posts/triangle-exposition/)** et comprendre les limites de votre capteur.
 3. **La Vision :** Utiliser la technique au service de la composition pour sculpter vos images.
 
 *Le Réglage Parfait* est plus qu'un site : c'est votre partenaire dans votre quête de la netteté absolue et de la narration visuelle.
