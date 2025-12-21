@@ -41,21 +41,21 @@ L'absence de mécanisme de zoom permet aux ingénieurs d'optimiser chaque lentil
 C'est l'objectif idéal pour débuter. Léger, abordable et performant. Il est particulièrement recommandé pour la **[photographie de nuit](/posts/photographie-de-nuit/)** grâce à sa grande ouverture.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/4pzjniV" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Sony 50mm f/1.8 sur Amazon</a>
+    <a href="https://amzn.to/4qpp6bi" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Sony 50mm f/1.8 sur Amazon</a>
 </div>
 
 #### Le Roi du Portrait : Sigma 85mm f/1.4 DG DN Art
 Pour un piqué chirurgical et un flou d'arrière-plan professionnel.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/4jgtbMJ" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">👑 Voir le Sigma 85mm f/1.4 sur Amazon</a>
+    <a href="https://amzn.to/4j8F1Ik" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">👑 Voir le Sigma 85mm f/1.4 sur Amazon</a>
 </div>
 
 #### Le Polyvalent : Tamron 35mm f/2.8
 Parfait pour la photo de rue et le reportage au quotidien.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/4oUvYMC" style="background-color: #e67e22; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🌆 Voir le Tamron 35mm sur Amazon</a>
+    <a href="https://amzn.to/4anj5XP" style="background-color: #e67e22; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🌆 Voir le Tamron 35mm sur Amazon</a>
 </div>
 
 ---

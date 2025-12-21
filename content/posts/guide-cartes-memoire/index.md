@@ -34,22 +34,22 @@ C'est l'indicateur le plus fiable aujourd'hui pour la vidéo et la photo haute r
 C'est la carte que nous recommandons à 90% des photographes. Fiable, rapide et universelle.
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
-    <a href="https://amzn.to/44XPz7m" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">💾 Modèle 64 Go sur Amazon</a>
-    <a href="https://amzn.to/4agqOa8" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">💾 Modèle 128 Go sur Amazon</a>
+    <a href="https://amzn.to/4sgbhOb" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">💾 Modèle 64 Go sur Amazon</a>
+    <a href="https://amzn.to/3MP35nJ" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">💾 Modèle 128 Go sur Amazon</a>
 </div>
 
 #### 💎 La Performance Pure : Sony Tough G (V90)
 Quasiment incassable et ultra-rapide. C'est le choix des professionnels qui ne veulent prendre aucun risque sur le terrain.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/3KRTJH1" style="background-color: #3498db; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🚀 Voir la Sony Tough V90 sur Amazon</a>
+    <a href="https://amzn.to/4p2slUP" style="background-color: #3498db; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🚀 Voir la Sony Tough V90 sur Amazon</a>
 </div>
 
 #### ⚡ L'Alternative Pro : Lexar Professional 2000x (V90)
 Une vitesse de lecture exceptionnelle pour gagner un temps précieux lors du transfert de vos fichiers lourds vers votre PC.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/4pDToHp" style="background-color: #e67e22; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">⚙️ Voir la Lexar 2000x sur Amazon</a>
+    <a href="https://amzn.to/48RQgBC" style="background-color: #e67e22; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">⚙️ Voir la Lexar 2000x sur Amazon</a>
 </div>
 
 ---

@@ -20,7 +20,7 @@ Le filtre polarisant est l'outil indispensable pour redonner du contraste à vos
 * **Usage :** Indispensable pour réussir vos règles de **[composition](/posts/guide-composition/)** lors de prises de vues près de plans d'eau.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/4pzjniV" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">💎 Voir les Filtres Polarisants sur Amazon</a>
+    <a href="https://amzn.to/4s6rEg0" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">💎 Voir les Filtres Polarisants sur Amazon</a>
 </div>
 
 ---
@@ -34,7 +34,7 @@ Le filtre ND réduit la quantité de lumière entrant dans l'objectif. C'est le 
 > **💡 Rappel technique :** L'utilisation d'un filtre ND impacte directement votre **[Triangle d'Exposition](/posts/triangle-exposition/)**. En bloquant la lumière, vous devrez compenser par un temps de pose plus long.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/4pzjniV" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🌊 Voir les Filtres ND sur Amazon</a>
+    <a href="https://amzn.to/4sdKySo" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🌊 Voir les Filtres ND sur Amazon</a>
 </div>
 
 ---

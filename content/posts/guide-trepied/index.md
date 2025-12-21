@@ -31,22 +31,22 @@ Avant d'investir, voici les points techniques à vérifier pour ne pas regretter
 Un choix judicieux pour débuter : robuste, convertible en monopode, il offre une flexibilité rare à ce prix.
 
 <div style="text-align: center; margin: 25px 0;">
-    <a href="https://amzn.to/4pSGq8L" style="background-color: #2ecc71; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Trépied K&F sur Amazon</a>
+    <a href="https://amzn.to/4pbPNPJ" style="background-color: #2ecc71; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Trépied K&F sur Amazon</a>
 </div>
 
 #### 💎 Performance et Légèreté : Manfrotto Befree Carbone
 Pour les photographes de randonnée ou de voyage, c'est la référence. Son poids plume n'enlève rien à sa stabilité exemplaire.
 
 <div style="text-align: center; margin: 25px 0;">
-    <a href="https://amzn.to/4s5N7WA" style="background-color: #3498db; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🌍 Voir le Manfrotto Carbone sur Amazon</a>
+    <a href="https://amzn.to/3Ndzq7G" style="background-color: #3498db; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🌍 Voir le Manfrotto Carbone sur Amazon</a>
 </div>
 
 #### 📡 Accessoire indispensable : Le Déclencheur à distance
 Même sur un trépied haut de gamme, la pression du doigt sur le bouton déclencheur peut engendrer un micro-flou de bougé. Utilisez une télécommande ou le retardateur de votre boîtier :
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
-    <a href="https://amzn.to/3MyflJg" style="background-color: #e67e22; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;" target="_blank" rel="sponsored">Version Canon</a>
-    <a href="https://amzn.to/3Yy6zxm" style="background-color: #e67e22; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;" target="_blank" rel="sponsored">Version Sony</a>
+    <a href="https://amzn.to/4p4KJfG" style="background-color: #e67e22; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;" target="_blank" rel="sponsored">Version Canon</a>
+    <a href="https://amzn.to/4se8apW" style="background-color: #e67e22; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;" target="_blank" rel="sponsored">Version Sony</a>
 </div>
 
 ---

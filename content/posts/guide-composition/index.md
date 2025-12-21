@@ -51,7 +51,7 @@ La composition, c'est aussi savoir gérer le vide.
 C'est l'ouvrage de référence absolu pour comprendre la psychologie de l'image. Indispensable pour passer du stade d'amateur à celui d'artiste.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/3MQ6pPq" style="background-color: #e67e22; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📖 Voir le livre sur Amazon</a>
+    <a href="https://amzn.to/4qfKFec" style="background-color: #e67e22; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📖 Voir le livre sur Amazon</a>
 </div>
 
 ---

@@ -31,7 +31,7 @@ Le secret réside dans l'équilibre précis de votre **[triangle d'exposition](/
 
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/3Y6gNF7" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🔭 Trouver un trépied stable pour la nuit</a>
+    <a href="https://www.amazon.fr/s?k=trepied+stable&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3PT597AAD1963&sprefix=trepied+stab%2Caps%2C280&linkCode=ll2&tag=lereglageparfait-21&linkId=327831087954c1e35919989d567d194a&language=fr_FR&ref_=as_li_ss_tl" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🔭 Trouver un trépied stable pour la nuit</a>
 </div>
 
 ---

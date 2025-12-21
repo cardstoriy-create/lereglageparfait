@@ -27,14 +27,14 @@ C'est le facteur déterminant entre un objectif amateur et un modèle profession
 C'est l'objectif de voyage ultime. Il remplace trois objectifs à lui seul sans sacrifier la qualité d'image.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/4s7HCXj" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🌍 Voir le Tamron 28-200mm sur Amazon</a>
+    <a href="https://amzn.to/4j8XjJL" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🌍 Voir le Tamron 28-200mm sur Amazon</a>
 </div>
 
 #### 🏆 Le Standard Pro : Sigma 70-200mm f/2.8 Sports
 Indispensable pour le portrait, le sport et l'animalier. Son ouverture constante f/2.8 permet de photographier même en basse lumière.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/44z7Ho8" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Sigma 70-200mm sur Amazon</a>
+    <a href="https://amzn.to/4qpp9Uw" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Sigma 70-200mm sur Amazon</a>
 </div>
 
 ---
