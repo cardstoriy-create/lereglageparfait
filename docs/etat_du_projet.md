@@ -1,17 +1,34 @@
-# État du Projet - lereglageparfait.com
-**Date :** 21 décembre 2025
-**Statut :** Structure Validée & Déployée
+# 📔 Journal de Bord - lereglageparfait.com
+**Dernière mise à jour :** 21 décembre 2025  
+**Statut actuel :** Architecture validée, contenu déployé, phase de debug visuel.
 
-## Configuration Technique
-- Thème PaperMod : Menu nav-materiel fonctionnel.
-- SEO : Balises Alt OK, format WebP OK.
-- Maillage : Silos en place (à surveiller pour éviter les liens hors-catégories).
+---
 
-## Décisions Techniques
-- Utilisation systématique du champ 'description' dans le Front Matter.
-- Priorité à la sémantique des noms de fichiers images.
+## 🛠️ Configuration & Inventaire Technique
+- **Thème :** PaperMod avec personnalisations (`custom.css`, `extend_head.html`).
+- **Configuration Hugo :** `canonifyURLs = false` (pour corriger les chemins médias), `params.cover` configuré pour afficher les images.
+- **Assets :** - Favicons complets.
+    - PDF "Checklist photo de nuit" dans `/static/downloads/`.
+    - Images critiques (`header.webp`, `optique-about.webp`) dans `/static/images/`.
 
-## Prochaines étapes
-1. Vérifier la présence de la balise <meta description> sur la Home.
-2. Créer une page "À Propos" pour renforcer l'E-E-A-T (Expertise, Autorité).
-3. Lancer la recherche de mots-clés pour le prochain "Topic Cluster".
+## 📝 État du Contenu (12 Articles Piliers)
+Tous les articles sont structurés en **Page Bundles** (Dossier + `index.md` + images locales) :
+- **Technique :** Triangle d'exposition, Guide débutant, Composition.
+- **Matériel :** Focale fixe, Objectif Zoom, Filtre ND, Filtre Diffusion, Flash, Trépied, Cartes mémoire.
+- **Pratique & Guides :** Photo de nuit, Checklist sac photo (1000€).
+- **Institutionnel :** Page "À Propos" (`/about/`) rédigée avec un ton E-E-A-T.
+
+## ⚙️ Décisions Techniques & SEO
+- **SEO :** Utilisation systématique du champ `description` et balises `alt` descriptives.
+- **Performance :** Format **WebP** généralisé pour toutes les images.
+- **Structure :** URL de la page À Propos fixée sur `/about/`. Maillage interne en silos (en cours de vérification).
+
+## ✅ Réalisations de la session
+- Déploiement réussi de la page À Propos et du fichier de configuration corrigé.
+- Validation de l'accessibilité des médias en ligne (URL directe OK).
+- Nettoyage du Front Matter (suppression du `layout: simple`).
+
+## 📌 Points en suspens (Backlog)
+1. **Bug Visuel :** Finaliser l'affichage de l'image de couverture sur `/about/` (test de l'insertion Markdown directe si le Front Matter échoue).
+2. **Audit Silos :** Vérifier que les liens internes entre les 12 articles ne sortent pas de leurs catégories respectives.
+3. **Optimisation :** Vérifier l'affichage du `profileMode` (logo et boutons) sur la page d'accueil.
