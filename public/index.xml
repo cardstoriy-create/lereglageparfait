@@ -6,8 +6,15 @@
     <description>Recent content in Le Réglage Parfait | Expertise Technique &amp; Matériel Photo on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 20 Dec 2025 10:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le Sac Photo Idéal à moins de 1000€ : La Checklist Complète</title>
+      <link>http://localhost:1313/posts/checklist-sac-photo-1000-euros/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/checklist-sac-photo-1000-euros/</guid>
+      <description>Comment constituer un kit photo complet et performant (boîtier, trépied, filtres) sans dépasser 1000 euros.</description>
+    </item>
     <item>
       <title>Guide des Filtres Photo : ND, CPL et leur impact sur vos images</title>
       <link>http://localhost:1313/posts/guide-filtre/</link>
@@ -16,18 +23,18 @@
       <description>Apprenez à utiliser les filtres ND pour les poses longues et les filtres CPL pour supprimer les reflets.</description>
     </item>
     <item>
-      <title>Guide des Filtres Photo : ND, CPL et leur impact sur vos images</title>
-      <link>http://localhost:1313/posts/guide-objectif-zoom/</link>
-      <pubDate>Sat, 20 Dec 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/guide-objectif-zoom/</guid>
-      <description>Apprenez à utiliser les filtres ND pour les poses longues et les filtres CPL pour supprimer les reflets.</description>
-    </item>
-    <item>
       <title>Photographie de Nuit : Le Guide Complet pour Dompter l&#39;Obscurité</title>
       <link>http://localhost:1313/posts/photographie-de-nuit/</link>
       <pubDate>Fri, 19 Dec 2025 18:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/photographie-de-nuit/</guid>
       <description>Réussissez vos photos de nuit : réglages experts, gestion du bruit numérique et techniques de pose longue pour sublimer l&amp;#39;obscurité.</description>
+    </item>
+    <item>
+      <title>Guide Objectif Zoom : Maîtriser les focales et maximiser la netteté</title>
+      <link>http://localhost:1313/posts/guide-objectif-zoom/</link>
+      <pubDate>Fri, 19 Dec 2025 11:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/guide-objectif-zoom/</guid>
+      <description>Choisir un zoom et garantir une image parfaite : techniques de stabilisation, pièges à éviter et astuces pour tirer le meilleur de votre objectif.</description>
     </item>
     <item>
       <title>Guide du Flash Cobra : Sublimer vos Photos sans l&#39;effet &#39;Fromage Blanc&#39;</title>

@@ -5,7 +5,9 @@ draft: false
 description: "Choisir un zoom et garantir une image parfaite : techniques de stabilisation, pièges à éviter et astuces pour tirer le meilleur de votre objectif."
 tags: ["materiel", "Objectif", "Zoom", "Technique"]
 categories: ["materiel-pro", "Techniques"]
-featured_image: "/posts/guide-objectif-zoom/objectif-zoom-couverture.webp"
+cover:
+    image: "objectif-zoom-couverture.webp"
+    relative: true
 ---
 
 L'objectif zoom est l'allié de la polyvalence. Capable de couvrir une large gamme de focales, il est souvent l'investissement le plus important après le boîtier. Cependant, sa complexité optique exige une technique rigoureuse pour garantir une netteté maximale.
@@ -19,12 +21,21 @@ C'est le facteur déterminant entre un objectif amateur et un modèle profession
 
 ---
 
-### 2. Notre Sélection Zoom 2025
+### 2. Notre Sélection Zoom 2025 (Affiliation)
 
-| Modèle | Points Forts | Verdict |
-| :--- | :--- | :--- |
-| **Sigma 70-200mm f/2.8** | Sport & Portrait | [Voir sur Amazon](https://amzn.to/3Zg7Y2R) |
-| **Tamron 28-200mm** | Voyage (Polyvalent) | [Voir sur Amazon](https://amzn.to/4gYm468) |
+#### 🚀 Le Roi de la Polyvalence : Tamron 28-200mm f/2.8-5.6
+C'est l'objectif de voyage ultime. Il remplace trois objectifs à lui seul sans sacrifier la qualité d'image.
+
+<div style="text-align: center; margin: 20px 0;">
+    <a href="https://amzn.to/4gYm468" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🌍 Voir le Tamron 28-200mm sur Amazon</a>
+</div>
+
+#### 🏆 Le Standard Pro : Sigma 70-200mm f/2.8 Sports
+Indispensable pour le portrait, le sport et l'animalier. Son ouverture constante f/2.8 permet de photographier même en basse lumière.
+
+<div style="text-align: center; margin: 20px 0;">
+    <a href="https://amzn.to/3Zg7Y2R" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Sigma 70-200mm sur Amazon</a>
+</div>
 
 ---
 
@@ -33,8 +44,5 @@ C'est le facteur déterminant entre un objectif amateur et un modèle profession
 * **Le "Sweet Spot" :** Un objectif est rarement au maximum de sa netteté à sa pleine ouverture. Fermez d'un ou deux crans (ex: passez de f/2.8 à f/4) pour gagner en piqué.
 * **La Règle du 1/focale :** À main levée, votre vitesse d'obturation doit être au moins égale à l'inverse de votre focale. À 200mm, shootez au minimum à 1/200s. Si la lumière manque, l'usage d'un **[trépied](/posts/guide-trepied/)** devient obligatoire.
 
-
-
 ## Conclusion
 Le zoom vous offre la liberté, mais la netteté demande de la discipline. En comprenant les limites de votre objectif, vous transformerez des clichés banals en images professionnelles.
-

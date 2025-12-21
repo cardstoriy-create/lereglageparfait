@@ -6,21 +6,23 @@ description: "Apprenez à utiliser les filtres ND pour les poses longues et les 
 tags: ["materiel", "Filtres", "ND", "CPL", "Longue Pose"]
 categories: ["materiel-pro", "Techniques"]
 cover:
-    image: "filtres-couverture.webp"
+    image: "filtres-nd-couverture.webp"
     relative: true
 ---
 
-Les filtres sont les lunettes de soleil de votre objectif. Ils permettent de réaliser des clichés impossibles à obtenir par simple retouche numérique.
+Les filtres sont les lunettes de soleil de votre objectif. Ils permettent de réaliser des clichés impossibles à obtenir par simple retouche numérique, en agissant directement sur la physique de la lumière.
 
 ### 1. Le Filtre CPL (Polarisant)
-Il supprime les reflets sur l'eau et les vitres tout en saturant le bleu du ciel. Indispensable en paysage.
+Il supprime les reflets sur l'eau et les vitres tout en saturant le bleu du ciel. C'est l'outil indispensable pour redonner du contraste à vos paysages sans passer des heures en post-traitement.
 
 <div style="text-align: center; margin: 20px 0;">
     <a href="https://amzn.to/4pzjniV" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">💎 Voir les Filtres Polarisants sur Amazon</a>
 </div>
 
 ### 2. Le Filtre ND (Densité Neutre)
-Il réduit la quantité de lumière entrant dans l'objectif pour permettre des poses longues en plein jour (effet "coton" sur l'eau).
+Le filtre ND réduit la quantité de lumière entrant dans l'objectif. Il vous permet de ralentir votre vitesse d'obturation sans surexposer votre image, même en plein soleil. C'est le secret derrière l'effet "eau de coton". 
+
+> **💡 Rappel technique :** L'utilisation d'un filtre ND impacte directement votre **[Triangle d'Exposition](/posts/triangle-exposition/)**. Préparez-vous à allonger votre temps de pose !
 
 <div style="text-align: center; margin: 20px 0;">
     <a href="https://amzn.to/4pzjniV" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🌊 Voir les Filtres ND sur Amazon</a>
@@ -29,4 +31,4 @@ Il réduit la quantité de lumière entrant dans l'objectif pour permettre des p
 ---
 
 ## Conclusion
-Un bon filtre protège votre lentille et sublime vos paysages. C'est le compagnon idéal de votre **[objectif fixe](/posts/guide-focale-fixe/)**.
+Un bon filtre protège votre lentille et sublime vos paysages. C'est le compagnon idéal de votre **[focale fixe](/posts/guide-focale-fixe/)** ou de votre **[zoom polyvalent](/posts/guide-objectif-zoom/)**.
