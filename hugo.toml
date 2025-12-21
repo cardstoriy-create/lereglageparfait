@@ -3,7 +3,7 @@ languageCode = "fr-fr"
 title = "Le Réglage Parfait"
 theme = "PaperMod"
 
-# --- CONFIGURATION DES URLS (Correction Sitemap) ---
+# --- CONFIGURATION DES URLS ---
 canonifyURLs = true
 relativeURLs = false
 preserveTaxonomyNames = false
@@ -50,6 +50,12 @@ preserveTaxonomyNames = false
     showPostNavButtons = true
     showPageNums = true
     showToc = true
+
+    # --- CONFIGURATION DES IMAGES DE COUVERTURE (CORRECTION) ---
+    [params.cover]
+        hidden = false           # Affiche l'image sur la page de l'article
+        hiddenInList = false     # Affiche l'image dans les listes d'articles
+        hiddenInSingle = false   # Force l'affichage sur la page seule
 
     # --- CONFIGURATION FAVICON ---
     favicon = "favicon.ico"
