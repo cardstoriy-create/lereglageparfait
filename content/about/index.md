@@ -2,10 +2,11 @@
 title: "À Propos du Réglage Parfait"
 date: 2025-12-13T16:00:00+01:00
 description: "Découvrez notre mission : rendre la technique photo accessible pour vous aider à maîtriser chaque réglage et obtenir des résultats impeccables."
+# --- CONFIGURATION BUNDLE ---
 cover:
-    image: "/images/optique-about.webp"
-    alt: "Optique photo professionnelle"
-    relative: false # Car l'image est dans le dossier /static/images/
+    image: "optique-about.webp" # On ne met pas de slash, l'image est juste à côté
+    alt: "Optique photo professionnelle - Le Réglage Parfait"
+    relative: true # Très important : indique à Hugo que l'image est dans le dossier de la page
 ---
 
 ## Notre Mission : L'Excellence Optique à Portée de Main
