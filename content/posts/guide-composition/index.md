@@ -7,6 +7,7 @@ tags: ["Composition", "Technique", "Cadrage", "Conseils"]
 categories: ["Techniques", "Débuter"]
 cover:
     image: "composition-cover.webp"
+    alt: "Illustration des règles de composition photographique"
     relative: true
 ---
 
@@ -39,7 +40,7 @@ La composition, c'est aussi savoir gérer le vide.
 
 ![Symétrie et espace négatif](composition-symetrie.webp)
 
-* **La Symétrie :** Idéale pour l'architecture. Pour des reflets parfaits sur l'eau, n'oubliez pas d'utiliser un **[filtre polarisant](/posts/guide-filtre/)** afin de supprimer les reflets parasites.
+* **La Symétrie :** Idéale pour l'architecture. Pour des reflets parfaits sur l'eau, n'oubliez pas d'utiliser un **[filtre polarisant](/posts/guide-filter/)** afin de supprimer les reflets parasites.
 * **L'Espace Négatif :** Laissez de l'espace vide autour de votre sujet. Cela permet à l'image de "respirer" et renforce l'importance de l'élément central.
 
 ---
@@ -49,4 +50,12 @@ La composition, c'est aussi savoir gérer le vide.
 #### 📚 La Bible du Cadrage : "L'œil du photographe" (M. Freeman)
 C'est l'ouvrage de référence absolu pour comprendre la psychologie de l'image. Indispensable pour passer du stade d'amateur à celui d'artiste.
 
-<div style="text-align: center; margin
+<div style="text-align: center; margin: 20px 0;">
+    <a href="https://amzn.to/3PBy3D0" style="background-color: #e67e22; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📖 Voir le livre sur Amazon</a>
+</div>
+
+---
+
+## Conclusion
+
+La technique vous donne la photo, mais la composition vous donne l'image. En appliquant ces règles simples, vous donnez une structure et un message à vos clichés. N'oubliez pas qu'une fois ces règles maîtrisées, le plus grand plaisir du photographe est de savoir quand les briser pour aff
