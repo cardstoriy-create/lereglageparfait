@@ -28,7 +28,12 @@ Tous les articles sont structurés en **Page Bundles** (Dossier + `index.md` + i
 - Validation de l'accessibilité des médias en ligne (URL directe OK).
 - Nettoyage du Front Matter (suppression du `layout: simple`).
 
-## 📌 Points en suspens (Backlog)
-1. **Bug Visuel :** Finaliser l'affichage de l'image de couverture sur `/about/` (test de l'insertion Markdown directe si le Front Matter échoue).
-2. **Audit Silos :** Vérifier que les liens internes entre les 12 articles ne sortent pas de leurs catégories respectives.
-3. **Optimisation :** Vérifier l'affichage du `profileMode` (logo et boutons) sur la page d'accueil.
+## ✅ Réalisations
+- Fix structurel : Passage de la page About en Page Bundle (dossier).
+- Validation de l'affichage de l'image de couverture en production.
+- Nettoyage des fichiers doublons à la racine de /content/.
+
+## ✅ Réalisations
+- Optimisation SEO de l'article "Triangle d'Exposition".
+- Création d'un maillage interne circulaire (Technique <-> Matériel).
+- Validation de l'image de couverture en mode relatif.
