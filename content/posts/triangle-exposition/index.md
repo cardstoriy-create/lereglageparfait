@@ -21,18 +21,15 @@ L'exposition est la quantité de lumière qui atteint le capteur. Imaginez un ro
 ### 1. L'Ouverture (le diaphragme)
 Elle détermine le diamètre de passage de la lumière à travers l'objectif. Elle se note en "f-stop" ($f/N$).
 
-* **Grande ouverture ($f/1.4$ à $f/2.8$) :** Laisse entrer énormément de lumière. Elle réduit la profondeur de champ, créant ce flou d'arrière-plan (bokeh) si recherché.
-* **Petite ouverture ($f/11$ à $f/16$) :** Laisse passer peu de lumière mais assure une netteté du premier plan jusqu'à l'infini.
+* **Grande ouverture (ex: $f/1.8$) :** Beaucoup de lumière entre. Cela crée un flou d'arrière-plan (bokeh) idéal pour le portrait avec une **[focale fixe](/posts/guide-focale-fixe/)**.
+* **Petite ouverture (ex: $f/11$) :** Peu de lumière entre, mais tout est net, du premier plan à l'horizon. C'est le réglage favori pour le paysage.
 
-> **💡 Conseil d'expert :** Si vous cherchez à maximiser l'ouverture pour isoler vos sujets, rien ne remplace une **[focale fixe de qualité](/posts/guide-focale-fixe/)**, souvent bien plus lumineuse que les zooms de kit.
+### 2. La Vitesse d'Obturation
+C'est la durée pendant laquelle le capteur est exposé à la lumière.
 
-### 2. La Vitesse d'Obturation (le temps de pose)
-Elle définit la durée pendant laquelle le capteur est exposé.
-
-* **Vitesse rapide ($1/1000s$ ou plus) :** Indispensable pour figer une action rapide (sport, animalier).
-* **Vitesse lente ($1/2s$ ou plusieurs secondes) :** Permet de créer des effets de filés sur l'eau ou les nuages. 
-
-**Attention :** En dessous d'une certaine vitesse, le flou de bougé est inévitable. L'usage d'un **[trépied stable](/posts/guide-trepied/)** devient alors votre seule solution pour garantir une image nette.
+* **Vitesse rapide (ex: 1/1000s) :** Figent le mouvement (sport, oiseaux).
+* **Vitesse lente (ex: 10s) :** Créent des filés de lumière ou lissent l'eau.
+* **Attention :** En dessous d'une certaine vitesse, le flou de bougé est inévitable. L'usage d'un **[trépied stable](/posts/guide-trepied/)** devient alors votre seule solution pour garantir une image nette.
 
 ### 3. La Sensibilité ISO
 Il s'agit de la capacité du capteur à amplifier le signal lumineux reçu.
@@ -40,7 +37,7 @@ Il s'agit de la capacité du capteur à amplifier le signal lumineux reçu.
 * **ISO 100 :** La base. Qualité d'image pure, sans grain (bruit numérique).
 * **ISO 3200 et plus :** Utile en basse lumière, mais au prix d'une dégradation de l'image.
 
-> **⚡ Le Conseil de l'Architecte :** Pour éviter de monter trop haut en ISO et de dégrader votre image avec du grain, la meilleure solution est d'ajouter une source de lumière artificielle. L'utilisation d'un **[Flash Cobra](/posts/guide-flash-cobra/)** vous permet de garder une netteté cristalline même dans l'obscurité totale.
+> **⚡ Le Conseil de l'Architecte :** Pour éviter de monter trop haut en ISO et de dégrader votre image avec du grain, la meilleure solution est d'ajouter une source de lumière artificielle. L'utilisation d'un **[Flash Cobra](/posts/guide-flash/)** vous permet de garder une netteté cristalline même dans l'obscurité totale.
 
 ---
 
@@ -52,4 +49,4 @@ Comprendre cet équilibre est la clé pour réussir des défis techniques comple
 
 ## Conclusion
 
-Le mode manuel n'est pas une contrainte, c'est une liberté. En manipulant ces trois curseurs, vous ne vous contentez plus de prendre une photo : vous décidez de ce qui doit être flou, net, figé ou en mouvement.
+Le mode manuel n'est pas une punition, c'est une liberté. En manipulant ces trois réglages, vous ne prenez plus seulement une photo : vous décidez de l'ambiance et du message que vous voulez transmettre.

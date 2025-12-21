@@ -2,227 +2,227 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Le Réglage Parfait</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://lereglageparfait.com/tags/</link>
     <description>Recent content in Tags on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 21 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lereglageparfait.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Budget</title>
-      <link>http://localhost:1313/tags/budget/</link>
+      <link>https://lereglageparfait.com/tags/budget/</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/budget/</guid>
+      <guid>https://lereglageparfait.com/tags/budget/</guid>
       <description></description>
     </item>
     <item>
       <title>Débutant</title>
-      <link>http://localhost:1313/tags/d%C3%A9butant/</link>
+      <link>https://lereglageparfait.com/tags/d%C3%A9butant/</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/d%C3%A9butant/</guid>
+      <guid>https://lereglageparfait.com/tags/d%C3%A9butant/</guid>
       <description></description>
     </item>
     <item>
       <title>Matériel</title>
-      <link>http://localhost:1313/tags/mat%C3%A9riel/</link>
+      <link>https://lereglageparfait.com/tags/mat%C3%A9riel/</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mat%C3%A9riel/</guid>
+      <guid>https://lereglageparfait.com/tags/mat%C3%A9riel/</guid>
       <description></description>
     </item>
     <item>
       <title>CPL</title>
-      <link>http://localhost:1313/tags/cpl/</link>
+      <link>https://lereglageparfait.com/tags/cpl/</link>
       <pubDate>Sat, 20 Dec 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/cpl/</guid>
+      <guid>https://lereglageparfait.com/tags/cpl/</guid>
       <description></description>
     </item>
     <item>
       <title>Filtres</title>
-      <link>http://localhost:1313/tags/filtres/</link>
+      <link>https://lereglageparfait.com/tags/filtres/</link>
       <pubDate>Sat, 20 Dec 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/filtres/</guid>
+      <guid>https://lereglageparfait.com/tags/filtres/</guid>
       <description></description>
     </item>
     <item>
       <title>Longue Pose</title>
-      <link>http://localhost:1313/tags/longue-pose/</link>
+      <link>https://lereglageparfait.com/tags/longue-pose/</link>
       <pubDate>Sat, 20 Dec 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/longue-pose/</guid>
+      <guid>https://lereglageparfait.com/tags/longue-pose/</guid>
       <description></description>
     </item>
     <item>
       <title>Materiel</title>
-      <link>http://localhost:1313/tags/materiel/</link>
+      <link>https://lereglageparfait.com/tags/materiel/</link>
       <pubDate>Sat, 20 Dec 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/materiel/</guid>
+      <guid>https://lereglageparfait.com/tags/materiel/</guid>
       <description></description>
     </item>
     <item>
       <title>ND</title>
-      <link>http://localhost:1313/tags/nd/</link>
+      <link>https://lereglageparfait.com/tags/nd/</link>
       <pubDate>Sat, 20 Dec 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/nd/</guid>
+      <guid>https://lereglageparfait.com/tags/nd/</guid>
       <description></description>
     </item>
     <item>
       <title>Lumière</title>
-      <link>http://localhost:1313/tags/lumi%C3%A8re/</link>
+      <link>https://lereglageparfait.com/tags/lumi%C3%A8re/</link>
       <pubDate>Fri, 19 Dec 2025 18:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/lumi%C3%A8re/</guid>
+      <guid>https://lereglageparfait.com/tags/lumi%C3%A8re/</guid>
       <description></description>
     </item>
     <item>
       <title>Nuit</title>
-      <link>http://localhost:1313/tags/nuit/</link>
+      <link>https://lereglageparfait.com/tags/nuit/</link>
       <pubDate>Fri, 19 Dec 2025 18:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/nuit/</guid>
+      <guid>https://lereglageparfait.com/tags/nuit/</guid>
       <description></description>
     </item>
     <item>
       <title>Pose Longue</title>
-      <link>http://localhost:1313/tags/pose-longue/</link>
+      <link>https://lereglageparfait.com/tags/pose-longue/</link>
       <pubDate>Fri, 19 Dec 2025 18:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/pose-longue/</guid>
+      <guid>https://lereglageparfait.com/tags/pose-longue/</guid>
       <description></description>
     </item>
     <item>
       <title>Technique</title>
-      <link>http://localhost:1313/tags/technique/</link>
+      <link>https://lereglageparfait.com/tags/technique/</link>
       <pubDate>Fri, 19 Dec 2025 18:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/technique/</guid>
+      <guid>https://lereglageparfait.com/tags/technique/</guid>
       <description></description>
     </item>
     <item>
       <title>Objectif</title>
-      <link>http://localhost:1313/tags/objectif/</link>
+      <link>https://lereglageparfait.com/tags/objectif/</link>
       <pubDate>Fri, 19 Dec 2025 11:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/objectif/</guid>
+      <guid>https://lereglageparfait.com/tags/objectif/</guid>
       <description></description>
     </item>
     <item>
       <title>Zoom</title>
-      <link>http://localhost:1313/tags/zoom/</link>
+      <link>https://lereglageparfait.com/tags/zoom/</link>
       <pubDate>Fri, 19 Dec 2025 11:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/zoom/</guid>
+      <guid>https://lereglageparfait.com/tags/zoom/</guid>
       <description></description>
     </item>
     <item>
       <title>Exposition</title>
-      <link>http://localhost:1313/tags/exposition/</link>
+      <link>https://lereglageparfait.com/tags/exposition/</link>
       <pubDate>Fri, 19 Dec 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/exposition/</guid>
+      <guid>https://lereglageparfait.com/tags/exposition/</guid>
       <description></description>
     </item>
     <item>
       <title>Flash</title>
-      <link>http://localhost:1313/tags/flash/</link>
+      <link>https://lereglageparfait.com/tags/flash/</link>
       <pubDate>Fri, 19 Dec 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/flash/</guid>
+      <guid>https://lereglageparfait.com/tags/flash/</guid>
       <description></description>
     </item>
     <item>
       <title>Portrait</title>
-      <link>http://localhost:1313/tags/portrait/</link>
+      <link>https://lereglageparfait.com/tags/portrait/</link>
       <pubDate>Fri, 19 Dec 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/portrait/</guid>
+      <guid>https://lereglageparfait.com/tags/portrait/</guid>
       <description></description>
     </item>
     <item>
       <title>Triangle D&#39;exposition</title>
-      <link>http://localhost:1313/tags/triangle-dexposition/</link>
+      <link>https://lereglageparfait.com/tags/triangle-dexposition/</link>
       <pubDate>Fri, 19 Dec 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/triangle-dexposition/</guid>
+      <guid>https://lereglageparfait.com/tags/triangle-dexposition/</guid>
       <description></description>
     </item>
     <item>
       <title>Appareil Photo</title>
-      <link>http://localhost:1313/tags/appareil-photo/</link>
+      <link>https://lereglageparfait.com/tags/appareil-photo/</link>
       <pubDate>Mon, 15 Dec 2025 08:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/appareil-photo/</guid>
+      <guid>https://lereglageparfait.com/tags/appareil-photo/</guid>
       <description></description>
     </item>
     <item>
       <title>Guide Achat</title>
-      <link>http://localhost:1313/tags/guide-achat/</link>
+      <link>https://lereglageparfait.com/tags/guide-achat/</link>
       <pubDate>Mon, 15 Dec 2025 08:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/guide-achat/</guid>
+      <guid>https://lereglageparfait.com/tags/guide-achat/</guid>
       <description></description>
     </item>
     <item>
       <title>Cadrage</title>
-      <link>http://localhost:1313/tags/cadrage/</link>
+      <link>https://lereglageparfait.com/tags/cadrage/</link>
       <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/cadrage/</guid>
+      <guid>https://lereglageparfait.com/tags/cadrage/</guid>
       <description></description>
     </item>
     <item>
       <title>Composition</title>
-      <link>http://localhost:1313/tags/composition/</link>
+      <link>https://lereglageparfait.com/tags/composition/</link>
       <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/composition/</guid>
+      <guid>https://lereglageparfait.com/tags/composition/</guid>
       <description></description>
     </item>
     <item>
       <title>Conseils</title>
-      <link>http://localhost:1313/tags/conseils/</link>
+      <link>https://lereglageparfait.com/tags/conseils/</link>
       <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/conseils/</guid>
+      <guid>https://lereglageparfait.com/tags/conseils/</guid>
       <description></description>
     </item>
     <item>
       <title>Focale Fixe</title>
-      <link>http://localhost:1313/tags/focale-fixe/</link>
+      <link>https://lereglageparfait.com/tags/focale-fixe/</link>
       <pubDate>Sun, 14 Dec 2025 09:30:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/focale-fixe/</guid>
+      <guid>https://lereglageparfait.com/tags/focale-fixe/</guid>
       <description></description>
     </item>
     <item>
       <title>Accessoire</title>
-      <link>http://localhost:1313/tags/accessoire/</link>
+      <link>https://lereglageparfait.com/tags/accessoire/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/accessoire/</guid>
+      <guid>https://lereglageparfait.com/tags/accessoire/</guid>
       <description></description>
     </item>
     <item>
       <title>Guide D&#39;achat</title>
-      <link>http://localhost:1313/tags/guide-dachat/</link>
+      <link>https://lereglageparfait.com/tags/guide-dachat/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/guide-dachat/</guid>
+      <guid>https://lereglageparfait.com/tags/guide-dachat/</guid>
       <description></description>
     </item>
     <item>
       <title>Stabilite</title>
-      <link>http://localhost:1313/tags/stabilite/</link>
+      <link>https://lereglageparfait.com/tags/stabilite/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/stabilite/</guid>
+      <guid>https://lereglageparfait.com/tags/stabilite/</guid>
       <description></description>
     </item>
     <item>
       <title>Trépied</title>
-      <link>http://localhost:1313/tags/tr%C3%A9pied/</link>
+      <link>https://lereglageparfait.com/tags/tr%C3%A9pied/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/tr%C3%A9pied/</guid>
+      <guid>https://lereglageparfait.com/tags/tr%C3%A9pied/</guid>
       <description></description>
     </item>
     <item>
       <title>Cinéma</title>
-      <link>http://localhost:1313/tags/cin%C3%A9ma/</link>
+      <link>https://lereglageparfait.com/tags/cin%C3%A9ma/</link>
       <pubDate>Sat, 13 Dec 2025 09:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/cin%C3%A9ma/</guid>
+      <guid>https://lereglageparfait.com/tags/cin%C3%A9ma/</guid>
       <description></description>
     </item>
     <item>
       <title>Guide Technique</title>
-      <link>http://localhost:1313/tags/guide-technique/</link>
+      <link>https://lereglageparfait.com/tags/guide-technique/</link>
       <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/guide-technique/</guid>
+      <guid>https://lereglageparfait.com/tags/guide-technique/</guid>
       <description></description>
     </item>
     <item>
       <title>Stockage</title>
-      <link>http://localhost:1313/tags/stockage/</link>
+      <link>https://lereglageparfait.com/tags/stockage/</link>
       <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/stockage/</guid>
+      <guid>https://lereglageparfait.com/tags/stockage/</guid>
       <description></description>
     </item>
   </channel>

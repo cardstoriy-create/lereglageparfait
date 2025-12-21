@@ -21,7 +21,7 @@ Le cœur de votre sac. Ne tombez pas dans le piège du dernier modèle à 2000�
 * **Pourquoi :** Son autofocus ultra-rapide et sa gestion parfaite du **[Triangle d'Exposition](/posts/triangle-exposition/)** en font le meilleur allié du débutant.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/4pILFYt" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Sony Alpha 6100 sur Amazon</a>
+    <a href="https://amzn.to/3BvO7rL" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Sony Alpha 6100 sur Amazon</a>
 </div>
 
 ---
@@ -43,7 +43,7 @@ C'est ici que se joue la différence entre un amateur et un photographe averti.
 ---
 
 ### 4. Protection et Filtres
-N'oubliez pas d'inclure un **[Filtre UV ou Polarisant](/posts/guide-filtres-photo/)** pour protéger vos lentilles et booster les contrastes de vos paysages.
+N'oubliez pas d'inclure un **[Filtre UV ou Polarisant](/posts/guide-filtre/)** pour protéger votre précieuse optique des rayures et sublimer vos ciels. C'est un petit investissement qui sauve des lentilles coûteuses.
 
 ## Conclusion
-Avec ce kit, vous n'avez plus d'excuses techniques. Vous avez entre les mains le réglage parfait pour 90% des situations photographiques. En investissant intelligemment, vous gardez du budget pour ce qui compte vraiment : sortir et déclencher.
+Avec ces choix, vous avez en main un kit capable de produire des images de qualité professionnelle sans vider votre compte épargne. La clé est de privilégier la qualité de l'optique et la stabilité du trépied plutôt que les gadgets électroniques du dernier boîtier à la mode.

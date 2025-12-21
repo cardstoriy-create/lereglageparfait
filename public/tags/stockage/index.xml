@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stockage on Le Réglage Parfait</title>
-    <link>http://localhost:1313/tags/stockage/</link>
+    <link>https://lereglageparfait.com/tags/stockage/</link>
     <description>Recent content in Stockage on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 14 Jan 2025 09:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/stockage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lereglageparfait.com/tags/stockage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guide Ultime des Cartes Mémoire : Comprendre les Vitesses (V30, V60, V90)</title>
-      <link>http://localhost:1313/posts/guide-cartes-memoire/</link>
+      <link>https://lereglageparfait.com/posts/guide-cartes-memoire/</link>
       <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/guide-cartes-memoire/</guid>
+      <guid>https://lereglageparfait.com/posts/guide-cartes-memoire/</guid>
       <description>Ne perdez plus jamais une photo à cause d&amp;#39;une carte lente. Tout comprendre sur les normes SD, UHS-II et nos recommandations d&amp;#39;achat.</description>
     </item>
   </channel>
