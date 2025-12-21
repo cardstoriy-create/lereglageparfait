@@ -19,9 +19,41 @@ La nuit, chaque photon compte. Pour réussir, vous devez vous appuyer sur un mat
 * **La Stabilité Absolue :** Une pose de 10 ou 30 secondes est impossible à main levée. C'est ici que votre **[trépied](/posts/guide-trepied/)** devient votre meilleur allié.
 * **L'Optique Lumineuse :** Privilégiez une **[focale fixe](/posts/guide-focale-fixe/)** avec une grande ouverture ($f/1.8$ ou $f/1.4$) pour capter la lumière sans faire exploser vos ISO.
 
+---
+
 ### 2. Les Réglages Experts (Triangle d'Exposition)
 
 Le secret réside dans l'équilibre précis de votre **[triangle d'exposition](/posts/triangle-exposition/)**. En mode manuel, voici la marche à suivre :
 
-1. **ISO :** Si vous êtes sur trépied, restez à ISO 100. Cela garantit une image pure, sans le grain disgracieux du bruit numérique.
-2. **Ouverture :** Utilisez une ouverture moyenne ($f/8$) si vous voulez transformer les lampadaires en "étoiles" (effet de diffraction), ou ouvrez au maximum pour isoler un sujet
+1. **ISO :** Si vous êtes sur trépied, restez à **ISO 100**. Cela garantit une image pure, sans le grain disgracieux du bruit numérique.
+2. **Ouverture :** Utilisez une ouverture moyenne ($f/8$) si vous voulez transformer les lampadaires en "étoiles" (effet de diffraction), ou ouvrez au maximum ($f/1.8$) pour isoler un sujet dans l'obscurité.
+3. **Temps de Pose :** C'est votre variable d'ajustement. Elle peut varier de 2 secondes pour une rue éclairée à 30 secondes pour un paysage sous la Voie Lactée.
+
+<div style="text-align: center; margin: 20px 0;">
+    <a href="https://amzn.to/3Y6gNF7" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🔭 Trouver un trépied stable pour la nuit</a>
+</div>
+
+---
+
+### 3. Astuces Pro pour des clichés nets
+
+* **Le Retardateur :** Même sur trépied, le simple fait d'appuyer sur le déclencheur crée une vibration. Utilisez le retardateur de 2 secondes ou une télécommande.
+* **La Mise au Point Manuelle :** L'autofocus patine souvent dans le noir. Passez en manuel et utilisez le "Live View" avec un zoom numérique pour faire le point sur une lumière lointaine.
+* **L'Heure Bleue :** Ne shootez pas dans le noir total. Les 30 minutes après le coucher du soleil offrent un ciel bleu profond qui équilibre magnifiquement les lumières orangées de la ville.
+
+---
+
+## 🎁 Cadeau : Votre Checklist de Terrain (PDF)
+
+Pour ne rien oublier lors de votre prochaine sortie nocturne, j'ai condensé l'essentiel de ce guide dans une **Checklist professionnelle de 2 pages**. Elle contient le résumé du matériel, les réglages types par sujet (Urbain, Astro, Feux d'artifice) et la règle des 500 pour des étoiles bien nettes.
+
+
+
+[👉 Télécharger ma Checklist Photo de Nuit (Format A4 PDF)](/downloads/checklist-photo-nuit.pdf)
+
+---
+
+## Conclusion
+La photographie de nuit demande de la patience et de la rigueur. En maîtrisant votre temps de pose et en assurant une stabilité parfaite, vous ouvrirez la porte à une créativité nouvelle, loin de l'instantanéité du smartphone.
+
+[Découvrir notre checklist complète pour s'équiper à moins de 1000€](/posts/checklist-sac-photo-1000-euros/)
