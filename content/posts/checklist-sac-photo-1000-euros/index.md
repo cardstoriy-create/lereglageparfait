@@ -21,7 +21,7 @@ Le cœur de votre sac. Ne tombez pas dans le piège du dernier modèle à 2000�
 * **Pourquoi :** Son autofocus ultra-rapide et sa gestion parfaite du **[Triangle d'Exposition](/posts/triangle-exposition/)** en font le meilleur allié du débutant.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/3BvO7rL" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Sony Alpha 6100 sur Amazon</a>
+    <a href="https://amzn.to/44GqL3M" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Sony Alpha 6100 sur Amazon</a>
 </div>
 
 ---
@@ -37,7 +37,7 @@ C'est ici que se joue la différence entre un amateur et un photographe averti.
 * **Le Guide complet :** **[Comment choisir son trépied](/posts/guide-trepied/)**.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/3Y6gNF7" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🔭 Voir les meilleurs trépieds sur Amazon</a>
+    <a href="https://amzn.to/492O0Gy" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🔭 Voir les meilleurs trépieds sur Amazon</a>
 </div>
 
 ---
