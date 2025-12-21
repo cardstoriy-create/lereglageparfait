@@ -3,10 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-12-19T18:00:00+01:00</lastmod>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cpl/</loc>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/filtres/</loc>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/guide-filtre/</loc>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/guide-objectif-zoom/</loc>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-19T18:00:00+01:00</lastmod>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/longue-pose/</loc>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/materiel/</loc>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/materiel-pro/</loc>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nd/</loc>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/techniques/</loc>
+    <lastmod>2025-12-20T10:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/lumi%C3%A8re/</loc>
     <lastmod>2025-12-19T18:00:00+01:00</lastmod>
@@ -20,32 +53,8 @@
     <loc>http://localhost:1313/tags/pose-longue/</loc>
     <lastmod>2025-12-19T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-12-19T18:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-12-19T18:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/technique/</loc>
     <lastmod>2025-12-19T18:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/techniques/</loc>
-    <lastmod>2025-12-19T18:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/guide-objectif-zoom/</loc>
-    <lastmod>2025-12-19T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/materiel/</loc>
-    <lastmod>2025-12-19T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/materiel-pro/</loc>
-    <lastmod>2025-12-19T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/objectif/</loc>
-    <lastmod>2025-12-19T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/zoom/</loc>
-    <lastmod>2025-12-19T11:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/cours-photo/</loc>
     <lastmod>2025-12-19T10:00:00+01:00</lastmod>
@@ -95,19 +104,10 @@
     <loc>http://localhost:1313/posts/guide-composition/</loc>
     <lastmod>2025-12-14T22:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/filtres/</loc>
-    <lastmod>2025-12-14T12:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/guide-filtre/</loc>
-    <lastmod>2025-12-14T12:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/longue-exposition/</loc>
-    <lastmod>2025-12-14T12:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/paysage/</loc>
-    <lastmod>2025-12-14T12:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/focale-fixe/</loc>
+    <lastmod>2025-12-14T09:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/objectif/</loc>
     <lastmod>2025-12-14T09:30:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/guide-focale-fixe/</loc>
@@ -152,8 +152,10 @@
     <loc>http://localhost:1313/tags/stockage/</loc>
     <lastmod>2025-01-14T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/guide-filtres-photo/</loc>
+    <loc>http://localhost:1313/tags/budget/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/categories/guides-dachat/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/mat%C3%A9riel/</loc>
   </url>
 </urlset>

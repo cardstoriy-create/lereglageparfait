@@ -40,6 +40,8 @@ Il s'agit de la capacité du capteur à amplifier le signal lumineux reçu.
 * **ISO 100 :** La base. Qualité d'image pure, sans grain (bruit numérique).
 * **ISO 3200 et plus :** Utile en basse lumière, mais au prix d'une dégradation de l'image.
 
+> **⚡ Le Conseil de l'Architecte :** Pour éviter de monter trop haut en ISO et de dégrader votre image avec du grain, la meilleure solution est d'ajouter une source de lumière artificielle. L'utilisation d'un **[Flash Cobra](/posts/guide-flash-cobra/)** vous permet de garder une netteté cristalline même dans l'obscurité totale.
+
 ---
 
 ## L'Art de la Réciproquité

@@ -6,21 +6,28 @@
     <description>Recent content in Le Réglage Parfait | Expertise Technique &amp; Matériel Photo on Le Réglage Parfait</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 19 Dec 2025 18:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 10:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide des Filtres Photo : ND, CPL et leur impact sur vos images</title>
+      <link>http://localhost:1313/posts/guide-filtre/</link>
+      <pubDate>Sat, 20 Dec 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/guide-filtre/</guid>
+      <description>Apprenez à utiliser les filtres ND pour les poses longues et les filtres CPL pour supprimer les reflets.</description>
+    </item>
+    <item>
+      <title>Guide des Filtres Photo : ND, CPL et leur impact sur vos images</title>
+      <link>http://localhost:1313/posts/guide-objectif-zoom/</link>
+      <pubDate>Sat, 20 Dec 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/guide-objectif-zoom/</guid>
+      <description>Apprenez à utiliser les filtres ND pour les poses longues et les filtres CPL pour supprimer les reflets.</description>
+    </item>
     <item>
       <title>Photographie de Nuit : Le Guide Complet pour Dompter l&#39;Obscurité</title>
       <link>http://localhost:1313/posts/photographie-de-nuit/</link>
       <pubDate>Fri, 19 Dec 2025 18:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/photographie-de-nuit/</guid>
       <description>Réussissez vos photos de nuit : réglages experts, gestion du bruit numérique et techniques de pose longue pour sublimer l&amp;#39;obscurité.</description>
-    </item>
-    <item>
-      <title>Guide Objectif Zoom : Maîtriser les focales et maximiser la netteté</title>
-      <link>http://localhost:1313/posts/guide-objectif-zoom/</link>
-      <pubDate>Fri, 19 Dec 2025 11:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/guide-objectif-zoom/</guid>
-      <description>Comment choisir votre zoom et garantir une image parfaite : techniques de stabilisation, pièges à éviter et astuces de pro.</description>
     </item>
     <item>
       <title>Guide du Flash Cobra : Sublimer vos Photos sans l&#39;effet &#39;Fromage Blanc&#39;</title>
@@ -49,13 +56,6 @@
       <pubDate>Sun, 14 Dec 2025 22:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/guide-composition/</guid>
       <description>Passez de la technique à l&amp;#39;art. Découvrez la Règle des Tiers, la Symétrie et comment guider le regard pour des photos captivantes.</description>
-    </item>
-    <item>
-      <title>Guide Ultime : Filtres ND et CPL pour la Longue Exposition</title>
-      <link>http://localhost:1313/posts/guide-filtre/</link>
-      <pubDate>Sun, 14 Dec 2025 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/guide-filtre/</guid>
-      <description>Maîtrisez la lumière comme un pro : guide complet sur les filtres ND (densité neutre) et polarisants (CPL) en photo et vidéo.</description>
     </item>
     <item>
       <title>Objectifs à Focale Fixe (Primes) : Le Guide pour une Qualité Optique Maximale</title>
@@ -91,17 +91,6 @@
       <pubDate>Tue, 14 Jan 2025 09:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/guide-cartes-memoire/</guid>
       <description>Ne perdez plus jamais une photo à cause d&amp;#39;une carte lente. Tout comprendre sur les normes SD, UHS-II et nos recommandations d&amp;#39;achat.</description>
-    </item>
-    <item>
-      <title>Le Guide Ultime : Filtres ND Variables et CPL Pro pour Photo et Vidéo</title>
-      <link>http://localhost:1313/post/guide-filtres-photo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/guide-filtres-photo/</guid>
-      <description>&lt;p&gt;📸 Introduction : L’Indispensable Maîtrise de la Lumière en Photo et Vidéo&lt;/p&gt;
-&lt;p&gt;Qu’est-ce qu’un Filtre ND Variable et un Filtre CPL, et Pourquoi en Avez-Vous Besoin ?&lt;/p&gt;
-&lt;p&gt;Photo vs. Vidéo : Des Exigences Différentes en Gestion de la Lumière&lt;/p&gt;
-&lt;p&gt;Objectif de ce Guide Ultime : Devenir Expert en Filtres Photo Pro
-&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

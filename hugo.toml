@@ -75,7 +75,7 @@ preserveTaxonomyNames = false
         imageHeight = 120
         
         [[params.profileMode.buttons]]
-            name = "🎁 Checklist Photo de Nuit Offerte !"
+            name = "🎁 Guide Photo de Nuit"
             url = "/posts/photographie-de-nuit/"
 
         [[params.profileMode.buttons]]
@@ -83,8 +83,8 @@ preserveTaxonomyNames = false
             url = "/tags/materiel/"
 
         [[params.profileMode.buttons]]
-            name = "🎨 Maîtriser la Composition"
-            url = "/posts/guide-composition/"
+            name = "🔺 Triangle d'Exposition"
+            url = "/posts/triangle-exposition/"
 
 [markup.goldmark.renderer]
     unsafe = true
