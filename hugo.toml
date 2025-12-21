@@ -3,7 +3,7 @@ languageCode = "fr-fr"
 title = "Le Réglage Parfait"
 theme = "PaperMod"
 
-# --- CONFIGURATION DES URLS (CORRECTION CANONIFY) ---
+# --- CONFIGURATION DES URLS ---
 canonifyURLs = false
 relativeURLs = false
 preserveTaxonomyNames = false
@@ -71,26 +71,7 @@ preserveTaxonomyNames = false
         icon = "favicon-32x32.png"
         iconHeight = 30
 
-    # Configuration du mode profil (Page d'accueil)
+    # Configuration du mode profil
     [params.profileMode]
         enabled = true
-        title = "Le Réglage Parfait 📸"
-        subtitle = "Dominez votre matériel, sublimez vos images. Guides experts pour photographes exigeants."
-        imageUrl = "logo.webp"
-        imageWidth = 120
-        imageHeight = 120
-        
-        [[params.profileMode.buttons]]
-            name = "🎁 Guide Photo de Nuit"
-            url = "/posts/photographie-de-nuit/"
-
-        [[params.profileMode.buttons]]
-            name = "📸 Nos Guides Matériel"
-            url = "/tags/materiel/"
-
-        [[params.profileMode.buttons]]
-            name = "🔺 Triangle d'Exposition"
-            url = "/posts/triangle-exposition/"
-
-[markup.goldmark.renderer]
-    unsafe = true
+        title =
