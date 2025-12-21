@@ -37,3 +37,7 @@ Tous les articles sont structurés en **Page Bundles** (Dossier + `index.md` + i
 - Optimisation SEO de l'article "Triangle d'Exposition".
 - Création d'un maillage interne circulaire (Technique <-> Matériel).
 - Validation de l'image de couverture en mode relatif.
+## ✅ Réalisations
+- Optimisation de l'article 'Photographie de Nuit'.
+- Activation du lien de téléchargement PDF.
+- Maillage retour vers le 'Triangle d'Exposition'.
