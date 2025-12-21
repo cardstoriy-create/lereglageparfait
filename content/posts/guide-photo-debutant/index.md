@@ -46,7 +46,7 @@ Le meilleur compromis entre technologie, compacité et évolutivité.
 **Premier Objectif : Le [50mm f/1.8](/posts/guide-focale-fixe/)**
 Indispensable pour découvrir le flou d'arrière-plan (bokeh).
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/4akFs0a" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir l'objectif Sony sur Amazon</a>
+    <a href="https://amzn.to/48YIPJ7" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir l'objectif Sony sur Amazon</a>
 </div>
 
 ---
@@ -56,7 +56,7 @@ Pour ceux qui cherchent le rapport qualité/prix imbattable du neuf d'entrée de
 
 **Boîtier : Canon EOS 2000D**
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://amzn.to/4s4RT6I" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🚀 Voir le Canon 2000D sur Amazon</a>
+    <a href="https://amzn.to/4pPtYql" style="background-color: #2ecc71; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🚀 Voir le Canon 2000D sur Amazon</a>
 </div>
 
 ---

@@ -31,7 +31,7 @@ Avant d'investir, voici les points techniques à vérifier pour ne pas regretter
 Un choix judicieux pour débuter : robuste, convertible en monopode, il offre une flexibilité rare à ce prix.
 
 <div style="text-align: center; margin: 25px 0;">
-    <a href="https://amzn.to/3BvO7rL" style="background-color: #2ecc71; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Trépied K&F sur Amazon</a>
+    <a href="https://amzn.to/4pSGq8L" style="background-color: #2ecc71; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">📸 Voir le Trépied K&F sur Amazon</a>
 </div>
 
 #### 💎 Performance et Légèreté : Manfrotto Befree Carbone

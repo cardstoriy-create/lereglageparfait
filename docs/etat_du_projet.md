@@ -41,3 +41,14 @@ Tous les articles sont structurés en **Page Bundles** (Dossier + `index.md` + i
 - Optimisation de l'article 'Photographie de Nuit'.
 - Activation du lien de téléchargement PDF.
 - Maillage retour vers le 'Triangle d'Exposition'.
+## ✅ Réalisations
+- Push 955e587 validé : Guide Débutant optimisé et carrefour de liens en ligne.
+- Architecture en silos (Technique/Matériel) finalisée.
+## ✅ Réalisations
+- Push 53db625 validé : Guide Composition optimisé (artistique).
+- Push 23bfd94 validé : Finalisation des guides Filtres et Cartes Mémoire.
+- Tunnel de conversion (Lead Magnet & Affiliation) 100% opérationnel.
+
+
+Mise à jour de la Mémoire du Projet :
+Journal de Bord : Continuer à consigner chaque push important avec son ID de commit et ses réalisations spécifiques, comme vous l'avez fait pour les sessions précédentes.
