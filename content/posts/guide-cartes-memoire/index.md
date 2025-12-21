@@ -17,8 +17,7 @@ Si vous venez d'acquérir votre premier boîtier via notre **[Guide de l'Apparei
 ### 1. Décrypter les Symboles : Ce qui compte vraiment
 
 #### La Classe de Vitesse Vidéo (V-Class)
-C'est l'indicateur le plus fiable aujourd'hui pour la vidéo et la photo haute résolution.
-
+C'est l'indicateur le plus fiable aujourd'hui pour la vidéo et la photo haute résolution :
 * **V30 (30 Mo/s min) :** Le standard pour débuter. Suffisant pour la photo classique et la vidéo 4K standard.
 * **V60 (60 Mo/s min) :** Le meilleur rapport qualité/prix pour les photographes sérieux pratiquant la rafale rapide.
 * **V90 (90 Mo/s min) :** L'élite. Indispensable pour la vidéo 8K ou les boîtiers pro à très haute résolution.
@@ -40,7 +39,7 @@ C'est la carte que nous recommandons à 90% des photographes. Fiable, rapide et 
 </div>
 
 #### 💎 La Performance Pure : Sony Tough G (V90)
-Quasiment incassable et ultra-rapide. C'est le choix des professionnels qui ne veulent prendre aucun risque avec leurs données sur le terrain.
+Quasiment incassable et ultra-rapide. C'est le choix des professionnels qui ne veulent prendre aucun risque sur le terrain.
 
 <div style="text-align: center; margin: 20px 0;">
     <a href="https://amzn.to/3KRTJH1" style="background-color: #3498db; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;" target="_blank" rel="sponsored">🚀 Voir la Sony Tough V90 sur Amazon</a>
@@ -59,7 +58,7 @@ Une vitesse de lecture exceptionnelle pour gagner un temps précieux lors du tra
 
 * **Formatez dans l'appareil :** Pour une intégrité parfaite, utilisez la fonction "Formater" de votre boîtier plutôt que de supprimer les fichiers manuellement sur votre ordinateur.
 * **Ne remplissez jamais à 100% :** Laissez toujours un peu d'espace libre pour éviter les erreurs d'écriture en fin de session.
-* **L'Heure du Tri :** Une fois vos photos sécurisées sur votre disque dur, n'oubliez pas de travailler votre **[Composition](/posts/guide-composition/)** pour ne garder que le meilleur de vos clichés.
+* **L'Heure du Tri :** Une fois vos photos sécurisées, n'oubliez pas de travailler votre **[Composition](/posts/guide-composition/)** pour ne garder que le meilleur de vos clichés.
 
 ## Conclusion
 
